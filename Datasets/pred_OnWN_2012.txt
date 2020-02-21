@@ -1,0 +1,1500 @@
+render one language in another language	(another, render, language, one, </s>, )	restate (words) from one language into another language.
+	(another, restate, language, one, </s>, )	3.496270444481404
+nations unified by shared interests, history or institutions	(interests, unified, shared, nations, )	a group of nations having common interests.
+	(interests, common, mercifully_spared, nations, )	2.7649803550670744
+convert into absorbable substances, (as if) with heat or chemical process	(heat, process, chemical, absorbable, convert, )	soften or disintegrate by means of chemical action, heat, or moisture.
+	(heat, means, chemical, soften, falter, )	2.5615825885507957
+devote or adapt exclusively to an skill, study, or work	(devote, work, exclusively, skill, adapt, )	devote oneself to a special area of work.
+	(devote, work, special, oneself, oneself, )	2.2184171594980744
+elevated wooden porch of a house	(porch, wooden, house, elevated, )	a porch that resembles the deck on a ship.
+	(porch, resembles, ship, deck, )	1.555126844236698
+either half of an archery bow	(either, bow, half, archery, )	either of the two halves of a bow from handle to tip.
+	(either, bow, halves, Scottish_Saltire, )	3.036875360683183
+a removable device that is an accessory to larger object	(accessory, larger, removable, )	a supplementary part or accessory.
+	(accessory, part, supplementary, )	1.9745371658508344
+restrict or confine	(restrict, confine, )	place limits on (extent or access).
+	(limits, extent, )	1.3729963862547128
+orient, be positioned	(  )	be opposite.
+	(  )	2.2109956434734777
+Bring back to life, return from the dead	(dead, life, Bring, )	cause to become alive again.
+	(alive, become, cause, )	0.9322875364156273
+anything illusory, not concrete or real	(concrete, anything, illusory, )	something with no concrete substance.
+	(concrete, something, substance, )	2.8418625822693118
+a name or trait that identifies a product or type of thing	(name, product, type, trait, )	a name given to a product or service.
+	(name, product, given, given, )	2.5461358720506846
+the processing or operation of something	(something, processing, something, )	a set sequence of steps, part of larger computer program.
+	(program, computer, steps, )	1.062970661992034
+line, cover	(cover, line, )	cover the front or surface of.
+	(cover, front, )	3.288550379756368
+determine a standard; estimate a capacity or measurement	(estimate, capacity, )	estimate the value of.
+	(estimate, value, )	3.0397391015686073
+an interpretation, an account or reading of an event or situation	(interpretation, interpretation, event, reading, account, )	a mental representation of the meaning or significance of something.
+	(something, meaning, significance, meaning, significance, )	0.6379048599422518
+festive social event, celebration	(social, celebration, event, festive, )	an occasion on which people can assemble for social interaction and entertainment.
+	(social, occasion, interaction, people, )	1.7925556733220127
+Make fine adjustments to for optimal    operation; adjust to a certain scale.	(adjustments, Make, scale, optimal, adjust, )	make fine adjustments or divide into marked intervals for optimal measuring.
+	(adjustments, make, measuring, optimal, Neofonie_casts, )	2.8112819387487273
+a short lyric or poem intended to be sung	(lyric, sung, poem, intended, )	a narrative song with a recurrent refrain.
+	(song, sensation_Colbie_Caillat, narrative, J.Burton_###-###, )	1.244319400541602
+effectively wield or manipulate a concrete entity	(effectively, wield, )	handle effectively.
+	(effectively, handle, )	3.0468421196646673
+employ or become employed in a position	(position, employ, employed, become, )	appoint someone to (a position or a job).
+	(position, appoint, job, someone, )	1.7146370832663662
+group of people defined by a specific profession	(group, people, defined, specific, profession, )	organization of performers and associated personnel (especially theatrical).
+	(organization, associated, associated, Ben_Kieckhefer_Gibbons, theatrical, )	1.0169119640836966
+storage cabinet furniture	(furniture, storage, cabinet, )	office furniture consisting of a container for keeping papers in order.
+	(furniture, container, office, )	2.50994806615837
+Signal (approval or interest) by winking; briefly shut one eye.	(winking, Signal, )	signal by winking.
+	(winking, signal, )	3.4937186398065587
+capital stock in a corporation	(capital, capital, stock, )	any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate.
+	(capital, capital, stock, )	4.999999999999998
+prove or corroborate	(corroborate, prove, )	establish or strengthen as with new evidence or facts.
+	(evidence, establish, )	1.7620874287134989
+(the content of) a communication.	(communication, content, )	a communication (usually brief) that is written or spoken or signaled.
+	(communication, written, )	2.656461104961033
+a partial denture	(denture, partial, )	a denture anchored to teeth on either side of missing teeth.
+	(denture, either, )	2.9452874284826907
+move to a lower position, terminate something	(terminate, something, )	terminate an association with.
+	(terminate, association, )	2.474958335426663
+flow, as of liquids	(liquids, flow, )	reduce or cause to be reduced from a solid to a liquid state, usually by heating.
+	(liquid, heating, )	1.6305612211645286
+seal, insulate or protect	(insulate, insulate, seal, )	treat the body or any part of it by wrapping it, as with blankets or sheets, and applying compresses to it, or stuffing it to provide cover, containment, or therapy, or to absorb blood.
+	(absorb, absorb, wrapping, )	1.644051583461164
+scar physically; create a mark on someone or something	(mark, create, something, )	make underscoring marks.
+	(marks, make, nI, )	1.8394767265805385
+Surround completely; close in, as if with a    covering or border.	(completely, Surround, )	surround completely.
+	(completely, surround, )	3.596195113193067
+the act or event of ending a process, state, situation	(ending, process, act, situation, event, )	the end of a word (a suffix or inflectional ending or final morpheme).
+	(ending, final, word, end, final, )	1.2537020121472326
+the price of a good or service	(good, price, service, )	an assertion that someone is guilty of a fault or offence.
+	(someone, assertion, GParra_Arizona_8, )	0.22995436836047123
+depict or portray in art, words, or model	(depict, portray, depict, )	create an image or likeness of.
+	(image, image, create, )	1.1661754773325668
+travel in or be shaped like a zigzag	(shaped, zigzag, like, )	bend into the shape of a crank.
+	(shape, bend, crank, )	1.4032917516926944
+Annoy, harass, or mock, perhaps playfully.	(mock, playfully, perhaps, Annoy, )	mock or make fun of playfully.
+	(mock, playfully, make, fun, )	2.8348494190801294
+(Cause to) smell bad.	(bad, smell, Cause, )	be extremely bad in quality or in one's performance.
+	(bad, quality, extremely, )	1.7345764534697616
+social ranking or position	(position, social, ranking, )	the relative position or standing of things or especially persons in a society.
+	(position, society, relative, )	2.402608118052686
+ponder, consider, observe carefully	(consider, observe, carefully, observe, )	consider in detail and subject to an analysis in order to discover essential features or meaning.
+	(consider, discover, detail, order, )	2.046203923342514
+persuade or achieve acceptance	(persuade, acceptance, achieve, )	persuade somebody to accept something.
+	(persuade, accept, something, )	2.188591327923086
+physical matter left behind after a removal process	(matter, removal, left, process, )	matter that remains after something has been removed.
+	(matter, removed, remains, something, )	2.212919680192961
+any tall, vertical shape	(shape, tall, vertical, )	anything that approximates the shape of a column or tower.
+	(shape, tower, column, )	2.147983132033061
+physically inflate	(inflate, physically, )	become inflated.
+	(inflated, become, )	2.054435750659021
+heavy radioactive metallic element, atomic number 92	(heavy, element, atomic, number, metallic, )	a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons.
+	(heavy, element, nuclear, many, metallic, )	4.212688505113435
+Complain about something or say mean things    to someone.	(say, things, mean, )	say mean things.
+	(say, things, mean, )	4.999999999999997
+care about, be bothered by, be concerned by	(bothered, concerned, care, )	be offended or bothered by; take offense with, be bothered by.
+	(bothered, take, offense, )	1.9363979925951338
+the tallied points of a game, at a given time	(game, given, time, given, points, )	a number that expresses the accomplishment of a team or an individual in a game or contest.
+	(game, individual, accomplishment, expresses, individual, )	1.4200248557089528
+edit so as to block the truth; prevent distribution	(truth, edit, distribution, block, prevent, )	subject to political, religious, or moral censorship.
+	(moral, censorship, religious, political, subject, )	0.21682876481464167
+a casual, brief meeting with someone	(casual, brief, meeting, )	a casual or unexpected convergence.
+	(casual, unexpected, convergence, )	2.0813558648390424
+an electrical connection between conductor and earth	(connection, earth, electrical, conductor, )	a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage).
+	(connection, earth, electrical, conducting, )	3.9356277220015334
+an agent's act of terminating an activity or event	(act, terminating, event, )	the act of ending something.
+	(act, ending, something, )	2.1617629385898245
+notable or famous persons (real or fictional)	(notable, persons, famous, )	a well-known or notable person.
+	(notable, person, wellknown, )	3.1234801051340644
+a person who manipulate or controls a device or machine	(machine, controls, person, person, )	an agent that operates some apparatus or machine.
+	(machine, operates, agent, operates, )	1.7863682875575373
+find, determine the place of	(determine, place, find, )	determine or indicate the place, site, or limits of, as if by an instrument or by a survey.
+	(determine, place, site, )	3.4574366151269587
+to engage in plotting or activities of an illegal or deceitful nature	(deceitful, engage, illegal, plotting, activities, )	act in unison or agreement and in secret towards a deceitful or illegal purpose.
+	(deceitful, act, illegal, secret, purpose, )	2.4966079481677688
+be equivalent, have the same effect as something	(equivalent, something, )	be tantamount or equivalent to.
+	(equivalent, tantamount, )	2.7811086987952165
+(cause to) survive	(cause, survive, )	cause to move by pulling.
+	(cause, move, )	2.620283164311658
+the money	(  )	a voluntary gift (as of money or service or ideas) made to some worthwhile cause.
+	(  )	2.2109956434734777
+a sudden emotional vocalization	(emotional, vocalization, sudden, )	a loud utterance of emotion (especially when inarticulate).
+	(emotion, utterance, especially, )	1.6064974590834527
+go back, restore, revive	(go, back, restore, revive, )	go back to a previous state.
+	(go, back, state, previous, )	2.5331795980739984
+settlement of people distant from their homeland	(people, settlement, distant, homeland, )	a body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government.
+	(people, settle, far, homeland, )	3.54052928913272
+(The discovery or exhibition of) factual evidence that establishes the truth of something.	(something, truth, evidence, establishes, factual, )	a formal series of statements showing that if one thing is true something else necessarily follows from it.
+	(something, true, series, follows, statements, )	2.5395583375535495
+enter a realm, become involved with	(enter, enter, realm, become, )	cause to move; cause to be in a certain position or condition.
+	(move, move, certain, position, )	0.6887981779858201
+a project or undertaking	(undertaking, project, )	earnest and conscientious activity intended to do or accomplish something.
+	(accomplish, reaches_crescendo, )	0.7339690361007489
+a standardized system of measurements for heaviness	(system, heaviness, standardized, measurements, )	a system of units used to express the weight of something.
+	(system, weight, used, units, )	1.907253104977743
+a concern or affair	(affair, concern, )	some situation or event that is thought about.
+	(situation, thought, )	1.0597550957019537
+have a strong sexual attraction to	(strong, attraction, sexual, )	feel or have a desire for; want strongly.
+	(strongly, desire, Feeling, )	0.9530273972856984
+a surrogate expression, utterance for a taboo word	(word, surrogate, expression, utterance, taboo, )	a blank character used to separate successive words in writing or printing.
+	(words, character, character, successive, writing, )	1.004075580992984
+facility for secure storage of things, often money	(facility, things, money, secure, storage, )	a facility where things can be deposited for storage or safekeeping.
+	(facility, things, deposited, safekeeping, storage, )	3.201793919385148
+emit or cause to emit noise	(noise, cause, emit, </s>, )	make a certain noise or sound.
+	(noise, make, sound, </s>, )	2.0728353370730868
+make physical contact with, possibly with the effect of physically manipulating.	(contact, possibly, physical, )	cause to be in brief contact with.
+	(contact, cause, brief, )	2.20588325013002
+find out or be informed of a new information, understand or realize	(understand, find, understand, information, new, )	get to know or become aware of, usually accidentally.
+	(know, get, know, become, accidentally, )	1.4310211420025103
+head of a country	(head, country, )	the chief executive of a republic.
+	(chief, republic, )	2.1094119423032645
+Touch with the lips.	(lips, Touch, )	touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc..
+	(lips, touch, )	3.444230312866826
+a natural physical force of drawing towards something	(force, drawing, natural, )	the force used in pulling.
+	(force, pulling, used, )	2.153545003990857
+a change which is a decrease	(decrease, change, )	a gradual decrease; as of stored charge or current.
+	(decrease, current, )	3.1933148421737227
+an evaluation, an estimation of worth, a grade	(grade, estimation, worth, worth, )	a number or letter indicating quality (especially of a student's performance).
+	(students, indicating, number, quality, )	0.84548282356023
+having responsibility for managing or supervising	(responsibility, managing, supervising, )	an impetuous rush toward someone or something.
+	(something, toward, rush, )	0.15214824115258646
+fail or suffer failure	(suffer, failure, fail, )	suffer failure, as in some enterprise.
+	(suffer, failure, enterprise, )	3.30510810614869
+an abundance of something	(abundance, something, )	the property of copious abundance.
+	(abundance, property, )	2.5643518071181806
+An authoritative text or the corresponding citation.	(authoritative, corresponding, text, citation, An, )	a short note recognizing a source of information or of a quoted passage.
+	(information, recognizing, note, recognizing, note, )	0.7056025761978107
+An instance of visual perception.	(perception, An, An, visual, )	(often followed by `of') a large number or amount or extent.
+	(often, amount, large, rechanneled, )	0.6594472870964292
+fluctuate, move back and forth	(forth, move, )	sway to and fro.
+	(fro, sway, )	1.1855555597155703
+the alleviation of distress	(distress, alleviation, )	a change for the better.
+	(change, EAST_LAMPETER_TWP, )	0.0
+A ceremony marking admission into a religious community.	(religious, admission, community, community, marking, )	a sacrament admitting a baptized person to full participation in the church.
+	(church, admitting, marter_Challenge_website, participation, participation, )	1.2976963355237028
+a social gesture of deferential greeting	(deferential, gesture, greeting, social, )	a courteous expression (by word or deed) of esteem or regard.
+	(courteous, deed, word, word, )	1.1647127799207861
+move to a new location, state, or situation	(move, new, new, location, situation, )	cause (a computer) to execute a single command.
+	(command, single, execute, command, cause, )	0.25693746933718076
+Change one for another	(one, Change, another, )	give to, and receive from, one another.
+	(one, give, another, )	3.2573922604028556
+a full stop, as a punctuation mark	(punctuation, full, mark, full, )	a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations.
+	(punctuation, full, mark, full, )	4.999999999999998
+something that is craved	(something, craved, )	something craved, especially an intravenous injection of a narcotic drug.
+	(something, craved, )	4.999999999999997
+to grow rapidly	(rapidly, grow, )	increase rapidly and in an uncontrolled manner.
+	(rapidly, increase, )	3.327030506850755
+Speak in a high-pitched tone of voice, as          either an animal or human might.	(might, either, )	make high-pitched sounds.
+	(sounds, make, )	1.508212784281795
+domesticated animals kept for use or profit	(animals, use, domesticated, kept, profit, )	a special variety of domesticated animals within a species.
+	(animals, variety, domesticated, within, special, )	2.1021399055558265
+a discipline, a branch of knowledge	(discipline, knowledge, branch, )	the discipline that records and interprets past events involving human beings.
+	(discipline, human, Cheryl_Slavinsky, )	1.910632972280898
+a person who is aggressively pursued, chased	(person, chased, chased, pursued, )	a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence.
+	(person, victim, victim, ridicule, )	1.893829545341996
+personnel casualty	(personnel, casualty, )	military personnel lost by death or capture.
+	(personnel, death, )	2.9650613653890434
+escape or avoid a situation or responsibility	(avoid, responsibility, situation, escape, )	use cunning or deceit to escape or avoid.
+	(avoid, deceit, use, escape, )	2.5564196140466064
+a relative loss in price, value	(loss, value, price, relative, )	a loss entailed by giving up or selling something at less than its value.
+	(loss, value, selling, less, )	2.9333725954061585
+a measurable or quantitative decrease	(decrease, quantitative, measurable, )	a sudden sharp decrease in some quantity.
+	(decrease, quantity, sharp, )	1.714291785717867
+Change the key, pitch, tone, or volume of,    likely for aesthetic reasons.	(key, Change, aesthetic, )	change the key of, in music.
+	(key, change, music, )	2.9292195603763296
+a written message of nonacceptance	(message, written, )	a message refusing to accept something that is offered.
+	(message, offered, )	2.9133629220375927
+(cause to) stop speaking or bring about silence	(bring, stop, cause, speaking, speaking, )	move so that an opening or passage is obstructed; make shut.
+	(make, obstructed, obstructed, opening, move, )	0.7504472080454344
+injure, scratch the surface	(surface, scratch, injure, )	cut the surface of; wear away the surface of.
+	(surface, cut, wear, )	2.07380671841231
+A plant structure near the top of the plant.	(structure, top, plant, near, A, )	a fruiting structure resembling an umbrella or a cone that forms the top of a stalked fleshy fungus such as a mushroom.
+	(structure, top, fruiting, resembling, forms, )	2.4766595415325554
+a written list of particular things being offered	(list, written, offered, particular, things, )	a list of particulars (as a playbill or bill of fare).
+	(list, particulars, fare, particulars, bill, )	1.330495160784264
+a notational mark used in writing, diacritic	(used, notational, writing, mark, )	a diacritical mark used to indicate stress or placed above a vowel to indicate a special pronunciation.
+	(used, diacritical, stress, mark, )	2.9675810425911644
+the state of believing in, or having confidence in, something or someone	(believing, confidence, someone, something, state, )	the trait of believing in the honesty and reliability of others.
+	(believing, honesty, others, trait, reliability, )	1.6454983269455008
+an attempt or effort to achieve a goal	(attempt, achieve, goal, )	an attempt to get something.
+	(attempt, get, something, )	2.2969865939466945
+increase in amount, extent, or intensity	(increase, intensity, )	go up or advance.
+	(advance, go, )	0.32811676215835833
+clean, wash thoroughly	(clean, wash, thoroughly, )	clean with hard rubbing.
+	(clean, rubbing, hard, )	2.230745561601863
+compress out of shape or into small pieces	(compress, pieces, pieces, small, )	become injured, broken, or distorted by pressure.
+	(distorted, broken, injured, broken, )	0.25914853282936784
+point or direct object, weapon, or blow at something or someone	(point, weapon, object, blow, something, )	point or cause to go (blows, weapons, or objects such as photographic equipment) towards.
+	(point, weapons, objects, blows, go, )	3.32814472617288
+employ or utilize, put into service	(put, utilize, employ, )	give or convey physically.
+	(give, convey, -------------_+_-------_+, )	0.8197877614227801
+Spin, wind, braid, or twist together,    perhaps as when performing lacework.	(  )	do lacework.
+	(  )	2.2109956434734777
+a decorative container, often for holding flowers	(flowers, holding, decorative, container, often, )	an open jar of glass or porcelain used as an ornament or to hold flowers.
+	(flowers, hold, porcelain, jar, used, )	2.805229887844116
+preserve, keep in safety, use frugally	(preserve, keep, )	preserve with sugar.
+	(preserve, sugar, )	2.480309795068931
+an open motorboat used for transport	(motorboat, open, used, transport, )	a motorboat with an open deck or a half deck.
+	(motorboat, open, deck, deck, )	2.338187122116534
+a process of development, increase or advancement	(process, advancement, increase, development, )	a process of becoming larger or longer or more numerous or more important.
+	(process, becoming, larger, important, )	1.680725943382889
+Make sure of.	(Make, sure, )	be careful or certain to do something; make certain of something.
+	(make, careful, )	2.585209666259329
+supply or furnish with something needed or wanted	(something, needed, furnish, wanted, )	give something useful or necessary to.
+	(something, necessary, give, vowing, )	2.5032888560479765
+a sharp bladed instrument for shaving off hair	(shaving, instrument, sharp, sharp, )	edge tool used in shaving.
+	(shaving, tool, edge, edge, )	1.9736605463376269
+learn, assimilate a body of knowledge	(learn, knowledge, assimilate, )	learn by reading books.
+	(learn, books, books, )	1.5669822972000915
+support; hold up; nurture or provide for	(provide, nurture, nurture, hold, )	lengthen or extend in duration or space.
+	(extend, lengthen, space, KINGSFORD_Mich., )	0.5253316824081213
+keep away, prevent from happening, or not do something	(something, prevent, )	refrain from doing something.
+	(something, refrain, )	3.435886466657908
+Something that provides advice.	(advice, Something, provides, )	something that provides direction or advice as to a decision or course of action.
+	(advice, something, provides, )	4.398096832680539
+The act of copying the actions of someone else.	(someone, actions, act, copying, else, )	a representation of a person that is exaggerated for comic effect.
+	(person, effect, comic, representation, representation, )	0.9804026561445505
+a physical entity	(entity, physical, )	a separate and self-contained entity.
+	(entity, selfcontained, )	2.638692874354759
+lessen in force, impact, or effect	(lessen, effect, force, impact, )	make less severe or harsh.
+	(make, less, less, harsh, )	0.5421410357057792
+a judgement or opinion about something	(something, opinion, )	a judgment of the qualities of something or somebody.
+	(something, judgment, )	3.3862974306483173
+flog or whip	(whip, flog, )	beat severely with a whip or rod.
+	(whip, beat, )	2.684437916976639
+act, form, or progress according to a plan or ideal	(form, progress, progress, plan, )	shape or influence; give direction to.
+	(shape, influence, shape, direction, )	0.9314717784876878
+Germinate, as in a plant.	(  )	produce buds, branches, or germinate.
+	(  )	2.2109956434734777
+social sphere, scope of activity or interest	(sphere, interest, activity, social, )	a particular environment or walk of life.
+	(particular, particular, walk, life, )	0.5141949614175948
+a static vertical layout, e.g. text or numbers	(vertical, numbers, text, layout, )	a vertical array of numbers or other information.
+	(vertical, numbers, information, array, )	2.71672208170204
+recognize, be familar or well-versed with	(recognize, familar, )	be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about.
+	(aware, specific, )	1.6957580955546867
+a portrayal of someone or something, through words or behavior	(someone, words, something, )	any likeness of a person, in any medium.
+	(person, likeness, medium, )	1.4683185323818533
+a device to control the rate of some activity, e.g., chemical or mechanical	(device, control, eg, mechanical, activity, )	any of various controls or devices for regulating or controlling fluid flow, pressure, temperature, etc..
+	(devices, controlling, etc, temperature, flow, )	2.691904990821323
+Form an aesthetic or conceptual whole.	(whole, aesthetic, Form, conceptual, )	cause to form a united, orderly, and aesthetically consistent whole.
+	(whole, aesthetically, form, united, )	2.186381370252966
+human legs, informal usage	(informal, legs, human, )	informal terms for the leg.
+	(informal, leg, terms, )	2.967541669491495
+goal or objective	(goal, objective, )	the goal intended to be attained (and which is believed to be attainable).
+	(goal, intended, )	3.3239449246804584
+protect from heat, cold, or other detrimental conditions	(protect, detrimental, detrimental, )	place or set apart.
+	(place, apart, place, )	0.40888910524515065
+an allotment or percentage of something	(something, allotment, allotment, )	assets belonging to or due to or contributed by an individual person or group.
+	(person, due, belonging, )	0.8157778268123861
+something that attains victory	(attains, something, victory, )	an event that accomplishes its intended purpose.
+	(accomplishes, purpose, event, )	1.1110510580532333
+line up or make parallel; bring into proper adjustment	(line, make, bring, line, proper, )	place in a line or arrange so as to be parallel or straight.
+	(line, arrange, By_ANDREW_RAGOUZEOS, line, place, )	2.415264011182785
+a home furnishing that is a fabric cover	(fabric, fabric, home, furnishing, )	bedclothes consisting of a lightweight cloth covering (an afghan or bedspread) that is casually thrown over something.
+	(covering, cloth, something, consisting, )	1.7275786926850984
+meshed frame over windows and doors	(frame, meshed, windows, doors, )	a protective covering consisting of netting; can be mounted in a frame.
+	(frame, consisting, protective, Acappella, )	1.3695633430429857
+a measure of the likelihood or probability of an event	(measure, event, likelihood, probability, )	a measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible.
+	(measure, event, likely, ratio, )	3.523020231056179
+Anyone who judges or finds fault with something.	(finds, something, judges, Anyone, fault, )	someone who frequently finds fault or makes harsh and unfair judgments.
+	(finds, someone, judgments, providentially, fault, )	2.927696839781522
+the rescue or release of someone, something	(rescue, something, release, someone, )	recovery or preservation from loss or danger.
+	(recovery, danger, loss, loss, )	0.3828978796694949
+observe, perceive	(observe, perceive, )	observe with care or pay close attention to.
+	(observe, care, )	2.8177846290558577
+limit, keep under control, deter, forbid	(deter, forbid, control, )	to compel or deter by or as if by threats.
+	(deter, compel, threats, )	2.0440882288371367
+stick out, jut out, protrude	(jut, jut, protrude, )	extend out or project in space.
+	(extend, space, space, )	0.08643641592344832
+to act as the host of	(  )	be the host of or for.
+	(  )	2.2109956434734777
+put an end to, make invalid a process that's already begun	(make, invalid, put, )	make invalid for use.
+	(make, invalid, use, )	3.5092814152176173
+enjoy, be fond of or approve	(approve, enjoy, fond, )	feel about or towards; consider, evaluate, or regard.
+	(consider, feel, regard, )	1.354654394641407
+per centum	(per, centum, )	a proportion in relation to a whole (which is usually the amount per hundred).
+	(per, hundred, )	3.106842459394595
+an approximate attribute or quality of something	(approximate, attribute, quality, )	an approximate definition or example.
+	(approximate, example, definition, )	2.392467431070518
+The act of having and controlling property.	(property, act, act, )	the state or fact of being an owner.
+	(owner, fact, state, )	0.6442815673092762
+a physical protuberance, large or small	(small, physical, small, large, )	a natural elevation (especially a rocky one that juts out into the sea).
+	(juts, natural, one, especially, )	1.026773796578256
+estimate or calculate the numerical value of something	(estimate, value, calculate, something, numerical, )	evaluate or estimate the nature, quality, ability, extent, or significance of.
+	(estimate, significance, evaluate, nature, significance, )	2.009137621433411
+a portion or percentage of a whole	(whole, percentage, portion, )	the part played by a person in bringing about a result.
+	(part, result, result, )	1.2117703301504759
+lightest most abundant element, atomic number 1	(lightest, element, abundant, one, atomic, )	a nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe.
+	(lightest, element, abundant, gas, solar_nebula, )	3.6039461563602693
+a unit cost of something	(something, unit, cost, )	a single chance or instance.
+	(chance, single, chance, )	0.7257414416139014
+move back and forth	(move, forth, back, )	move or sway in a rising and falling or wavelike pattern.
+	(move, sway, falling, )	1.8897819928689152
+a cyclical span of time defined by a calendar system	(time, span, defined, calendar, )	a period of time containing 365 (or 366) days.
+	(time, period, containing, days, )	1.7508136452511167
+face an event and survive; endure	(face, survive, event, )	face and withstand with courage.
+	(face, withstand, courage, )	2.51849033159173
+(medicine) the capacity of an organism to defend against disease.	(medicine, organism, defend, capacity, disease, )	(medicine) the condition in which an organism can resist disease.
+	(medicine, organism, resist, condition, disease, )	3.336710726496329
+a statement, an idea expressed in language	(statement, language, )	a brief statement.
+	(statement, brief, )	2.3761351540115205
+perform a duty	(duty, perform, )	do duty or hold offices; serve in a specific function.
+	(duty, hold, )	3.2998906581141814
+soldier who is a member of a special forces group	(member, forces, group, soldier, special, )	a member of a military unit trained as shock troops for hit-and-run raids.
+	(member, troops, unit, military, trained, )	2.233796781403274
+become master of, overcome, dominate	(dominate, dominate, become, master, )	get on top of; deal with successfully.
+	(get, top, get, successfully, )	0.7707963125943963
+area of damaged, cut tissue on a living body	(damaged, living, body, area, area, )	a casualty to military personnel resulting from combat.
+	(resulting, resulting, combat, personnel, military, )	0.5046731406012444
+revolve	(  )	change directions as if revolving on a pivot.
+	(  )	2.2109956434734777
+twice the quantity or amount of something	(quantity, twice, something, amount, )	a quantity that is twice as great as another.
+	(quantity, twice, great, another, )	2.8093358684848306
+Give an incentive for action, provoke or    stir up, urge on, or cause to act.	(provoke, stir, )	provoke or stir up.
+	(provoke, stir, )	4.999999999999997
+Funeral direction	(Funeral, direction, )	the trade of a funeral director.
+	(funeral, director, )	2.0447577244524977
+to ignite or catch on fire	(catch, fire, )	catch fire.
+	(catch, fire, )	4.9999999999999964
+a large approximate quantity of some attribute or thing	(thing, attribute, approximate, )	a concentrated example of something.
+	(something, concentrated, example, )	1.7100473715000577
+Medicines	(  )	a substance that is used as a medicine or narcotic.
+	(  )	2.2109956434734777
+a method for solving a problem	(solving, method, problem, )	the successful action of solving a problem.
+	(solving, successful, problem, )	3.4415552158403733
+reach an objective, attain a benchmark or goal	(attain, attain, cornerkick, )	develop in a positive way.
+	(develop, develop, way, )	1.1597818338399237
+take something or someone away from somewhere	(away, take, something, )	go away or leave.
+	(away, go, goes, )	2.5750715778740827
+a stiffener in a garment	(stiffener, garment, )	(nautical) brace consisting of a heavy rope or wire cable used as a support for a mast or spar.
+	(wire, nautical, )	1.5571337321510261
+a constructed underground passageway	(passageway, underground, constructed, )	a passageway through or under something, usually underground (especially one for trains or cars).
+	(passageway, underground, one, )	3.364869932711088
+discern, identify, or know because of a previous experience	(know, discern, experience, )	be fully aware or cognizant of.
+	(aware, cognizant, fully, )	1.03199029243443
+move or change one's own position or quality	(move, ones, )	move very slightly.
+	(move, slightly, )	2.934248087393164
+incorporate or enclose one thing in another	(incorporate, thing, another, one, enclose, )	incorporate a food ingredient into a mixture by repeatedly turning it over without stirring or beating.
+	(incorporate, without, without, turning, without, )	1.7814787076931444
+guide, draw through	(draw, guide, )	pass over, across, or through.
+	(pass, across, )	0.26345795903765346
+rescue, redeem, deliver from harm or danger	(harm, redeem, )	refrain from harming.
+	(harming, refrain, )	1.71991676648876
+beat (as if) with a whip or rod	(whip, rod, )	strike as if by whipping.
+	(whipping, strike, )	1.438103514453564
+the medical procedure of manually turning the uterus	(uterus, manually, medical, turning, procedure, )	manual turning of a fetus in the uterus (usually to aid delivery).
+	(uterus, manual, aid, turning, fetus, )	2.7274999785684884
+create an edge or border	(create, edge, )	enclose in or as if in a frame.
+	(enclose, frame, )	0.8549448155259733
+restart or continue an activity after an interruption or pause	(continue, pause, interruption, )	take up or begin anew.
+	(begin, anew, anew, )	0.9374658504946176
+capture, ensnare, discover in the act	(discover, capture, act, ensnare, )	discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state.
+	(discover, catch, something, accidentally, )	2.1371057256137473
+initiation, founding, introduction of something	(something, introduction, founding, initiation, )	the act of starting something for the first time; introducing something new.
+	(something, introducing, first, starting, )	2.2442394437995525
+a creased or bent form	(creased, form, bent, )	an angular or rounded shape made by folding.
+	(shape, shape, rounded, )	1.3362026205862148
+train, tutor or polish social behavior, taste, judgement	(taste, tutor, polish, behavior, social, )	teach or refine to be discriminative in taste or judgment.
+	(taste, teach, refine, discriminative, discriminative, )	2.0195955412539717
+a mental activity of construing or interpreting	(interpreting, activity, mental, )	an interpretation of a text or action.
+	(interpretation, action, DEC_wildlife_biologist, )	1.2229730129853003
+emphasize; draw attention to; underline	(draw, attention, emphasize, underline, )	draw a line or lines underneath to call attention to.
+	(draw, attention, lines, line, )	2.4619404127784756
+possibility for the future	(possibility, future, )	a prediction of the course of a disease.
+	(prediction, course, )	0.43630257756660756
+require or need something that is missing	(  )	have need of.
+	(  )	2.2109956434734777
+an indication or manifestation of something, often physical	(indication, physical, )	an indication of damage.
+	(indication, damage, )	2.6928286217424118
+a sudden, brief burst of light	(brief, light, )	a momentary brightness.
+	(momentary, brightness, )	1.9920460825328343
+come or bring back to life, health, existence or use	(back, life, come, )	cause to regain consciousness.
+	(regain, consciousness, cause, )	1.525983947291103
+A mental state of sadness.	(mental, state, sadness, A, )	a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity.
+	(mental, state, sense, activity, )	3.124117350428161
+position or location change	(location, change, position, )	the act of changing the location of something.
+	(location, changing, something, )	2.977964386729339
+(cause to) move through a space, circuit or system, usu. returning to the starting point	(move, usu, )	move in circles.
+	(move, circles, )	3.0834690637075584
+bring in to consonance	(bring, consonance, )	bring (several things) into consonance or relate harmoniously.
+	(bring, consonance, )	4.9999999999999964
+submit, send to	(send, submit, )	cause to move; cause to be in a certain position or condition.
+	(move, certain, )	0.9149595512173575
+state of being unified	(state, unified, )	the state of being joined or united or linked.
+	(state, united, )	4.003130907656447
+(Cause to) become different or aquire a          different character, possibly during development.	(become, different, aquire, Cause, character, )	become distinct and acquire a different character.
+	(become, different, acquire, distinct, character, )	3.667199104964327
+an objective or goal	(goal, objective, )	the goal intended to be attained (and which is believed to be attainable).
+	(goal, intended, )	3.323944924680457
+seize and take captive; take or gain possession of something	(take, possession, seize, gain, )	take possession of by force, as after an invasion.
+	(take, possession, force, force, )	2.6595033022783423
+give, dedicate, pledge	(give, pledge, dedicate, )	give entirely to a specific person, activity, or cause.
+	(give, entirely, activity, )	1.634483442645633
+decide a specific time for an event	(time, event, decide, specific, )	make a schedule; plan the time and place for events.
+	(time, events, plan, plan, )	2.509892759122374
+value a thing or course of action more highly than another	(highly, thing, course, value, )	like better; value more highly.
+	(highly, like, better, value, )	2.8843538541696803
+give something for a cause	(give, cause, something, )	give to a charity or good cause.
+	(give, cause, good, )	3.697244996297911
+furnish with a guideline	(furnish, guideline, )	furnish with rubrics or regulate by rubrics.
+	(furnish, rubrics, )	3.21565602784883
+a social entreaty, as courtship or pleading	(pleading, social, entreaty, courtship, )	a petition or appeal made to a person of superior status or rank.
+	(appeal, person, superior, superior, )	0.6563109149385298
+fail in strength or health and cease to funtion	(fail, funtion, cease, )	break down, literally or metaphorically.
+	(break, metaphorically, literally, )	0.1682212967392687
+reply verbally or in written form to a question, comment, letter, or speech	(verbally, E.Sadler_###-###, )	react verbally.
+	(verbally, MediaSyndicate.com_Oct, )	2.975456157668679
+a slight cut in a physical surface	(slight, cut, surface, physical, )	a slight surface cut (especially a notch that is made to keep a tally).
+	(slight, cut, surface, especially, )	3.872401039293286
+cause something to be the case	(cause, something, case, )	cause to move; cause to be in a certain position or condition.
+	(cause, move, condition, )	2.1562773032524967
+a state of confinement in a small space	(space, confinement, state, small, )	the act of forcing yourself (or being forced) into or through a restricted space.
+	(space, restricted, act, act, )	1.518923666915462
+state or explain the meaning	(meaning, explain, state, )	give a definition for the meaning of a word.
+	(meaning, give, definition, )	1.9852483032845494
+cause animals to move	(animals, move, cause, )	pursue for food or sport (as of wild animals).
+	(animals, pursue, food, )	1.9803695808671629
+be against, resist	(  )	act against or in opposition to.
+	(  )	2.2109956434734777
+a quantity of money added to a bank account	(money, bank, account, added, quantity, )	money deposited in a bank or some similar institution.
+	(money, bank, deposited, similar, similar, )	2.2027007367798874
+cause to come into existence; create	(  )	bring into being.
+	(  )	2.2109956434734777
+Performance, routine	(Performance, routine, )	a short theatrical performance that is part of a longer program.
+	(performance, part, )	1.7956347872946785
+people assembled together in a rhythmic movement	(people, rhythmic, movement, assembled, )	a party of people assembled for dancing.
+	(people, dancing, party, assembled, )	3.0027512707364417
+a computer server	(computer, server, )	(computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network.
+	(computer, client, )	3.468705829952731
+forbid, prohibit	(forbid, prohibit, )	forbid the public distribution of ( a movie or a newspaper).
+	(forbid, distribution, )	2.4685887214907622
+computer text files	(computer, text, files, )	(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters.
+	(computer, text, file, )	4.451211063608812
+a speech act of acknowledging gratitude for something	(acknowledging, gratitude, )	an acknowledgment of appreciation.
+	(acknowledgment, appreciation, )	2.78647749227682
+a state of pretending to be someone, something else	(something, pretending, state, someone, state, )	an outward semblance that misrepresents the true nature of something.
+	(something, true, nature, misrepresents, misrepresents, )	1.1843805213068472
+Become widespread as an idea or feeling.	(Become, widespread, idea, feeling, )	cause to become widely known.
+	(become, widely, known, cause, )	1.2478560905009268
+connect with; reach a target or goal	(connect, goal, reach, target, )	perceive with the senses quickly, suddenly, or momentarily.
+	(perceive, momentarily, quickly, suddenly, )	0.3436486071240394
+income collected as tax by a government	(government, income, tax, collected, )	government income due to taxation.
+	(government, income, taxation, due, )	3.002650394544605
+be the deciding factor in a state of affairs or an outcome	(factor, outcome, deciding, state, )	shape or influence; give direction to.
+	(influence, direction, give, 1/ss_JEFFERSON_J, )	0.5931174200569199
+end	(  )	put an end to.
+	(  )	2.2109956434734777
+a region allocated to hold something	(something, allocated, region, hold, )	the particular portion of space occupied by something.
+	(something, occupied, particular, portion, )	1.6145343377309693
+acknowledge a contribution or cause	(acknowledge, contribution, cause, )	have trust in; trust in the truth or veracity of.
+	(truth, trust, veracity, )	0.282012995422807
+arrangement	(  )	logical or comprehensible arrangement of separate elements.
+	(  )	2.2109956434734777
+system of arrangement	(arrangement, system, )	an arrangement scheme.
+	(arrangement, scheme, )	3.134936605373502
+close within bounds; deprive of freedom	(close, bounds, freedom, deprive, bounds, )	to close within bounds, limit or hold back from movement.
+	(close, bounds, movement, hold, bounds, )	3.5047896537777032
+to collect, acquire or gather	(gather, collect, acquire, )	get or gather together.
+	(gather, get, together, )	2.0093079928433437
+deliver a formal talk or reprimand at length	(reprimand, talk, length, )	censure severely or angrily.
+	(censure, angrily, severely, )	1.3557598893063512
+a pair of mated people, e.g., married	(pair, people, married, mated, )	a pair of people who live together.
+	(pair, people, live, live, )	2.756992003225293
+rot; become unfit for consumption	(become, unfit, rot, consumption, )	become unfit for consumption or use.
+	(become, unfit, use, consumption, )	3.6374594270334093
+lock with one another	(one, lock, another, )	become engaged or intermeshed with one another.
+	(one, become, another, )	3.235146197319436
+take vows, join or allow to join a religious order	(take, religious, religious, order, )	take vows, as in religious order.
+	(take, religious, religious, order, )	4.999999999999997
+activity of selling	(activity, selling, )	the general activity of selling.
+	(activity, selling, )	4.999999999999997
+give out, allow to have	(  )	allow to have.
+	(  )	2.2109956434734777
+secondary public school, grades 9-12	(public, school, secondary, school, )	a public secondary school usually including grades 9 through 12.
+	(public, school, secondary, school, )	4.9999999999999964
+Benjamin Rush, physician and American Revolutionary leader.	(physician, American, Revolutionary, Rush, leader, )	physician and American Revolutionary leader; signer of the Declaration of Independence (1745-1813).
+	(physician, American, Revolutionary, Independence, leader, )	4.09572171692584
+luggage compartment of a car	(car, luggage, compartment, )	British term for the luggage compartment in a car.
+	(car, luggage, compartment, )	4.999999999999997
+have a monopoly of; control fully	(monopoly, control, )	have or exploit a monopoly of.
+	(monopoly, exploit, )	2.686276312034183
+reduce to a simpler molecular compound	(reduce, compound, molecular, compound, )	reduce (petroleum) to a simpler compound by cracking.
+	(reduce, compound, petroleum, compound, )	3.720559923816341
+cause to be interested	(cause, interested, )	attract; cause to be enamored.
+	(cause, enamored, )	3.5926383883779853
+To remain emotionally or intellectually          attached without necessary physical contact.	(remain, emotionally, attached, intellectually, )	to remain emotionally or intellectually attached.
+	(remain, emotionally, attached, intellectually, )	4.9999999999999964
+The act of transporting goods commerically at rates cheaper than express rates.	(transporting, rates, goods, commerically, express, )	transporting goods commercially at rates cheaper than express rates.
+	(transporting, rates, goods, commercially, express, )	4.496537057610475
+(An occurance of) the preservation or management of natural resources.	(preservation, natural, resources, management, occurance, )	the preservation and careful management of the environment and of natural resources.
+	(preservation, natural, resources, management, careful, )	3.9619571700418375
+remove the pod, husk or shell	(pod, remove, husk, )	fall out of the pod or husk.
+	(pod, fall, husk, )	3.420835095618007
+abstain from eating or from certain foods	(abstain, eating, )	abstain from eating.
+	(abstain, eating, )	4.999999999999997
+feel hot or painful, as if burning	(feel, hot, painful, )	feel hot or painful.
+	(feel, hot, painful, )	4.999999999999997
+(cause to) return after being refused	(refused, return, cause, )	come back after being refused.
+	(refused, back, come, )	2.460833789594199
+a loss of function	(loss, function, )	loss of ability to function normally.
+	(loss, function, )	4.999999999999997
+administrator, one who controls resources	(resources, one, administrator, controls, )	someone who controls resources and expenditures.
+	(resources, someone, expenditures, controls, )	2.8102005104748833
+a stovetop, cooking appliance	(cooking, stovetop, appliance, )	a kitchen appliance used for cooking food.
+	(cooking, kitchen, appliance, )	3.728520786975657
+rinse one's mouth with mouthwash, gargle	(rinse, ones, mouth, gargle, mouth, )	rinse one's mouth and throat with mouthwash.
+	(rinse, ones, mouth, throat, mouth, )	4.148477546407474
+a quantity that is an approximate calculation	(approximate, quantity, calculation, )	an approximate calculation of quantity or degree or worth.
+	(approximate, quantity, calculation, )	4.999999999999997
+turn on an axis; spin	(turn, axis, spin, )	turn on or around an axis or a center.
+	(turn, axis, around, )	3.2619490586733946
+marriage offer	(offer, marriage, )	an offer of marriage.
+	(offer, marriage, )	4.999999999999997
+Try to gain favor by flattering or showing    submission or fear.	(fear, showing, submission, )	show submission or fear.
+	(fear, show, submission, )	4.208998250564271
+the public submission of a legal record	(record, submission, public, legal, )	the entering of a legal document into the public record.
+	(record, document, public, legal, )	4.017770992917977
+Shrivel, wither, or mature imperfectly, as of a flower.	(wither, flower, mature, imperfectly, )	shrivel or wither or mature imperfectly.
+	(wither, shrivel, mature, imperfectly, )	3.6280036665491013
+have faith in, bet on	(faith, bet, )	have faith or confidence in.
+	(faith, confidence, )	2.3779585049181824
+burst into flames (telic)	(burst, flames, )	start to burn or burst into flames.
+	(burst, flames, )	4.999999999999997
+The cognitive processes and capacity to remember.	(cognitive, processes, remember, The, capacity, )	the cognitive processes whereby past experience is remembered.
+	(cognitive, processes, remembered, whereby, experience, )	2.91275765820365
+mechanism that controls the water level in a section of canal	(canal, controls, mechanism, level, water, )	enclosure consisting of a section of canal that can be closed to control the water level; used to raise or lower vessels that pass through it.
+	(canal, control, vessels, level, water, )	3.711802081096126
+an onerous worry or concern	(onerous, concern, worry, )	an onerous or difficult concern.
+	(onerous, concern, Parody_outraced_news, )	3.2181575186847606
+someone or something that is the agent of fulfilling desired expectations	(someone, expectations, fulfilling, something, )	someone (or something) on which expectations are centered.
+	(someone, expectations, centered, something, )	3.761712529600061
+a sharp side of an object	(sharp, side, object, )	a sharp side formed by the intersection of two surfaces of an object.
+	(sharp, side, object, )	4.999999999999997
+the forceful hit of a ball	(ball, hit, forceful, )	hitting a golf ball off of a tee with a driver.
+	(ball, hitting, By_MARCUS_NELSON, )	2.7765985430990274
+Fine powdery material; the remains of something destroyed or broken up.	(remains, something, broken, destroyed, )	the remains of something that has been destroyed or broken up.
+	(remains, something, broken, destroyed, )	4.999999999999997
+throw with force	(force, throw, )	utter with force; utter vehemently.
+	(force, utter, )	2.953702593764936
+Treat a substance with some agent; add an    agent to.	(add, Treat, agent, </s>, )	treat with an agent; add (an agent) to.
+	(add, treat, agent, </s>, )	3.792061746675612
+pass through the esophagus	(pass, esophagus, )	pass through the esophagus as part of eating or drinking.
+	(pass, esophagus, )	4.9999999999999964
+move freely (usually within a bounded space)	(freely, usually, within, bounded, move, )	cause to move or operate freely within a bounded space.
+	(freely, cause, within, bounded, move, )	4.031177946917281
+secrete or form water	(secrete, form, water, )	secrete or form water, as tears or saliva.
+	(secrete, form, water, )	4.999999999999997
+the state of being in contact	(state, contact, )	the state of being connected.
+	(state, connected, )	2.941206561018201
+a variant of a musical theme which employs notes of reduced duration from the original theme	(notes, reduced, duration, original, theme, )	the statement of a theme in notes of lesser duration (usually half the length of the original).
+	(notes, lesser, duration, original, theme, )	4.347574025773049
+time to come	(time, come, )	the time yet to come.
+	(time, come, )	4.999999999999997
+the legal state of owing money	(state, owing, legal, money, )	the state of owing something (especially money).
+	(state, owing, By_ANDREW_WALLMEYER, money, )	3.649704556763721
+a style and size of typeset	(size, typeset, style, )	a specific size and style of type within a type family.
+	(size, specific, style, )	3.352409873474357
+demand, ask for, or take as one's due	(demand, ones, take, ask, due, )	demand as being one's due or property; assert one's right or title to.
+	(demand, ones, assert, property, due, )	3.226414770320525
+Cause to be distrusted or rejected; damage the reputation of.	(damage, reputation, )	damage the reputation of.
+	(damage, reputation, )	4.9999999999999964
+Give equal rights to, as of the right to vote.	(equal, Give, vote, right, rights, )	give equal rights to; of women and minorities.
+	(equal, give, minorities, Hector_Moreira, rights, )	2.682496471803629
+(cause to) lengthen or expand in time or some abstract realm	(lengthen, cause, time, abstract, expand, )	lengthen in time; cause to be or last longer.
+	(lengthen, cause, time, longer, ----------_-----------------------------------------------_GS##, )	3.0339973182779834
+a knapsack, bundle on the back	(bundle, back, knapsack, )	a bundle (especially one carried on the back).
+	(bundle, back, carried, )	3.385056569475336
+a person who delivers information or goods	(person, delivers, information, goods, )	a person who conveys (carries or transmits).
+	(person, conveys, transmits, carries, )	1.9144107225762226
+having an intuitive understanding or appreciation of something	(intuitive, something, understanding, )	an intuitive understanding of something.
+	(intuitive, something, understanding, )	4.999999999999997
+adherence to moral principles	(principles, adherence, moral, )	adhering to moral principles.
+	(principles, adhering, moral, )	4.197809453102159
+ have sex with	(  )	have sexual intercourse with.
+	(  )	2.2109956434734777
+partake or provide a banquet	(partake, banquet, provide, )	partake in a feast or banquet.
+	(partake, banquet, NCSG, )	3.3207698240217955
+idolize/show devotion to	(  )	show devotion to (a deity).
+	(  )	2.2109956434734777
+make a ticking sound	(make, ticking, ticking, )	make a clicking or ticking sound.
+	(make, ticking, ticking, )	4.999999999999996
+run or flow slowly	(run, slowly, slowly, )	run or flow slowly, as in drops or in an unsteady stream.
+	(run, slowly, slowly, )	4.999999999999997
+Write a computer programme.	(computer, Write, )	write a computer program.
+	(computer, write, )	3.9579035734181978
+a state of social order in conformance with existing law	(state, law, order, conformance, social, )	a state of order in which events conform to the law.
+	(state, law, order, conform, events, )	3.408009772245198
+An electronic storage device.	(electronic, device, storage, )	an electronic memory device.
+	(electronic, device, memory, )	3.668328696924416
+a reference line used to align lettering	(line, reference, align, lettering, align, )	a light line that is used in lettering to help align the letters.
+	(line, letters, align, lettering, align, )	3.9620946844941796
+the quality of dedication, fixity of purpose	(fixity, dedication, quality, purpose, )	the trait of sincere and steadfast fixity of purpose.
+	(fixity, steadfast, sincere, purpose, )	2.923323512654432
+Look furtively at something.	(furtively, Look, )	look furtively.
+	(furtively, look, )	4.048364345048848
+cast off, get rid of something	(get, rid, )	get rid of.
+	(get, rid, )	4.999999999999998
+recover posession or get back again	(get, recover, posession, back, )	get or find back; recover the use of.
+	(get, recover, use, back, )	3.8125765803640514
+a coefficient assigned to elements in a frequency distribution in order to indicate the relative importance of each element	(importance, indicate, element, assigned, distribution, )	(statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance.
+	(importance, represent, Kahen, assigned, distribution, )	3.2826117590052926
+(cause to) move around	(cause, move, around, )	cause to move round and round.
+	(cause, move, round, )	3.4080317746548747
+become due	(become, due, )	become due for repayment.
+	(become, due, )	4.9999999999999964
+Provide medical care for.	(care, Provide, medical, )	provide veterinary care for.
+	(care, provide, veterinary, )	3.3261028682578933
+do over, make new	(make, new, )	make new.
+	(make, new, )	4.999999999999997
+coat, cover, or treat the surface of	(cover, treat, coat, surface, )	put a coat on; cover the surface of; furnish with a surface.
+	(cover, furnish, coat, surface, )	3.815207861127013
+BASEBALL: strike out a batter	(strike, batter, BASEBALL, )	strike out (a batter), (of a pitcher).
+	(strike, batter, pitcher, )	3.83372476571011
+Regain or make up for, as of a financial loss.	(make, Regain, )	regain or make up for.
+	(make, regain, )	3.770424350687551
+duplicate, match	(duplicate, match, )	duplicate or match.
+	(duplicate, match, )	4.999999999999995
+indistinct vocal articulations	(indistinct, articulations, )	indistinct articulation.
+	(indistinct, articulation, )	3.7809573118620223
+the act of shoving something away	(act, something, away, shoving, )	the act of applying force in order to move something away.
+	(act, something, away, force, )	3.7303607696388377
+move or drive forcefully as if by a punch.	(drive, punch, forcefully, )	drive forcibly as if by a punch.
+	(drive, punch, forcibly, )	4.137511066111894
+an intense surprise, often unpleasant	(unpleasant, surprise, intense, )	an unpleasant or disappointing surprise.
+	(unpleasant, surprise, disappointing, )	3.335971401787071
+Make less emotionally hostile; win over          mentally or emotionally.	(less, Make, win, hostile, )	make less hostile; win over.
+	(less, make, win, hostile, )	4.4726954410887645
+informal usage for a domestic cat, often young	(informal, cat, domestic, usage, young, )	informal terms referring to a domestic cat.
+	(informal, cat, domestic, terms, DERRY_'S, )	3.019138570315295
+The act of sorting one thing from others.	(sorting, one, one, others, )	sorting one thing from others.
+	(sorting, one, one, others, )	4.999999999999998
+the act of physically affixing or connecting things	(act, things, affixing, connecting, )	the act of fastening things together.
+	(act, things, fastening, together, )	3.0247195182281117
+the people who dwell in a camp	(camp, dwell, people, )	a group of people living together in a camp.
+	(camp, living, people, )	3.4516659782871493
+An unforseen development.	(development, unforseen, )	an unforeseen development.
+	(development, unforeseen, )	4.345586103810894
+bring into general popular/common use	(bring, general, use, )	cater to popular taste to make popular and present to the general public; bring into general or common use.
+	(bring, general, use, )	4.999999999999997
+make impure; make radioactive	(make, impure, )	make impure.
+	(make, impure, )	4.999999999999998
+a long, thin implement, usually made of wood	(implement, wood, long, usually, )	an implement consisting of a length of wood.
+	(implement, wood, length, consisting, )	2.948755657148747
+Formally reject or disavow a formerly held    belief; retract a statement.	(formerly, Formally, statement, reject, retract, )	formally reject or disavow a formerly held belief, usually under pressure.
+	(formerly, formally, RADCOM_Equipment, reject, pressure, )	2.3389123586173324
+(Cause to) to turn to the left side.	(turn, left, Cause, side, )	turn or go to the port or left side, of a ship.
+	(turn, left, go, side, )	3.8409524126067627
+Entail as a necessary accompaniment or result	(result, accompaniment, result, )	impose, involve, or imply as a necessary accompaniment or result.
+	(result, accompaniment, result, )	4.9999999999999964
+Physically attach to something.	(attach, something, )	fix to; attach.
+	(attach, fix, )	2.9331550684055068
+assign to a particular task	(assign, task, particular, )	assign to a specific task.
+	(assign, task, specific, )	4.2546135313549005
+culminating event	(culminating, event, )	be the culminating event.
+	(culminating, event, )	4.9999999999999964
+act of constructing	(act, constructing, )	the act of constructing something.
+	(act, constructing, )	4.999999999999997
+the primary information-processing component of a computer, of a microprocessor chip	(computer, chip, microprocessor, component, primary, )	(computer science) the part of a computer (a microprocessor chip) that does most of the data processing.
+	(computer, chip, microprocessor, part, data, )	3.484874824341487
+consider again, usually with a view to changing	(consider, view, changing, usually, )	consider again (a bill) that had been voted upon before, with a view to altering it.
+	(consider, view, altering, upon, )	3.294728650393823
+cancel, reverse, annul	(cancel, reverse, annul, )	cancel, annul, or reverse an action or its effect.
+	(cancel, reverse, annul, )	4.9999999999999964
+define; determine essential qualities of	(determine, essential, qualities, )	determine the essential quality of.
+	(determine, essential, quality, )	3.745596400096881
+The pursuit and killing or capture of animals.	(pursuit, killing, The, capture, animals, )	the pursuit and killing or capture of wild animals regarded as a sport.
+	(pursuit, killing, regarded, capture, animals, )	4.026352598571357
+manipulate the registers of a musical instrument	(manipulate, registers, instrument, )	manipulate the registers of an organ.
+	(manipulate, registers, organ, )	4.098122316983426
+move in an irregular course	(move, irregular, irregular, )	move to and fro or from place to place usually in an irregular course.
+	(move, irregular, irregular, )	4.999999999999996
+the legal granting or bestowment of rights	(granting, bestowment, rights, )	the act of granting rights.
+	(granting, act, rights, )	3.364380758273363
+jolt of electrical current to the body	(body, electrical, jolt, current, )	a reflex response to the passage of electric current through the body.
+	(body, electric, response, current, )	3.3296476249851303
+Become pregnant.	(pregnant, Become, )	become pregnant; undergo conception.
+	(pregnant, become, )	3.582854398394089
+the bestowing of a franchise, enfranchisment	(bestowing, franchise, )	the act of certifying or bestowing a franchise on.
+	(bestowing, franchise, )	4.9999999999999964
+act of distributing	(act, distributing, )	the act of apportioning or distributing something.
+	(act, distributing, )	4.9999999999999964
+The state of being more than satisfied or satiated.	(state, The, )	the state of being more than full.
+	(state, full, )	2.7983899051511085
+conscious subjective emotion or desire	(conscious, subjective, emotion, desire, )	the conscious subjective aspect of feeling or emotion.
+	(conscious, subjective, emotion, feeling, )	3.875906462176963
+The act of proposing someone as a candidate for something.	(candidate, proposing, act, someone, The, )	the condition of having been proposed as a suitable candidate for appointment or election.
+	(candidate, proposed, appointment, appointment, condition, )	1.870487658547511
+to hunt snipe	(hunt, snipe, )	hunt or shoot snipe.
+	(hunt, snipe, )	4.999999999999997
+hunt for hawks	(hunt, hawks, )	hunt with hawks.
+	(hunt, hawks, )	4.999999999999997
+a continuous horizontal layer of brick	(layer, brick, continuous, )	(construction) a layer of masonry.
+	(layer, masonry, construction, )	2.462773592227157
+a brief attempt at some endeavor	(brief, endeavor, attempt, )	a usually brief attempt.
+	(brief, usually, attempt, )	3.2073281296406027
+propagation of waves back from a surface	(surface, waves, propagation, back, )	the phenomenon of a propagating wave (light or sound) being thrown back from a surface.
+	(surface, wave, propagating, back, )	4.092166542608942
+examine minutely; search diligently	(examine, minutely, )	examine minutely.
+	(examine, minutely, )	4.999999999999997
+enjoy, be fond of or approve	(  )	be fond of.
+	(  )	2.2109956434734777
+a person under the guardianship or custody of another	(person, custody, guardianship, another, )	a person who is under the protection or in the custody of another.
+	(person, custody, protection, another, )	3.9529165671561657
+Strike or hit sharply, perhaps as in sport.	(sharply, sport, Strike, )	strike sharply, as in some sports.
+	(sharply, sports, strike, )	3.7075201496917636
+Fly in or on a glider plane	(plane, Fly, glider, )	fly in or as if in a glider plane.
+	(plane, fly, glider, )	4.0930308885868945
+one fourth of a year	(fourth, year, one, )	a fourth part of a year; three months.
+	(fourth, year, three, )	4.136985127279034
+make an abstract thing tight or more restrictive	(make, tight, restrictive, )	make tight or tighter.
+	(make, tight, tighter, )	3.841550747654312
+provide (a person or group) with power or authority	(provide, power, authority, )	provide with power and authority.
+	(provide, power, authority, )	4.999999999999998
+Run at a moderately swift pace, as for exercise.	(pace, Run, moderately, swift, )	run at a moderately swift pace.
+	(pace, run, moderately, swift, )	4.14492771393646
+Envelop completely; form a cover over.	(form, cover, completely, )	form an impenetrable cover over.
+	(form, cover, impenetrable, )	3.4014959195397707
+mold for casting, setting concrete	(mold, concrete, setting, )	a mold for setting concrete.
+	(mold, concrete, setting, )	4.999999999999996
+cause friction; wear away or erode	(wear, away, erode, )	wear away or erode.
+	(wear, away, erode, )	4.999999999999997
+A feeling for something that is desired intensely.	(something, desired, intensely, )	something that is desired intensely.
+	(something, desired, intensely, )	4.999999999999997
+put or store in a bottle	(store, bottle, put, )	store (liquids or gases) in bottles.
+	(store, bottles, liquids, )	2.8769144288447466
+Be a sign or indication of; have as a meaning.	(sign, indication, )	be a sign or indication of.
+	(sign, indication, )	4.9999999999999964
+the act of choosing, picking one among many	(act, choosing, picking, )	the act of choosing or selecting.
+	(act, choosing, selecting, )	3.6125664571129086
+act of becoming distant, moving away from	(act, distant, becoming, )	the act of becoming more distant.
+	(act, distant, becoming, )	4.999999999999997
+take in marriage; perform a marriage ceremony	(take, marriage, )	take in marriage.
+	(take, marriage, )	4.999999999999997
+Skip, leap, or move up and down or sideways          as a manner of motion.	(move, Skip, sideways, leap, )	skip, leap, or move up and down or sideways.
+	(move, skip, sideways, leap, )	4.014217919652141
+a military fortification, stronghold	(  )	a stronghold.
+	(  )	2.2109956434734777
+the fashionable elite of a given community	(fashionable, elite, )	the fashionable elite.
+	(fashionable, elite, )	4.999999999999995
+characteristic call of an animal	(characteristic, animal, call, )	the characteristic utterance of an animal.
+	(characteristic, animal, utterance, )	3.3714708536857754
+make or become more acute or intense	(make, intense, acute, become, )	make more intense, stronger, or more marked.
+	(make, intense, marked, stronger, )	2.3669313584556
+A journey for some purpose.	(journey, purpose, A, )	a journey for some purpose (usually including the return).
+	(journey, purpose, including, )	3.3753506198985144
+Fake or falsify; control in a fraudulent manner.	(fraudulent, falsify, manner, )	manipulate in a fraudulent manner.
+	(fraudulent, manipulate, manner, )	4.119933170008737
+fruit cooked down with sugar, jam	(fruit, sugar, cooked, jam, )	fruit preserved by cooking with sugar.
+	(fruit, sugar, cooking, preserved, )	3.1787119814322593
+the act of leading or guiding others	(leading, act, )	the activity of leading.
+	(leading, activity, )	2.794145895383128
+coating used as a repellant to moisture	(moisture, used, coating, repellant, )	a finishing coat applied to exclude moisture.
+	(moisture, applied, coat, exclude, )	2.257668907300341
+a person who cleans chimneys	(cleans, person, chimneys, )	someone who cleans soot from chimneys.
+	(cleans, someone, chimneys, )	4.373471203887108
+Shine intensely; emit a steady, even light    from a source.	(emit, steady, light, even, source, )	emit a steady even light without flames.
+	(emit, steady, light, even, without, )	4.071780067977556
+behave in a certain way; have a specific effect or outcome	(behave, way, way, )	behave in a certain way.
+	(behave, way, way, )	4.999999999999997
+communicate with a hiss	(hiss, communicate, )	express or utter with a hiss.
+	(hiss, express, )	3.340500312491483
+a male bee whose function is to fertilize the queen	(bee, fertilize, male, whose, queen, )	stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen.
+	(bee, stingless, male, whose, queen, )	4.281395926741157
+a sporting match, boxing	(boxing, match, sporting, )	a boxing or wrestling match.
+	(boxing, match, wrestling, )	3.3127448437654046
+cause to reproduce (plants or animals)	(cause, animals, reproduce, )	cause to procreate (animals).
+	(cause, animals, procreate, )	3.844205182545255
+The feeling of annoyance at being hindered or thwarted.	(feeling, hindered, annoyance, thwarted, )	a feeling of annoyance at being hindered or criticized.
+	(feeling, hindered, annoyance, criticized, )	3.70426162973766
+move along on wheels	(move, wheels, along, )	move along on or as if on wheels or a wheeled vehicle.
+	(move, wheels, along, )	4.9999999999999964
+[provide with a new or different resting place	(provide, new, place, )	provide with a new seat.
+	(provide, new, seat, )	3.613993652403303
+activity of extracting ore or other matter from the ground	(extracting, ore, ground, activity, activity, )	the act of extracting ores or coal etc from the earth.
+	(extracting, ores, earth, act, act, )	2.2498452255579395
+to interrupt, enter uninvited	(enter, uninvited, )	enter uninvited.
+	(enter, uninvited, )	4.999999999999997
+A person or thing equal to another in value or significane.	(person, value, A, another, thing, )	a person or thing equal to another in value or measure or force or effect or significance etc.
+	(person, value, etc, another, thing, )	3.9680571249151555
+a cause or source of harm	(cause, harm, source, )	a cause of pain or injury or loss.
+	(cause, pain, loss, )	2.0107367170154986
+make (more) comprehensible	(make, comprehensible, )	make clear and (more) comprehensible.
+	(make, comprehensible, )	4.9999999999999964
+the state of being retained	(retained, state, )	the act of retaining something.
+	(retaining, act, )	1.2792349734180402
+a problem, something wrong	(  )	a problem.
+	(  )	2.2109956434734777
+stretch out or over completely	(stretch, completely, )	stretch out completely.
+	(stretch, completely, )	4.9999999999999964
+continue to live, exist, or prosper	(continue, live, prosper, exist, )	continue to live through hardship or adversity.
+	(continue, live, adversity, hardship, )	2.698112986583532
+a caress with the lips	(lips, caress, )	the act of caressing with the lips (or an instance thereof).
+	(lips, caressing, )	4.013353614608193
+Provide with rails, as by laying.	(rails, laying, )	lay with rails.
+	(rails, lay, )	4.345096392676169
+the close approach of one object to another	(object, one, another, close, approach, )	the motion of one object relative to another.
+	(object, one, another, relative, motion, )	2.969202249404905
+make a hole with a pointed tool	(make, pointed, hole, pointed, )	make a hole, especially with a pointed power or hand tool.
+	(make, pointed, hole, pointed, )	4.999999999999997
+Fix (something old) with a new part; improve.	(something, Fix, part, new, old, )	piece (something old) with a new part.
+	(something, piece, part, new, old, )	4.0129103391205465
+the act of  damaging something, causing breakage	(act, something, damaging, )	the act of breaking something.
+	(act, something, breaking, )	3.7331606047417027
+the ground level of a multi-storied building	(building, multistoried, building, level, )	the floor of a building that is at or nearest to the level of the ground around the building.
+	(building, nearest, building, level, )	3.8588655761591037
+A quantity of something	(quantity, something, )	a quantity of money.
+	(quantity, money, )	2.891649942316761
+a large room	(large, room, )	the large room of a manor or castle.
+	(large, room, )	5.0
+leave out, omit, prevent from entering	(prevent, entering, leave, )	prevent from entering; keep out.
+	(prevent, entering, keep, )	3.781725853492579
+Sniff at inquiringly.	(  )	sniff or smell inquiringly.
+	(  )	2.2109956434734777
+provide lodging for	(provide, lodging, )	provide housing for.
+	(provide, housing, )	3.0862704782054067
+Change the purpose or functioning of a system.	(purpose, functioning, Change, system, )	change the inherent purpose or function of something.
+	(purpose, function, change, inherent, )	2.6907628249515887
+provide with tools or items for a specific purpose	(provide, purpose, items, tools, purpose, )	provide with (something) usually for a specific purpose.
+	(provide, purpose, something, BY_DICK_POLMAN, purpose, )	3.0924787941837524
+gain points in a game; add up (numbers)	(gain, game, points, )	gain points in a game.
+	(gain, game, points, )	4.9999999999999964
+travel in front of, be first, precede	(travel, front, precede, first, )	travel in front of; go in advance of others.
+	(travel, front, advance, advance, )	2.889671148867241
+Remove by rubbing	(rubbing, Remove, )	remove by or as if by rubbing or erasing.
+	(rubbing, remove, )	3.6919444640553944
+the hard upper part of the human nose	(hard, upper, part, human, nose, )	the hard ridge that forms the upper part of the nose.
+	(hard, upper, part, forms, nose, )	4.100821622140999
+make shine	(make, shine, )	make (a surface) shine.
+	(make, shine, )	4.9999999999999964
+recover, return to former state	(return, former, state, )	return to a former condition.
+	(return, former, condition, )	3.474526754145953
+remove the pod, husk or shell	(remove, husk, )	remove the husks from.
+	(remove, husks, )	4.033655670352669
+speed up the process of	(speed, process, )	speed up the progress of; facilitate.
+	(speed, facilitate, )	3.266024147658238
+(cause to) swing and miss the third pitch, striking out	(pitch, swing, third, miss, striking, )	strike out by swinging and missing the pitch charged as the third.
+	(pitch, swinging, third, missing, strike, )	3.1738688867763365
+Literally and quantifiably raise in social rank or status.	(raise, status, quantifiably, rank, )	raise in rank, character, or status.
+	(raise, status, character, rank, )	3.8669988620794706
+alter by chemical means, to make images.	(make, chemical, means, images, alter, )	make visible by means of chemical solutions.
+	(make, chemical, means, visible, visible, )	3.166266226078066
+highly infectious viral disease	(disease, infectious, highly, highly, )	an acute febrile highly contagious viral disease.
+	(disease, contagious, highly, highly, )	4.490469814514935
+make a certain size or sort according to size	(make, size, sort, certain, </s>, )	make to a size; bring to a suitable size.
+	(make, size, suitable, suitable, </s>, )	2.6515497613343206
+Remove tree stumps from an area.	(stumps, Remove, tree, )	remove tree stumps from.
+	(stumps, remove, tree, )	4.150665653346961
+pass the tongue over, take up with the tongue	(pass, tongue, )	pass the tongue over.
+	(pass, tongue, )	4.9999999999999964
+a computer-generated visual image	(image, visual, )	an image that is generated by a computer.
+	(image, generated, )	2.801971365541396
+do better in a competition; win	(better, win, competition, )	come out better in a competition, race, or conflict.
+	(better, race, competition, )	3.7850736343825995
+aerodynamic force that opposed gravity	(aerodynamic, opposed, force, gravity, )	the component of the aerodynamic forces acting on an airfoil that opposes gravity.
+	(aerodynamic, opposes, forces, gravity, )	3.9771058942369995
+Start abruptly, ignite	(abruptly, Start, )	start abruptly.
+	(abruptly, start, )	3.7425681706578997
+a local announcement made within a public broadcast	(local, broadcast, made, announcement, public, )	(broadcasting) a local announcement inserted into a network program.
+	(local, broadcasting, inserted, announcement, By_MICHAELWEBER, )	2.897806993570779
+making real or concrete	(real, making, concrete, )	something that is made real or concrete.
+	(real, made, concrete, )	4.569166318037614
+Sound sharply or shrilly, as if stabbing.	(shrilly, Sound, sharply, )	sound sharply or shrilly.
+	(shrilly, sound, sharply, )	4.090787012455572
+the act of officially gaining entrance to somewhere	(act, somewhere, entrance, gaining, )	the act of admitting someone to enter.
+	(act, someone, enter, admitting, )	2.22071739930614
+spend time in prison	(spend, prison, prison, )	spend time in prison or in a labor camp.
+	(spend, prison, prison, )	4.999999999999996
+hold, contain within	(contain, within, within, )	contain or hold; have within.
+	(contain, within, within, )	4.999999999999997
+act of verbally informing	(act, informing, verbally, )	the act of informing by verbal report.
+	(act, informing, verbal, )	4.279555526713618
+forcefully request	(request, forcefully, )	request urgently and forcefully.
+	(request, forcefully, )	4.999999999999997
+the quality of dissimilarity	(quality, dissimilarity, )	the quality of being unlike or dissimilar.
+	(quality, dissimilar, )	3.2955456571709423
+throw quickly, flick	(throw, quickly, )	throw quickly.
+	(throw, quickly, )	4.9999999999999964
+move to and fro around a particular point or points, remain near	(move, fro, )	move to and fro.
+	(move, fro, )	4.999999999999997
+Put up with something or someone          unpleasant; show deference towards someone or some authority.	(something, someone, Put, unpleasant, )	put up with something or somebody unpleasant.
+	(something, somebody, put, unpleasant, )	4.201215727763836
+the breakup or termination of a social relationship	(termination, relationship, breakup, social, )	the termination or disintegration of a relationship (between persons or nations).
+	(termination, relationship, disintegration, persons, )	3.2395063575155327
+destruction of a ship	(ship, destruction, )	destroy a ship.
+	(ship, destroy, )	3.6372452883299493
+The human act of making something new.	(act, new, making, something, The, )	the act of starting something for the first time; introducing something new.
+	(act, new, introducing, something, first, )	3.3799664154246174
+ride (a bicycle or motorcycle)	(ride, motorcycle, )	ride a motorcycle.
+	(ride, motorcycle, )	4.999999999999998
+The principal activity that one does to earn money.	(principal, activity, earn, one, money, )	the principal activity in your life that you do to earn money.
+	(principal, activity, earn, life, money, )	4.0686851455432596
+maintain or preserve a particular condition, state, or activity	(activity, particular, particular, condition, state, )	continue a certain state, condition, or activity.
+	(activity, certain, certain, condition, state, )	3.841983859883657
+a spoken or written reply to a question	(reply, question, question, spoken, )	a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation.
+	(reply, question, question, spoken, )	4.999999999999997
+committee with supervisory powers	(committee, powers, supervisory, )	a committee having supervisory powers.
+	(committee, powers, supervisory, )	4.999999999999998
+a section of a composition, textual or musical	(composition, textual, section, musical, )	a short section of a musical composition.
+	(composition, short, section, musical, )	3.692876270853448
+a gear for changing the motion of a machine to the opposite direction	(machine, gear, opposite, motion, )	the gears by which the motion of a machine can be reversed.
+	(machine, gears, reversed, motion, )	3.487851489962611
+take a digestion-aiding walk after a meal	(take, meal, walk, )	take a walk for one's health or to aid digestion, as after a meal.
+	(take, meal, walk, )	4.999999999999998
+forked form or shape	(shape, form, forked, )	a part of a forked or branching shape.
+	(shape, part, forked, )	3.3641187013874876
+insert or close with a plug	(plug, insert, close, )	fill or close tightly with or as if with a plug.
+	(plug, fill, close, )	3.6334004775518154
+incite some act of insubordination	(incite, insubordination, act, )	incite, move, or persuade to some act of lawlessness or insubordination.
+	(incite, insubordination, act, )	4.999999999999997
+formally announce the termination of an agreement	(announce, termination, agreement, )	announce the termination of, as of treaties.
+	(announce, termination, treaties, )	3.802857091218216
+beat or pound rapidly	(rapidly, pound, beat, )	cause to throb or beat rapidly.
+	(rapidly, cause, beat, )	3.2519899759364237
+Make a line or marks on a surface; copy by          following the lines of	(surface, Make, marks, lines, )	make a mark or lines on a surface.
+	(surface, make, mark, lines, )	3.884543234378727
+recite as a chant, intone	(recite, chant, intone, )	recite with musical intonation; recite as a chant or a psalm.
+	(recite, chant, intonation, )	3.6565676549487423
+the ability of computers to exchange digital information between them and make use of it	(information, computers, make, digital, exchange, )	(computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks).
+	(information, computer, made, local, exchange, )	3.6919454369632394
+act of applying force	(act, force, applying, )	the act of applying force suddenly.
+	(act, force, applying, )	4.999999999999996
+the process of becoming less or smaller	(process, smaller, becoming, less, )	a process of becoming smaller or shorter.
+	(process, smaller, becoming, shorter, )	4.082869951159687
+Be in command of; exercise authority or  control over.	(exercise, control, authority, Be, )	exercise authoritative control or power over.
+	(exercise, control, authoritative, authoritative, )	2.754812951778355
+be a factor or play a role in something	(play, role, )	be or play a part of or in.
+	(play, part, )	3.4966642831874
+an expanse of land	(land, expanse, )	an extended area of land.
+	(land, area, )	2.7554152065880975
+move an implement through with a circular motion, mix	(move, implement, )	move an implement through.
+	(move, implement, )	4.9999999999999964
+deprive of courage, hope, or optimism	(deprive, courage, hope, optimism, )	deprive of courage or hope; take away hope from; cause to feel discouraged.
+	(deprive, courage, hope, discouraged, )	3.823496476557895
+the armed forces	(forces, armed, )	a force that is a branch of the armed forces.
+	(forces, armed, )	4.999999999999998
+Furnish with metal spurs.	(spurs, Furnish, )	furnish with spars.
+	(spars, furnish, )	0.49637676304290185
+Remove water from a substance.	(water, Remove, )	remove water from.
+	(water, remove, )	3.7360889920068807
+Provide with rails, as by laying.	(rails, Provide, )	provide with rails.
+	(rails, provide, )	3.913242670065696
+make or be a summary	(  )	be a summary of.
+	(  )	2.2109956434734777
+be affected with smut or mildew	(smut, affected, mildew, )	affect with smut or mildew, as of a crop such as corn.
+	(smut, affect, mildew, )	4.3708807503315485
+Talk or behave amorously; have sex with.	(behave, Talk, sex, amorously, )	talk or behave amorously, without serious intentions.
+	(behave, talk, serious, amorously, )	3.159244882459237
+Excuse some minor social infraction; accept    an excuse for something.	(accept, excuse, )	accept an excuse for.
+	(accept, excuse, )	5.0
+indicate, be signs or symptoms of	(symptoms, indicate, )	be a signal for or a symptom of.
+	(symptom, signal, )	2.291847427429642
+a verbal or written request for access to something.	(verbal, request, written, access, something, )	a verbal or written request for assistance or employment or admission to a school.
+	(verbal, request, written, assistance, school, )	3.3131700722901924
+have a logical result	(logical, result, )	have as a logical consequence.
+	(logical, consequence, )	4.2617421334935015
+Travel on foot.	(foot, Travel, )	cross on foot.
+	(foot, cross, )	2.3053170699010304
+the act of suction	(act, suction, )	the act of sucking.
+	(act, sucking, )	2.994738494915005
+A band of leather or rope made to identify animals.	(band, identify, leather, made, A, )	a band of leather or rope that is placed around an animal's neck as a harness or to identify it.
+	(band, identify, leather, placed, neck, )	3.1558876776938583
+Put a harness on.	(harness, Put, )	put a harness.
+	(harness, put, )	3.9460574851109835
+Provide or equip specifically with furniture.	(equip, Provide, furniture, )	provide or equip with furniture.
+	(equip, provide, furniture, )	4.230039167498925
+To move (the head or body) quickly    downwards or away (from something).	(move, away, body, downwards, downwards, )	to move (the head or body) quickly downwards or away.
+	(move, away, body, downwards, downwards, )	4.999999999999997
+reason or establish by deduction	(reason, establish, establish, )	reason by deduction; establish by deduction.
+	(reason, establish, establish, )	4.999999999999997
+Make pregnant; fertilize and cause to grow.	(fertilize, cause, grow, )	fertilize and cause to grow.
+	(fertilize, cause, grow, )	4.999999999999997
+find the solution to or understand the          meaning of	(find, solution, meaning, understand, )	find the solution to (a problem or question) or understand the meaning of.
+	(find, solution, meaning, understand, )	4.9999999999999964
+Move about in a confused or purposeless manner.	(manner, Move, confused, )	move about in a confused manner.
+	(manner, move, confused, )	3.923974534088307
+put up with something unpleasant	(put, unpleasant, unpleasant, )	put up with something or somebody unpleasant.
+	(put, unpleasant, unpleasant, )	4.999999999999997
+A means or agency by which something is communicated.	(means, agency, something, A, communicated, )	a means or agency by which something is expressed or communicated.
+	(means, agency, something, overset, communicated, )	3.9358775512640634
+take apart into constituent pieces	(take, pieces, constituent, pieces, )	take apart into its constituent pieces.
+	(take, pieces, constituent, pieces, )	4.999999999999997
+A short theatrical program that is part of a longer program.	(short, longer, A, part, program, )	a short theatrical performance that is part of a longer program.
+	(short, longer, performance, part, program, )	3.904061106897989
+decree, issue an order	(issue, order, )	issue an order.
+	(issue, order, )	4.9999999999999964
+the termination, ending of a meeting	(termination, meeting, )	the termination of a meeting.
+	(termination, meeting, )	4.999999999999997
+An indicator that orients one generally.	(indicator, orients, generally, )	an indicator that orients you generally.
+	(indicator, orients, generally, )	4.999999999999997
+Increase the acoustic volume of.	(volume, Increase, )	increase the volume of.
+	(volume, increase, )	3.698815485834919
+open to members of all races and ethnic groups	(open, groups, races, ethnic, members, )	open (a place) to members of all races and ethnic groups.
+	(open, groups, races, ethnic, members, )	4.999999999999997
+reduce to small pieces by pounding or abrading	(reduce, pieces, abrading, small, pounding, )	reduce to small pieces or particles by pounding or abrading.
+	(reduce, pieces, abrading, small, pounding, )	4.999999999999997
+hit a fly (baseball)	(hit, fly, )	hit a fly.
+	(hit, fly, )	4.999999999999997
+FISHING-exhaust by allowing to pull on the line	(allowing, allowing, line, )	exhaust by allowing to pull on the line.
+	(allowing, allowing, line, )	4.999999999999997
+be or come into conflict	(conflict, come, )	be incompatible; be or come into conflict.
+	(conflict, come, )	4.999999999999997
+Produce a phonemic click.	(click, Produce, )	produce a click.
+	(click, produce, )	3.4013505859001527
+angle with a hook and line and draw through          water	(angle, hook, water, draw, line, )	angle with a hook and line drawn through the water.
+	(angle, hook, water, drawn, line, )	4.573824039015912
+the front face of a building	(face, front, building, )	the face or front of a building.
+	(face, front, building, )	4.9999999999999964
+make something more diverse or varied	(make, varied, something, diverse, )	make something more diverse and varied.
+	(make, varied, something, diverse, )	4.999999999999997
+issue bonds on something	(issue, bonds, )	issue bonds on.
+	(issue, bonds, )	4.9999999999999964
+women's sleeveless undergarment	(undergarment, womens, sleeveless, )	a woman's sleeveless undergarment.
+	(undergarment, womans, sleeveless, )	4.038453097431256
+Move oneself very fast.	(fast, Move, )	move very fast.
+	(fast, move, )	3.3790551729955265
+Oppose or approach, as in hostility or competition	(hostility, Oppose, competition, )	oppose, as in hostility or a competition.
+	(hostility, oppose, competition, )	4.141400626894302
+make more complex or intricate	(make, complex, intricate, )	make more complex, intricate, or richer.
+	(make, complex, intricate, )	4.9999999999999964
+cause to be/show to be invalid	(invalid, cause, )	show to be invalid.
+	(invalid, show, )	2.6220735027105464
+create a new entity by putting components or members together	(create, members, putting, together, components, )	create by putting components or members together.
+	(create, members, putting, together, components, )	4.999999999999997
+the activity of providing supplies	(activity, providing, supplies, )	the activity of supplying or providing something.
+	(activity, providing, supplying, )	3.8649432664227716
+make or become brighter or lighter	(make, brighter, lighter, )	make lighter or brighter.
+	(make, brighter, lighter, )	4.999999999999996
+actors in a play	(actors, play, )	the actors in a play.
+	(actors, play, )	4.999999999999997
+take someone's soul into heaven	(take, soul, someones, heaven, )	take up someone's soul into heaven.
+	(take, soul, someones, heaven, )	4.999999999999998
+Discipline in personal or social activities.	(personal, Discipline, activities, social, )	discipline in personal and social activities.
+	(personal, discipline, activities, social, )	4.442151309052172
+a person eating a meal, often in a restaurant	(person, eating, restaurant, often, meal, )	a person eating a meal (especially in a restaurant).
+	(person, eating, restaurant, especially, meal, )	4.374692652664118
+A sudden (emotional) outburst.	(sudden, outburst, )	a sudden outburst.
+	(sudden, outburst, )	4.999999999999997
+make or become harder	(make, harder, become, )	make hard or harder.
+	(make, harder, scarier, )	3.410255179448055
+the introductory portion of a story	(introductory, story, portion, )	the introductory section of a story.
+	(introductory, story, section, )	3.8516107894512372
+work material with a tool	(work, tool, )	work with a tool.
+	(work, tool, )	4.999999999999998
+make or become less strict or severe	(make, strict, less, severe, )	make less severe or strict.
+	(make, strict, less, severe, )	4.999999999999997
+support by placing on or against something solid	(support, placing, something, solid, )	support by placing against something solid or rigid.
+	(support, placing, something, solid, )	4.999999999999997
+Part, cease, or break association with (something).	(break, Part, cease, association, )	part; cease or break association with.
+	(break, part, cease, association, )	4.207229059204488
+have the financial means to obtain, buy, or do something	(financial, buy, something, means, </s>, )	have the financial means to do something or buy something.
+	(financial, buy, something, means, </s>, )	4.442199128694694
+A list of candidates nominated by a political party to run for election.	(list, run, A, nominated, election, )	a list of candidates nominated by a political party to run for election to public offices.
+	(list, run, public, nominated, election, )	3.957961879164182
+say, state, or perform again	(say, state, perform, )	to say, state, or perform again.
+	(say, state, perform, )	4.9999999999999964
+allow the passage of air	(allow, air, passage, )	allow the passage of air through.
+	(allow, air, passage, )	4.999999999999997
+unite; merge with something already in existence	(unite, merge, already, something, existence, )	unite or merge with something already in existence.
+	(unite, merge, already, something, existence, )	4.9999999999999964
+use resources or materials	(use, resources, resources, )	use up (resources or materials).
+	(use, resources, resources, )	4.9999999999999964
+make or become harder	(become, harder, make, )	become hard or harder.
+	(become, harder, hard, )	3.3122868519571056
+(Cause to) be firmly attached or closed.	(attached, Cause, firmly, )	cause to be firmly attached.
+	(attached, cause, firmly, )	4.12559501287218
+make or become wider or more extensive	(become, extensive, wider, make, )	become broader or wider or more extensive.
+	(become, extensive, wider, strapping_6ft, )	3.692588498413938
+Unrestricted freedom to use something.	(use, Unrestricted, freedom, )	unrestricted freedom to use.
+	(use, unrestricted, freedom, )	4.188081389625329
+laying claim, the act of taking possession of, or power over, something.	(act, something, possession, taking, power, )	the act of taking possession of or power over something.
+	(act, something, possession, taking, power, )	4.999999999999997
+give structure to	(give, structure, )	give a structure to.
+	(give, structure, )	4.999999999999997
+mark with scars	(mark, scars, )	mark with a scar.
+	(mark, scar, )	4.383556482535248
+(Baseball) Tag the base runner to get him out.	(get, Tag, base, runner, )	tag the base runner to get him out.
+	(get, tag, base, runner, )	4.302164244821604
+Be reflected as heat, light, or shock waves;.	(reflected, heat, heat, Be, waves, )	be reflected as heat, sound, or light or shock waves.
+	(reflected, heat, heat, sound, waves, )	4.0079590998959445
+a competitor most likely to win	(competitor, likely, win, )	a competitor thought likely to win.
+	(competitor, likely, win, )	4.999999999999997
+make or become longer	(become, longer, make, )	become long or longer.
+	(become, longer, long, )	3.2418223690321226
+be on base at the end of an inning	(base, end, inning, )	to be on base at the end of an inning, of a player.
+	(base, end, inning, )	4.999999999999997
+Either of the two categories (male or female) into which most organisms are divided, or key properties that distinguish the categories.	(two, Either, divided, organisms, organisms, )	either of the two categories (male or female) into which most organisms are divided.
+	(two, either, divided, organisms, organisms, )	4.461123448191603
+(science) The atomic weight of an element that has the same combining capacity as a given weight of another element.	(atomic, given, another, weight, combining, )	the atomic weight of an element that has the same combining capacity as a given weight of another element; the standard is 8 for oxygen.
+	(atomic, given, another, weight, combining, )	4.999999999991141
+provide with a toggle	(provide, toggle, )	provide with a toggle or toggles.
+	(provide, toggle, )	4.999999999999997
+(cause to) move back and forth or side to side	(cause, back, move, forth, )	cause to move back and forth.
+	(cause, back, move, forth, )	4.999999999999997
+measure the depth of a body of water	(measure, water, body, depth, )	measure the depth of (a body of water) with a sounding line.
+	(measure, water, body, depth, )	4.999999999999997
+make a loud noise, as an animal	(make, noise, animal, loud, )	make a loud noise, as of animal.
+	(make, noise, animal, loud, )	4.999999999999997
+The act of coming to rest after a voyage.	(act, coming, rest, voyage, )	the act of coming to land after a voyage.
+	(act, coming, land, voyage, )	3.736016590730882
+join or bring together (two) objects, ideas, or people	(bring, objects, two, ideas, objects, )	bring two objects, ideas, or people together.
+	(bring, objects, two, ideas, objects, )	4.9999999999999964
+Make reference to something.	(reference, Make, )	make reference to.
+	(reference, make, )	3.971179009943314
+Behave violently, as if in a state of great    anger; break or tear violently.	(violently, Behave, anger, great, state, )	behave violently, as if in state of a great anger.
+	(violently, behave, anger, great, state, )	4.425624367000047
+Form a spiral or move in a spiral course.	(move, course, spiral, Form, )	move in a spiral or zigzag course.
+	(move, course, spiral, Torrie_Dorrell, )	3.6736061279152445
+a feeling of aversion, distaste, antipathy	(feeling, aversion, antipathy, )	a feeling of aversion or antipathy.
+	(feeling, aversion, antipathy, )	4.999999999999997
+Release (gas or energy) as a result of a chemical reaction or physical decomposition (perhaps in a metaphorical sense)	(reaction, Release, decomposition, energy, energy, )	release (gas or energy) as a result of a chemical reaction or physical decomposition.
+	(reaction, release, decomposition, energy, energy, )	4.516478066040508
+overcome with amazement; flabbergast	(overcome, amazement, )	overcome with amazement.
+	(overcome, amazement, )	4.9999999999999964
+behave in a condescending manner	(behave, condescending, manner, )	behave in a patronizing and condescending manner.
+	(behave, condescending, manner, )	4.999999999999998
+take into one's family or group	(take, family, ones, )	take into one's family.
+	(take, family, ones, )	4.999999999999997
+(Contract bridge) the highest bid becomes the contract setting in the number of tricks that the bidder must make.	(contract, bidder, bridge, highest, bridge, )	(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make.
+	(contract, bidder, bridge, highest, bridge, )	4.999999999999997
+go on a campaign or off to war	(go, campaign, war, )	go on a campaign; go off to war.
+	(go, campaign, war, )	4.999999999999997
+react, or respond to a call, command, or stimulus	(react, command, stimulus, )	react to a stimulus or command.
+	(react, command, stimulus, )	4.999999999999997
+(Literally) sound with resonance.	(sound, resonance, )	sound with resonance.
+	(sound, resonance, )	4.999999999999997
+an injury to the skin caused by radiation, heat or chemicals	(injury, radiation, caused, skin, chemicals, )	an injury caused by exposure to heat or chemicals or radiation.
+	(injury, radiation, caused, exposure, chemicals, )	4.017100140672073
+make a causal or logical connection; group together	(make, logical, connection, causal, )	make a logical or causal connection.
+	(make, logical, connection, causal, )	4.999999999999997
+Apply conditioner to make smooth and shiny.	(make, Apply, shiny, conditioner, smooth, )	apply conditioner to in order to make smooth and shiny.
+	(make, apply, shiny, conditioner, smooth, )	4.484710046298706
+exercise or have power of memory	(exercise, power, memory, )	exercise, or have the power of, memory.
+	(exercise, power, memory, )	4.999999999999998
+A feeling or state of extreme anger.	(state, anger, extreme, )	a state of extreme anger.
+	(state, anger, extreme, )	4.999999999999998
+Wrinkled, crumpled, or creased.	(crumpled, Wrinkled, creased, )	become wrinkled or crumpled or creased.
+	(crumpled, wrinkled, creased, )	3.7919765795867466
+Admit to testing/proof	(  )	admit to testing or proof.
+	(  )	2.2109956434734777
+an accounting period of 12 months	(accounting, period, months, thirteen, )	any accounting period of 12 months.
+	(accounting, period, months, thirteen, )	4.999999999999997
+praise the qualities in order to sell or promote	(promote, qualities, order, praise, sell, )	make a plug for; praise the qualities or in order to sell or promote.
+	(promote, qualities, order, praise, sell, )	4.999999999999997
+relative darkness of a color	(relative, color, darkness, )	relative darkness or lightness of a color.
+	(relative, color, darkness, )	4.999999999999998
+Strike heavily, especially with a fist or implement.	(fist, Strike, implement, heavily, especially, )	strike heavily, especially with the fist or a bat.
+	(fist, strike, bat, heavily, especially, )	3.4492702506861037
+Make receptive or willing toward an action or belief.	(willing, toward, Make, action, belief, )	make receptive or willing towards an action or attitude or belief.
+	(willing, towards, make, action, belief, )	4.3649781454719845
+open again, open anew	(open, anew, )	open again or anew.
+	(open, anew, )	4.999999999999997
+A conceptual formulation; a way of conceiving something.	(way, something, conceiving, )	a way of conceiving something.
+	(way, something, conceiving, )	4.9999999999999964
+heat metal prior to working it	(heat, metal, working, prior, )	heat a metal prior to working it.
+	(heat, metal, working, prior, )	4.999999999999997
+feel the strong need to eat	(feel, need, eat, )	feel the need to eat.
+	(feel, need, eat, )	4.9999999999999964
+be in direct physical contact with	(direct, contact, physical, )	be in direct physical contact with; make contact.
+	(direct, contact, physical, )	4.999999999999997
+Give suck to; receive suck.	(suck, Give, )	give suck to.
+	(suck, give, )	4.1698646189428565
+covering for a bed	(bed, covering, )	decorative cover for a bed.
+	(bed, cover, )	3.9538666195779073
+grip, penetrate or tear off with or as if with the teeth or jaws	(grip, teeth, tear, penetrate, jaws, )	to grip, cut off, or tear with or as if with the teeth or jaws.
+	(grip, teeth, tear, cut, jaws, )	4.01310403675058
+play a stringed instrument with a bow	(play, instrument, stringed, bow, )	play on a string instrument with a bow.
+	(play, instrument, string, bow, )	4.021924360655939
+Doubt or an impression that something might    not be the case.	(impression, might, might, something, )	an impression that something might be the case.
+	(impression, might, might, something, )	4.9999999999999964
+A successful throw or try for a point after a touchdown.	(successful, throw, A, touchdown, try, )	a successful free throw or try for point after a touchdown.
+	(successful, throw, free, touchdown, try, )	3.9532085231335388
+Express audibly; utter sounds (not          necessarily words); indicate.	(utter, Express, audibly, sounds, words, )	express audibly; utter sounds (not necessarily words).
+	(utter, express, audibly, sounds, words, )	4.219295610472599
+hold back in uncertainty or unwillingness	(hold, unwillingness, uncertainty, back, )	pause or hold back in uncertainty or unwillingness.
+	(hold, unwillingness, uncertainty, back, )	4.999999999999997
+a serving of a beverage	(serving, beverage, )	a single serving of a beverage.
+	(serving, beverage, )	4.999999999999997
+Give an incentive or reason for action.	(incentive, Give, action, )	give an incentive for action.
+	(incentive, give, action, )	4.397564678722383
+the day before today	(day, today, )	the day immediately before today.
+	(day, today, )	4.999999999999997
+take or capture by force or authority	(take, capture, force, )	take or capture by force.
+	(take, capture, force, )	4.999999999999997
+(Medicine) Apply a plaster cast to.	(plaster, Apply, cast, )	apply a plaster cast to.
+	(plaster, apply, cast, )	4.141751445348377
+interfere with someone else's activity	(interfere, someone, activity, elses, )	interfere in someone else's activity.
+	(interfere, someone, activity, elses, )	4.9999999999999964
+Assign a new time for an event	(time, Assign, new, event, )	assign a new time and place for an event.
+	(time, assign, new, event, )	4.426558824538479
+Value measured by what must be given or done to obtain something.	(something, Value, given, conducted, given, )	value measured by what must be given or done or undergone to obtain something.
+	(something, value, given, conducted, given, )	4.41929261703577
+touch or hold with the hands	(touch, hold, hold, )	touch, lift, or hold with the hands.
+	(touch, hold, hold, )	4.999999999999997
+scrape or rub to relieve itching	(scrape, rub, itching, relieve, )	scrape or rub as if to relieve itching.
+	(scrape, rub, itching, relieve, )	4.9999999999999964
+give a detailed account of	(give, detailed, account, )	narrate or give a detailed account of.
+	(give, detailed, account, )	4.999999999999997
+Any activity that acquires a person's attention.	(activity, persons, attention, acquires, )	any activity that occupies a person's attention.
+	(activity, persons, attention, occupies, )	4.162372445217501
+cause to become awake or alert	(cause, awake, become, alert, )	cause to become awake or conscious.
+	(cause, awake, become, conscious, )	3.8257681966367847
+provide a feast or banquet	(provide, feast, feast, )	provide a feast or banquet for.
+	(provide, feast, feast, )	4.999999999999997
+The act of hindering someone's plans or efforts.	(act, efforts, plans, someones, hindering, )	an act of hindering someone's plans or efforts.
+	(act, efforts, plans, someones, hindering, )	4.9999999999999964
+Fool or hoax (someone).	(hoax, Fool, )	fool or hoax.
+	(hoax, fool, )	3.1860066565770104
+raising the stakes or bet of a game by a factor of 2	(raising, game, bet, factor, two, )	raising the stakes in a card game by a factor of 2.
+	(raising, game, card, factor, two, )	4.047705750965133
+The (period of) control of a country by military forces of a foreign power.	(control, foreign, foreign, power, country, )	the control of a country by military forces of a foreign power.
+	(control, foreign, foreign, power, country, )	4.999999999999997
+(computer science) the occurence of an incorrect result produced by a computer.	(computer, result, occurence, incorrect, result, )	(computer science) the occurrence of an incorrect result produced by a computer.
+	(computer, result, occurrence, incorrect, result, )	4.724607267952888
+give pleasure, satifaction, or happiness; be pleasing to	(give, pleasure, pleasing, )	give pleasure to or be pleasing to.
+	(give, pleasure, pleasing, )	4.999999999999997
+the soft padding under a saddle	(soft, saddle, padding, )	a soft pad placed under a saddle.
+	(soft, saddle, pad, )	3.938120694764834
+elecate or idealize in allusion to Christ's          transfiguration	(idealize, Christs, transfiguration, allusion, )	elevate or idealize, in allusion to Christ's transfiguration.
+	(idealize, Christs, transfiguration, allusion, )	4.999999999999997
+inability of the heart to pump blood to sustain life functions	(inability, functions, life, pump, heart, )	inability of the heart to pump enough blood to sustain normal bodily functions.
+	(inability, functions, bodily, pump, heart, )	4.138735644201076
+cause to vibrate in a different pattern	(cause, pattern, vibrate, different, )	cause to vibrate in a definite pattern.
+	(cause, pattern, vibrate, definite, )	3.987485592858465
+warn or call to a sense of preparedness	(warn, call, sense, preparedness, )	warn or arouse to a sense of danger or call to a state of preparedness.
+	(warn, call, sense, preparedness, )	4.9999999999999964
+Adapt oneself to new or different conditions.	(different, Adapt, oneself, new, conditions, )	adapt or conform oneself to new or different conditions.
+	(different, adapt, oneself, new, conditions, )	4.411032515859125
+move faster, or cause to move faster	(cause, faster, faster, )	cause to move faster.
+	(cause, faster, faster, )	4.999999999999997
+Supply food ready to eat, as for parties          and banquets.	(food, Supply, ready, banquets, parties, )	supply food ready to eat; for parties and banquets.
+	(food, supply, ready, banquets, parties, )	4.469974752081017
+express protest or dissent, raise an objection	(express, raise, objection, protest, dissent, )	express or raise an objection or protest or criticism or express dissent.
+	(express, raise, objection, protest, dissent, )	4.999999999999997
+clear mucus from one's throat	(clear, mucus, throat, mucus, )	clear mucus or food from one's throat.
+	(clear, mucus, throat, mucus, )	4.999999999999997
+pass into a state or condition	(pass, condition, condition, )	pass into a specified state or condition.
+	(pass, condition, condition, )	4.999999999999997
+add embellishments (to medieval manuscripts)	(add, medieval, manuscripts, embellishments, )	add embellishments and paintings to (medieval manuscripts).
+	(add, medieval, manuscripts, embellishments, )	4.999999999999997
+make or become thick	(make, thick, become, )	make thick or thicker.
+	(make, thick, thicker, )	3.2648186707125526
+move or execute very quickly or hastily	(move, execute, hastily, quickly, )	run or move very quickly or hastily.
+	(move, run, hastily, quickly, )	3.8398314266759628
+hurt, feel physical pain	(feel, pain, physical, )	feel physical pain.
+	(feel, pain, physical, )	4.999999999999997
+tell or spread rumors; say	(tell, spread, rumors, )	tell or spread rumors.
+	(tell, spread, rumors, )	4.999999999999997
+throw with force or recklessness; cast away	(throw, recklessness, force, )	throw with force or recklessness.
+	(throw, recklessness, force, )	4.9999999999999964
+return to in thought or speech	(return, speech, thought, )	return in thought or speech to something.
+	(return, speech, thought, )	4.999999999999998
+Try to cure by special care    or treatment, of an illness or injury; treat carefully.	(special, Try, treatment, illness, care, )	try to cure by special care of treatment, of an illness or injury.
+	(special, try, treatment, illness, care, )	4.483309468698287
+a sweeping cut with a sharp instrument	(sharp, sweeping, cut, instrument, )	a strong sweeping cut made with a sharp instrument.
+	(sharp, sweeping, cut, instrument, )	4.999999999999997
+Any address at which one dwells more than temporarily.	(address, temporarily, dwells, )	any address at which you dwell more than temporarily.
+	(address, temporarily, dwell, )	4.135564383561327
+BOTANY -- the usually underground organ of a plant that lacks buds or leaves or nodes, which absorbs water and mineral salts; usually it anchors the plant to the ground.	(Butch_Alinea, BOTANY, underground, usually, absorbs, )	(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground.
+	(Butch_Alinea, botany, underground, usually, absorbs, )	4.091460567649904
+Reproduce or make an exact copy of; make,    do, or perform again.	(copy, Reproduce, copy, exact, )	reproduce or make an exact copy of.
+	(copy, reproduce, copy, exact, )	4.062721755047285
+pass (a thread) through or into,on or as if on a    string	(thread, string, )	thread on or as if on a string.
+	(thread, string, )	4.999999999999997
+Engrave by means of dots.	(dots, Engrave, means, )	engrave by means of dots and flicks.
+	(dots, engrave, means, )	4.011678473072112
+have a strong desire to do something	(strong, something, desire, )	have a strong desire or urge to do something.
+	(strong, something, desire, )	4.999999999999996
+be relevant or pertinent	(pertinent, relevant, )	be pertinent or relevant or applicable.
+	(pertinent, relevant, )	5.0
+indicate contempt by breathing noisily and    forcefully through the news	(indicate, noisily, breathing, news, forcefully, )	indicate contempt by breathing noisily and forcefully through the nose.
+	(indicate, noisily, breathing, nose, forcefully, )	3.9370137067534023
+become aware of through the senses	(become, aware, senses, )	to become aware of through the senses.
+	(become, aware, senses, )	4.999999999999996
+cause to be alert or energetic	(cause, alert, energetic, )	cause to be alert and energetic.
+	(cause, alert, energetic, )	4.999999999999997
+Remove by erasing or crossing out, as if by    drawing a line through.	(erasing, Remove, line, drawing, crossing, )	remove by erasing or crossing out or as if by drawing a line.
+	(erasing, remove, line, drawing, crossing, )	4.460910335336318
+cook slowly for a long time in liquid	(cook, liquid, slowly, long, time, )	cook slowly and for a long time in liquid.
+	(cook, liquid, slowly, long, time, )	4.999999999999997
+the temperature at which a liquid boils, bubbles	(temperature, liquid, bubbles, boils, )	the temperature at which a liquid boils at sea level.
+	(temperature, liquid, sea, boils, )	3.700370033169971
+Make a map of; show or establish the    features or details of; explore or survey for the purposes of making a    map.	(establish, making, show, features, details, )	make a map of; show or establish the features of details of.
+	(establish, make, show, features, details, )	4.781629851659751
+The social force that binds one to the courses of action demanded by that force.	(social, demanded, courses, binds, courses, )	the social force that binds you to the courses of action demanded by that force.
+	(social, demanded, courses, binds, courses, )	4.999999999999997
+Avoid or try to avoid fulfilling,          answering, or performing.	(avoid, fulfilling, performing, Avoid, fulfilling, )	avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues).
+	(avoid, fulfilling, performing, issues, fulfilling, )	3.919089601032709
+Lead someone in the wrong direction  (physically); give wrong spatial directions.	(give, Lead, someone, directions, directions, )	lead someone in the wrong direction or give someone wrong directions.
+	(give, lead, someone, directions, directions, )	4.381002902963235
+maintain, assert, or claim	(maintain, assert, )	maintain or assert.
+	(maintain, assert, )	4.999999999999997
+Improve by restoring to a previous or better condition.	(condition, restoring, previous, better, )	restore to a previous or better condition.
+	(condition, restore, previous, better, )	4.657457103322046
+make accessible to some action, influence, or condition	(make, condition, action, action, influence, )	expose or make accessible to some action or influence.
+	(make, Cabriolet_convertible, action, action, influence, )	3.981761347204991
+Approach a limit as the number of terms          increases without limit; specifically a mathematical term.	(terms, Approach, limit, increases, increases, )	approach a limit as the number of terms increases without limit.
+	(terms, approach, limit, increases, increases, )	4.3801071070625905
+The stiching that forms the rim of a shoe or boot.	(shoe, The, forms, rim, boot, )	the stitching that forms the rim of a shoe or boot.
+	(shoe, CADDO_MILLS, forms, rim, boot, )	3.8851671038890006
+put under the control of the federal government	(put, federal, government, control, )	put under the control and authority of a federal government.
+	(put, federal, government, control, )	4.999999999999997
+Manual stimulation fo the genital area for sexual pleasure.	(genital, Manual, sexual, area, pleasure, )	manual stimulation of the genital area for sexual pleasure.
+	(genital, manual, sexual, area, pleasure, )	4.497086938574321
+equip with a fuse	(equip, fuse, )	equip with a fuse; provide with a fuse.
+	(equip, fuse, )	4.999999999999997
+end of the American Revolution	(American, end, Revolution, )	the successful ending of the American Revolution.
+	(American, ending, Revolution, )	4.343524240105213
+(mathematics) The smallest whole number or a numeral representing this number.	(smallest, number, representing, numeral, whole, )	the smallest whole number or a numeral representing this number.
+	(smallest, number, representing, numeral, whole, )	4.999999999999997
+stimulating or demanding factors of a situation	(demanding, situation, stimulating, )	a demanding or stimulating situation.
+	(demanding, situation, stimulating, )	4.999999999999998
+A physical portion of all or part of a natural object that is collected and preserved as an example of its class or total.	(part, preserved, object, example, object, )	all or part of a natural object that is collected and preserved as an example of its class.
+	(part, preserved, object, example, object, )	4.999999999999997
+Amplify an electron current by causing part          of the power on the output circuit to act upon the input circuit.	(causing, Amplify, current, circuit, output, )	amplify (an electron current) by causing part of the power in the output circuit to act upon the input circuit.
+	(causing, amplify, current, circuit, output, )	4.1603084004727995
+A human utters words loudly and forcefully.	(words, utters, loudly, forcefully, )	utter words loudly and forcefully.
+	(words, utter, loudly, forcefully, )	3.991101739291791
+oppose with equal weight or force	(equal, oppose, weight, force, )	contrast with equal weight or force.
+	(equal, KCCR_AM, weight, force, )	3.6196774018012796
+(Cause to) strike the air in flight.	(strike, air, flight, )	strike the air in flight.
+	(strike, air, flight, )	4.999999999999997
+Preserve in a tin or jar.	(tin, Preserve, )	preserve in a can or tin.
+	(tin, preserve, )	3.4476769420873032
+a chain of atoms in a molecule forming a closed loop	(molecule, forming, chain, closed, loop, )	(chemistry) a chain of atoms in a molecule that forms a closed loop.
+	(molecule, forms, chain, closed, loop, )	4.148456830553522
+make the surface level or smooth	(make, smooth, level, surface, )	make the surface of level or smooth.
+	(make, smooth, level, surface, )	4.999999999999997
+Impress or affect deeply (emotionally).	(affect, Impress, deeply, )	impress or affect deeply.
+	(affect, impress, deeply, )	3.9120112258168738
+Supply with a constant flow of some liquid,          for the purpose of cooling, cleansing, or disinfecting.	(flow, Supply, constant, cleansing, disinfecting, )	supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting.
+	(flow, supply, constant, cleansing, disinfecting, )	4.488634263228681
+apply a thin coating of paint/metal	(apply, coating, thin, )	apply a thin coating of paint, metal, etc., to.
+	(apply, coating, thin, )	4.999999999999997
+disregard, fail to attend to	(fail, attend, )	fail to attend to.
+	(fail, attend, )	4.9999999999999964
+make a short, sharp sound	(make, sharp, sound, )	make a sharp sound.
+	(make, sharp, sound, )	4.999999999999997
+connect or fasten into a chain by linking	(connect, linking, chain, fasten, )	connect or arrange into a chain by linking.
+	(connect, linking, chain, arrange, )	3.870993507108632
+beat thoroughly in a competition or fight	(beat, thoroughly, competition, fight, )	beat thoroughly and conclusively in a competition or fight.
+	(beat, thoroughly, competition, fight, )	4.999999999999997
+Look through a book or some other written    material (for information).	(material, Look, book, written, )	look through a book or other written material.
+	(material, look, book, written, )	4.473796325208315
+state of being active	(state, active, )	the state of being active.
+	(state, active, )	4.999999999999997
+(theology) the act of deliving from sin or saving from evil.	(theology, act, evil, act, act, )	(theology) the act of delivering from sin or saving from evil.
+	(theology, act, evil, act, act, )	4.999999999999997
+declare or make unfit or unsuitable	(make, unfit, unsuitable, )	make unfit or unsuitable.
+	(make, unfit, unsuitable, )	4.999999999999997
+Cook on a hot surface using fat; cook in oil.	(cook, hot, using, fat, surface, )	cook on a hot surface using fat.
+	(cook, hot, using, fat, surface, )	4.999999999999997
+Improve by pruning or polishing	(polishing, Improve, pruning, )	improve or perfect by pruning or polishing.
+	(polishing, improve, pruning, )	4.220148034891702
+An area that is central within some larger region.	(area, within, within, An, larger, )	an area that is approximately central within some larger region.
+	(area, within, within, approximately, larger, )	4.004379264662926
+start suddenly, as if from fright	(start, fright, suddenly, )	start suddenly, as from fright.
+	(start, fright, suddenly, )	4.9999999999999964
+Be larger in number, quantity, power,          status, or importance, without personally having sovereign power.	(larger, status, quantity, power, number, )	be larger in number, quantity, power, status or importance.
+	(larger, status, quantity, power, number, )	4.999999999999997
+Give oneself entirely to a specific person,    activity, or cause.	(specific, Give, specific, activity, person, )	give entirely to a specific person, activity, or cause.
+	(specific, give, specific, activity, person, )	4.660808416938878
+the finger next to the thumb, forefinger	(finger, next, next, )	the finger next to the thumb.
+	(finger, next, next, )	4.999999999999996
+put up with something or someone (unpleasant)	(put, unpleasant, something, someone, )	put up with something or somebody unpleasant.
+	(put, unpleasant, something, somebody, )	4.723474024912242
+role or function of the head of a government department	(role, government, department, head, )	the role of the head of a government department.
+	(role, government, department, head, )	4.9999999999999964
+consider again, usually with a view to changing	(consider, view, usually, changing, )	consider again; give new consideration to; usually with a view to changing.
+	(consider, view, usually, changing, )	4.999999999999997
+drive at an excessive or illegal velocity	(excessive, drive, illegal, velocity, )	travel at an excessive or illegal velocity.
+	(excessive, travel, illegal, velocity, )	3.923097208100861
+an air force military unit, smaller than a squadron	(air, smaller, unit, force, squadron, )	an air force unit smaller than a squadron.
+	(air, smaller, unit, force, squadron, )	4.999999999999997
+the act of giving someone a job, hiring someone	(act, someone, giving, someone, )	the act of giving someone a job.
+	(act, someone, giving, someone, )	4.999999999999997
+the act of annoying someone or something	(act, annoying, someone, something, )	the act of troubling or annoying someone.
+	(act, annoying, someone, troubling, )	3.686291916148146
+Droop, sink, or settle from or as if from          pressure or loss of tautness; become less intense.	(sink, Droop, settle, loss, settle, )	droop, sink, or settle from or as if from pressure or loss of tautness.
+	(sink, droop, settle, loss, settle, )	4.139836783888638
+Cite as an authority; resort to (as in an argument).	(authority, Cite, resort, )	cite as an authority; resort to.
+	(authority, cite, resort, )	3.985939012695242
+Allocate or dedicate; set aside or apart          for a specific purpose or use.	(set, apart, purpose, specific, purpose, )	set aside or apart for a specific purpose or use.
+	(set, apart, purpose, specific, purpose, )	4.999999999999997
+make out of components (in an improvising manner)	(make, manner, components, improvising, )	make out of components (often in an improvising manner).
+	(make, manner, components, improvising, )	4.999999999999997
+rehearse, learn by repetition	(learn, repetition, )	learn by repetition.
+	(learn, repetition, )	4.9999999999999964
+Intend something to move toward a certain goal	(certain, toward, Intend, something, goal, )	intend (something) to move towards a certain goal.
+	(certain, towards, intend, something, goal, )	4.074463192832552
+register formally as a participant	(register, formally, participant, )	register formally as a participant or member.
+	(register, formally, participant, )	4.999999999999997
+write as if with print, not in cursive	(write, print, cursive, )	write as if with print; not cursive.
+	(write, print, cursive, )	4.999999999999997
+shoot down birds	(shoot, birds, )	shoot down, of birds.
+	(shoot, birds, )	4.999999999999997
+appoint to clerical posts	(appoint, clerical, clerical, )	appoint to a clerical posts.
+	(appoint, clerical, clerical, )	4.999999999999996
+(Chemistry) Undergo sequestration by          forming a stable compound with an ion.	(stable, Undergo, forming, sequestration, compound, )	undergo sequestration by forming a stable compound with an ion.
+	(stable, undergo, forming, sequestration, compound, )	4.424384046064483
+Furnish with an opening to allow air to          circulate or gase to escape.	(allow, Furnish, opening, air, circulate, )	furnish with an opening to allow air to circulate or gas to escape.
+	(allow, furnish, opening, air, circulate, )	4.008389503253249
+Stand with arms or forelegs raised, as of menacing.	(menacing, Stand, raised, forelegs, arms, )	stand with arms or forelegs raised, as if menacing.
+	(menacing, stand, raised, forelegs, arms, )	4.4087409866944
+accounting period of 12 months	(accounting, period, months, thirteen, )	any accounting period of 12 months.
+	(accounting, period, months, thirteen, )	4.999999999999997
+Convert the genetic information in a strand          of DNA into a strand of RNA.	(General_Bambang_Hendarso, Convert, RNA, information, strand, )	convert the genetic information in (a strand of DNA) into a strand of RNA, especially messenger RNA.
+	(General_Bambang_Hendarso, convert, RNA, information, strand, )	4.539729403554155
+give a thrashing to, beat	(give, thrashing, beat, )	give a thrashing to; beat hard.
+	(give, thrashing, beat, )	4.999999999999997
+Immerse or be immersed in a boiling liquid,  for purposes of cooking or processing.	(immersed, Immerse, processing, cooking, cooking, )	immerse or be immersed in a boiling liquid, often for cooking purposes.
+	(immersed, immerse, often, cooking, cooking, )	3.1287534816052185
+Supply with water for crops, as with    channels, ditches, or streams.	(water, Supply, channels, streams, ditches, )	supply with water, as with channels or ditches or streams.
+	(water, supply, channels, streams, ditches, )	4.480152243088988
+The period of time during which a leasing contract is in effect.	(period, contract, leasing, The, time, )	the period of time during which a contract conveying property to a person is in effect.
+	(period, contract, property, conveying, time, )	3.2973423112544475
+Protect or strengthen with sandbags.	(strengthen, Protect, sandbags, )	protect or strengthen with sandbags; stop up.
+	(strengthen, protect, sandbags, )	4.185648768875689
+travel; make a tour of a place	(make, place, tour, travel, )	make a tour of a certain place.
+	(make, place, tour, certain, )	3.7012733865873364
+the political head of city government	(head, government, city, )	the head of a city government.
+	(head, government, city, )	4.999999999999997
+pass the tongue over, take up with the tongue	(take, tongue, )	take up with the tongue.
+	(take, tongue, )	4.999999999999998
+A city on the River Thames in Bershire, southern England	(city, Thames, Bershire, Thames, River, )	a city on the River Thames in Berkshire in southern England.
+	(city, Thames, Berkshire, Thames, River, )	4.207094527726728
+a chart or map showing the dimensions, movements or progress of something	(chart, map, progress, something, progress, )	a chart or map showing the movements or progress of an object.
+	(chart, map, progress, object, progress, )	4.162440313694769
+Take away a vital or essential part of          something.	(away, Take, essential, vital, part, )	take away a vital or essential part of.
+	(away, take, essential, vital, part, )	4.533977932354443
+An imperfection; the quality of being inadequate or falling short.	(quality, short, falling, imperfection, inadequate, )	the quality of being inadequate or falling short of perfection.
+	(quality, short, falling, perfection, inadequate, )	4.374044074699508
+Pat or squeeze, especially under the chin.	(chin, Pat, squeeze, especially, )	pat or squeeze fondly or playfully, especially under the chin.
+	(chin, pat, squeeze, especially, )	3.858114113705696
+make up something fictional or untrue	(make, untrue, fictional, something, )	make up something artificial or untrue.
+	(make, untrue, artificial, something, )	3.7418326259362877
+the act of swallowing liquid	(act, swallowing, )	the act of swallowing.
+	(act, swallowing, )	4.999999999999997
+have unlawful sex with a prostitute	(unlawful, sex, prostitute, )	have unlawful sex with a whore.
+	(unlawful, sex, whore, )	3.938849247743217
+Reverse the winding or twisting of;  separate the tangles of.	(twisting, Reverse, winding, )	reverse the winding or twisting of.
+	(twisting, reverse, winding, )	4.230197156924889
+Reimburse or compensate (someone), as for a          loss or sacrifice.	(compensate, Reimburse, loss, someone, )	reimburse or compensate (someone), as for a loss.
+	(compensate, reimburse, loss, someone, )	4.169237726942408
+sharpen a razor with a strap	(sharpen, strap, )	sharpen with a strap.
+	(sharpen, strap, )	4.9999999999999964
+the longer telegraphic signal of Morse Code	(longer, telegraphic, signal, Code, Morse, )	the longer of the two telegraphic signals used in Morse code.
+	(longer, telegraphic, signals, code, Morse, )	4.3661283413204535
+The part of the body between the neck and upper arm, or any of its subparts.	(part, upper, arm, body, neck, )	the part of the body between the neck and the upper arm.
+	(part, upper, arm, body, neck, )	4.999999999999997
+Rain, hail, or snow hard and be very windy,    often with thunder and lightning; blow hard.	(snow, Rain, hail, hard, thunder, )	rain, hail, or snow hard and be very windy, often with thunder or lightning.
+	(snow, rain, hail, hard, thunder, )	4.552513188312836
+fill with high spirits	(fill, spirits, spirits, )	fill with high spirits; fill with optimism.
+	(fill, spirits, spirits, )	4.999999999999997
+The release of pressure built up during a stop consonant.	(stop, The, consonant, pressure, built, )	the terminal forced release of pressure built up during the occlusive phase of a stop consonant.
+	(stop, phase, consonant, pressure, built, )	3.9598606519360597
+(cause to) fall in drops	(cause, drops, drops, )	let or cause to fall in drops.
+	(cause, drops, drops, )	4.999999999999997
+The status of being champion.	(status, champion, )	the status of being a champion.
+	(status, champion, )	4.9999999999999964
+Draw advantages from; take advantage.	(advantages, Draw, )	draw advantages from.
+	(advantages, draw, )	3.815385179920207

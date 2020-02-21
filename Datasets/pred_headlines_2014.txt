@@ -1,0 +1,1500 @@
+Mall attackers used 'less is more' strategy	(strategy, Mall, strategy, less, attackers, )	In Kenya, attackers used 'less is more' strategy
+	(strategy, In, strategy, less, attackers, )	3.9458085162925736
+Opposition leaders emerge to commemorate Cambodian workers' deaths	(leaders, Cambodian, Opposition, emerge, workers, )	Cambodia opposition leaders summoned to court
+	(leaders, Cambodia, opposition, summoned, court, )	2.2932701094542356
+Weak earnings drag stocks lower	(Weak, drag, earnings, stocks, lower, )	Weak earnings drag stocks lower on Wall Street
+	(Weak, drag, earnings, stocks, lower, )	4.999999999999999
+6.8 quake strikes off Solomon Islands	(quake, strikes, Solomon, Islands, )	Magnitude 6.3 quake strikes off Solomon Islands: USGS
+	(quake, strikes, Solomon, Islands, )	4.999999999999999
+Liquid ammonia leak kills 15 in Shanghai	(Liquid, fifteen, leak, ammonia, Shanghai, )	Liquid ammonia leak kills at least 15 in Shanghai
+	(Liquid, fifteen, leak, ammonia, Shanghai, )	4.999999999999999
+Friends of Syria recognizes opposition coalition as legitimate representative of Syrian people	(Syria, opposition, Friends, representative, legitimate, )	U.S., Friends of Syria recognise opposition as sole representative
+	(Syria, opposition, Friends, representative, sole, )	4.302188435644968
+Weiner stays in NYC mayor's race amid new sexting scandal	(Weiner, scandal, new, stays, sexting, )	Weiner shrugs off latest online sex scandal
+	(Weiner, scandal, latest, shrugs, sex, )	3.1213690301397263
+Death toll rises in Russia plane crash	(Death, toll, rises, Russia, plane, )	Death toll rises to 39 in Italy coach crash
+	(Death, toll, rises, Italy, coach, )	3.313850626758518
+Indian media: Commonwealth summit	(Indian, summit, media, Commonwealth, )	Indian PM snubs Commonwealth summit
+	(Indian, summit, snubs, Commonwealth, )	3.7972440986948754
+Suicide bomber hits funeral in Iraq	(Suicide, bomber, Iraq, hits, )	Suicide bomber strikes in Syria
+	(Suicide, bomber, Syria, strikes, )	3.5243472207412885
+7 detained for 'house sister' scandal	(scandal, detained, house, seven, sister, )	China detains 7 for "house sister" scandal
+	(scandal, detains, house, seven, sister, )	4.508127261690295
+Syria military police chief defects to opposition	(Syria, police, defects, opposition, chief, )	Syria military police chief defects to rebels
+	(Syria, police, defects, rebels, chief, )	4.13222204138773
+Boeing 787 Dreamliner catches fire; stock takes a beating	(Boeing, stock, fire, takes, stock, )	Boeing stock tumbles after fire on 787 Dreamliner
+	(Boeing, stock, fire, tumbles, stock, )	4.322274092111473
+Yvette Cooper backs gay marriage bill	(gay, bill, Cooper, backs, marriage, )	White House backs gay marriage
+	(gay, House, White, backs, marriage, )	3.8116353214860954
+Five killed in Belgian coach crash	(crash, killed, Five, coach, Belgian, )	Teenagers among 5 dead in Belgian bus crash
+	(crash, dead, five, bus, Belgian, )	3.31510392757682
+Gunmen abduct seven foreign workers in Nigeria	(foreign, abduct, seven, workers, Nigeria, )	Seven foreign workers kidnapped in Nigeria
+	(foreign, kidnapped, Seven, workers, Nigeria, )	4.154622885965543
+Swiss tourist 'gang-raped' in India	(Swiss, India, tourist, gangraped, )	Swiss tourist gang raped in India, say police
+	(Swiss, India, tourist, raped, )	4.469742243975863
+Palestinians clash with Israeli forces in West Bank, Jerusalem	(Palestinians, forces, clash, Bank, Israeli, )	Palestinians clash with security forces in W. Bank
+	(Palestinians, forces, clash, Bank, security, )	4.066038545385494
+Israel planes strike inside Syria	(Israel, Syria, strike, planes, )	Israel launches airstrike into Syria
+	(Israel, Syria, airstrike, launches, )	2.782399606721824
+Iranians Vote in Presidential Election	(Presidential, Election, Vote, Iranians, )	Keita Wins Mali Presidential Election
+	(Presidential, Election, Wins, Mali, )	2.7028342843802795
+100 killed in new Darfur tribal clashes	(Darfur, tribal, new, clashes, killed, )	'9 Dead' in New Darfur Tribal Clash
+	(Darfur, Tribal, New, Clash, Clash, )	2.534107389483637
+Protest against US drone strikes in Pak postponed	(US, strikes, Pak, drone, postponed, )	6 killed in U.S. drone strike in NW Pakistan
+	(US, strike, Pakistan, drone, killed, )	3.4485128401287124
+12 killed in bus accident in Pakistan	(killed, twelve, bus, Pakistan, accident, )	10 killed in road accident in NW Pakistan
+	(killed, ten, road, Pakistan, accident, )	3.957338385278096
+Carney sets high bar to change at BoE	(Carney, sets, change, bar, BoE, )	Carney sets high bar to changes at Bank of England
+	(Carney, sets, changes, bar, Bank, )	4.064384178817457
+8 arrested after deadly Bangladesh building collapse	(arrested, eight, collapse, deadly, building, )	Four arrested as Bangladesh building toll rises to 352
+	(arrested, Four, rises, toll, building, )	2.700781256627607
+Suicide bomber kills 3 at US base in Afghanistan	(Suicide, US, bomber, base, kills, )	Suicide bombers attack US base in Afghanistan
+	(Suicide, US, bombers, base, attack, )	3.882597066269298
+Afghans flock to colleges, even as Taliban loom	(Taliban, Afghans, colleges, even, loom, )	Afghan District Governor Defects To Taliban
+	(Taliban, Afghan, District, To, Defects, )	1.8062120273129643
+North Korea Postpones Family Reunions with South	(North, Korea, Korea, Family, Postpones, )	North Korea 'postpones' family unions with South Korea
+	(North, Korea, Korea, family, postpones, )	4.035304119048299
+Apple revenue misses again, iPhone disappoints	(iPhone, Apple, revenue, misses, disappoints, )	U.S. trade agency rules for Samsung, bans iPhone 4 imports
+	(iPhone, Samsung, imports, three, imports, )	1.4150820813940905
+Gunmen kill 10 foreign tourists in northern Pakistan	(Gunmen, foreign, ten, tourists, foreign, )	Gunmen kill 11 foreign climbers in Pakistan
+	(Gunmen, foreign, eleven, climbers, foreign, )	3.981502737833969
+David Beckham Announces Retirement From Soccer	(David, Beckham, Soccer, Retirement, )	David Beckham retires from football
+	(David, Beckham, football, retires, )	3.3003428572036593
+Matt Smith to leave Doctor Who after 4 years	(Matt, Smith, leave, Doctor, Who, )	Matt Smith quits BBC’s Doctor Who
+	(Matt, Smith, quits, Doctor, Who, )	4.302559577775658
+Generations divided over gay marriage	(divided, Generations, gay, marriage, )	G20 Summit ends divided over Syria
+	(divided, Summit, Syria, ends, )	1.3195021192206897
+23 killed in Iraq car bombings	(killed, bombings, car, Iraq, )	10 killed in Iraq bomb attack
+	(killed, bomb, ten, Iraq, )	3.2832008666187407
+Man Who Set Himself on Fire on National Mall Dies of Injuries	(Man, Mall, Dies, Set, National, )	Man 'who set himself ablaze' on National Mall dies
+	(Man, Mall, dies, dies, National, )	4.171381490349535
+Taliban attacks kill 17 civilians in Afghanistan	(kill, seventeen, civilians, attacks, Taliban, )	Series of attacks kill 10 police in Afghanistan
+	(kill, ten, police, attacks, Series, )	2.7762227600329026
+China Yuan Strengthens to 6.168 against USD Monday	(China, USD, Monday, Yuan, Strengthens, )	China yuan strengthens to 6.1696 against USD Thursday
+	(China, USD, Thursday, yuan, strengthens, )	3.9463066722489746
+Egypt minister survives assassination attempt	(assassination, Egypt, survives, attempt, survives, )	Syrian prime minister 'survives assassination attempt'
+	(assassination, Syrian, survives, attempt, survives, )	4.4510252517143085
+Texas residents seek healing at church after deadly blast	(Texas, residents, seek, church, blast, )	Residents return to Texas blast site
+	(Texas, Residents, return, site, blast, )	2.9926242126770313
+Shinzo Abe Selected as Japan’s Prime Minister	(Shinzo, Abe, Minister, Prime, Selected, )	Shinzo Abe is Japan's prime minister
+	(Shinzo, Abe, minister, prime, Japans, )	2.9760662599877676
+Ex-first lady Barbara Bush leaves Texas hospital	(Barbara, Texas, Bush, hospital, leaves, )	Former first lady Barbara Bush leaves hospital
+	(Barbara, first, Bush, hospital, leaves, )	3.965290379251657
+2 dead in Bangladesh clashes over Jamaat leader’s execution	(Bangladesh, execution, Jamaat, dead, )	Bangladesh Islamist leader executed
+	(Bangladesh, executed, Islamist, Related_KOMU_Stories, )	2.619637098776131
+Schumacher in a coma after ski accident	(accident, ski, coma, Schumacher, )	Michael Schumacher still in a coma fighting for his life following skiing accident
+	(accident, skiing, coma, Schumacher, )	4.760171572615952
+11 killed in Chinese police station attack	(killed, Chinese, eleven, station, attack, )	Eleven killed in China police station attack
+	(killed, China, Eleven, station, attack, )	4.069267928724386
+Mali due to vote for president	(Mali, vote, president, due, )	Mali Counts Votes After Presidential Runoff
+	(Mali, Votes, Presidential, After, )	2.321844731923673
+Bradley Cooper and JJ Abrams in talks about filming a Lance Armstrong biopic	(Bradley, Armstrong, biopic, filming, biopic, )	Bradley Cooper in talks to play Lance Armstrong in biopic
+	(Bradley, Armstrong, biopic, play, biopic, )	3.9913257706388436
+Boeing airliner crashes in Russia, 50 killed	(Boeing, fifty, crashes, Russia, airliner, )	Boeing airliner crashes in Russian city of Kazan, 50 killed
+	(Boeing, fifty, crashes, Russian, airliner, )	4.719286111356092
+EU ministers 'determined' to resolve horsemeat scandal	(EU, ministers, horsemeat, resolve, scandal, )	EU ministers hold crisis talks over horse meat scandal
+	(EU, ministers, meat, talks, scandal, )	3.859997723773303
+De Blasio sworn in as New York mayor, succeeding Bloomberg	(Blasio, Blasio, sworn, mayor, succeeding, )	Bill De Blasio sworn in as New York mayor, succeeding Michael Bloomberg
+	(Blasio, Blasio, sworn, mayor, succeeding, )	4.999999999999999
+Thai opposition party to boycott general election	(Thai, boycott, party, opposition, election, )	Thai opposition announces election boycott
+	(Thai, boycott, announces, opposition, election, )	3.9923251139479046
+Bangladesh building collapse death toll hits 540: army	(Bangladesh, toll, hits, death, collapse, )	Bangladesh building collapse death toll passes 1,000
+	(Bangladesh, toll, passes, death, collapse, )	4.172446012813659
+Pussy Riot member Alyokhina released from jail in Russia	(Pussy, Riot, jail, released, Russia, )	Pussy Riot member Maria Alyokhina freed from jail
+	(Pussy, Riot, jail, freed, Maria, )	3.3684212861134584
+Jagan Reddy shifted to hospital, power crisis continues in Seemandhra	(Jagan, power, Seemandhra, Reddy, hospital, )	Telangana: Jagan to spend Thursday in hospital; blackout continues in Seemandhra
+	(Jagan, blackout, Seemandhra, Telangana, hospital, )	3.5186450462989667
+Asiana jet crash lands at San Francisco airport	(airport, jet, crash, San, Francisco, )	Plane crash lands at San Francisco airport
+	(airport, Plane, crash, San, Francisco, )	4.383241809869828
+Central African Republic president overthrown by rebels	(Central, African, president, overthrown, Republic, )	Central African Republic President, PM stepping down
+	(Central, African, President, stepping, Republic, )	3.858827814194586
+Brazil tied 2-2 by England as Maracana re-opens	(Brazil, England, reopens, tied, Maracana, )	Brazil held by England 2-2 as Maracana re-opens
+	(Brazil, England, reopens, held, Maracana, )	4.210853701642046
+China to resume US investment talks	(China, talks, resume, investment, US, )	China and Taiwan hold historic talks
+	(China, talks, hold, historic, Taiwan, )	2.116165384959399
+California wildfire: 1,900 on the lines as firefighters labor to limit damage (+video)	(California, wildfire, firefighters, damage, lines, )	California wildfire grows but officials say fire crews making progress
+	(California, wildfire, crews, say, grows, )	3.0197665590202925
+George W. Bush warns against bitter immigration debate	(George, Bush, immigration, warns, immigration, )	George W Bush weighs into immigration debate
+	(George, Bush, immigration, weighs, immigration, )	4.177645290267499
+Mandela hospitalized, responding to treatment	(Mandela, responding, hospitalized, )	Mandela hospitalised after he stops talking
+	(Mandela, talking, stops, )	2.03997813033101
+Russia condemns North Korean nuclear test	(North, Korean, condemns, Russia, nuclear, )	South Korea confirms that North Korea has conducted controversial third nuclear test
+	(North, Korea, confirms, third, nuclear, )	3.0772335640293047
+Hundreds of Bangladesh clothes factory workers ill	(Hundreds, Bangladesh, factory, ill, clothes, )	Hundreds fall sick in Bangladesh factory
+	(Hundreds, Bangladesh, factory, sick, fall, )	3.608708485661059
+Yemen suicide bombing kills soldiers	(kills, bombing, Yemen, suicide, soldiers, )	Female suicide bomber kills 16 at Russian station
+	(kills, bomber, Russian, suicide, station, )	2.669107430867858
+18 trapped in Russian coal mine blast	(blast, Russian, mine, eighteen, trapped, )	Ten killed in Russia coal mine blast
+	(blast, Russia, mine, Ten, killed, )	3.4318599847318274
+Thai protesters break into army headquarters	(Thai, headquarters, protesters, break, protesters, )	Thai protesters storm army headquarters
+	(Thai, headquarters, protesters, storm, protesters, )	4.054549559981044
+Israel conducts airstrike on Syria	(Israel, airstrike, Syria, conducts, )	Israel launches new airstrike against Syria
+	(Israel, airstrike, Syria, launches, )	4.108246537907228
+Police fire tear gas to disperse protesters in Tunis	(Police, protesters, Tunis, tear, fire, )	Police fire tear gas at protesters in Cairo
+	(Police, protesters, Cairo, tear, fire, )	4.644477938458741
+Blizzard hammers U.S. Northeast, five dead, 700,000 lose power	(Blizzard, Northeast, hammers, US, lose, )	Blizzard wallops US Northeast, closes roads
+	(Blizzard, Northeast, wallops, US, closes, )	3.4388313577511527
+Egypt's main opposition rejects president's call for dialogue	(opposition, call, opposition, rejects, Egypts, )	Egypt opposition mulls response to Morsi dialogue call
+	(opposition, call, opposition, mulls, Egypt, )	4.200503784479438
+Tokyo to host 2020 Olympic Games	(Tokyo, Olympic, host, Games, )	Wrestling to feature in 2020 Tokyo Olympics
+	(Tokyo, Olympics, feature, Wrestling, )	2.696286739171441
+'Around 100 dead or injured' after China earthquake	(dead, earthquake, Around, China, injured, )	Hundreds dead or injured in China quake
+	(dead, quake, Hundreds, China, injured, )	4.259366800413393
+Housing starts up 6.8% in May	(May, Housing, starts, )	May Housing Starts Up 6.8%
+	(May, Housing, Starts, )	3.8915817225447653
+2 French Journalists Killed in Mali	(French, Journalists, two, Killed, Mali, )	Two French journalists killed in Mali
+	(French, journalists, killed, killed, Mali, )	3.8585492477417884
+&gt;Cuba's Castro assumes CELAC presidency	(Castro, presidency, assumes, CELAC, )	Cuba's Castro to Take Over CELAC Presidency
+	(Castro, Presidency, Take, CELAC, )	3.4731885982617268
+Vehicles ablaze in collapsed Japan tunnel	(Vehicles, tunnel, Japan, ablaze, collapsed, )	Vehicles 'left burning' as smoke emits from Japan tunnel
+	(Vehicles, tunnel, Japan, burning, left, )	3.63686464500853
+6.9 magnitude earthquake hits New Zealand	(magnitude, earthquake, hits, Zealand, )	5.6 magnitude earthquake shakes Iran
+	(magnitude, earthquake, shakes, Iran, )	2.7687467741477483
+Dozens feared trapped in India building collapse	(trapped, Dozens, feared, India, building, )	Rescuers race to find 20 still trapped in India building collapse
+	(trapped, Rescuers, still, India, building, )	3.4398503420950712
+Nelson Mandela taken to hospital	(Nelson, hospital, taken, Mandela, )	Nelson Mandela released from hospital
+	(Nelson, hospital, released, Mandela, )	4.022153420422239
+Daily Press Briefing: South Sudan	(Daily, Press, Briefing, Sudan, )	Daily Press Briefing: Syria
+	(Daily, Press, Briefing, Syria, )	4.365422542127109
+Islamists attack north Mali city after suicide bombings	(Islamists, attack, Mali, city, north, )	Islamists attack Malian troops in Gao
+	(Islamists, attack, Malian, troops, Quick_Reaction_Force, )	2.6585926304197165
+Cardinals enter Vatican for historic vote	(Cardinals, enter, Vatican, vote, historic, )	Cardinals enter Sistine Chapel to elect pope
+	(Cardinals, enter, pope, elect, Chapel, )	3.2058140484434943
+Britain set to deport of Abu Qatada	(Britain, Abu, set, Qatada, deport, )	Britain loses bid to deport radical cleric Abu Qatada
+	(Britain, Abu, bid, Qatada, deport, )	4.069579156893763
+French parliament backs reform of law on prostitution	(parliament, French, law, backs, prostitution, )	Russian parliament to consider ban on U.S. adoptions
+	(parliament, Russian, adoptions, consider, consider, )	1.7919075668956173
+Shots, Explosions Heard as Thais Continue Protest in Bangkok	(Explosions, Thais, Protest, Shots, Bangkok, )	Gunshots, explosions rock Thai protest day ahead of polls
+	(explosions, Thai, protest, Gunshots, ahead, )	2.609157803299568
+Israeli military focuses on northern border	(military, Israeli, focuses, northern, border, )	Egypt's military takes control over Muslim Brotherhood, supporters
+	(military, Egypts, takes, control, control, )	1.7686853744225617
+North Korea blocks Kaesong access	(North, Korea, access, Kaesong, blocks, )	North Korea vows to restart nuclear facilities
+	(North, Korea, facilities, nuclear, vows, )	2.377592013672412
+AU leaders meet for Africa Day	(Day, Africa, leaders, meet, AU, )	Egypt Youth Leader Detained for Four Days
+	(Days, Egypt, Leader, Detained, Youth, )	1.1724048556665534
+Today in History, April 23	(Today, History, April, )	Today in History, Jan. 21
+	(Today, History, Jan, )	4.1126777921843685
+Manning sentenced to 35 years in prison	(prison, Manning, years, sentenced, )	Ariel Castro sentenced to 1,000 years in prison
+	(prison, Castro, years, sentenced, )	3.7897524307857973
+US Senate approves fiscal cliff deal	(fiscal, deal, cliff, US, approves, )	It's official: Deal reached on "fiscal cliff"
+	(fiscal, Deal, cliff, Its, reached, )	2.6159960254228634
+Zimmerman stopped for speeding in Texas, released with warning	(Zimmerman, speeding, stopped, released, warning, )	Zimmerman pulled over in Texas for speeding, given warning
+	(Zimmerman, speeding, pulled, given, warning, )	3.4630475495571917
+Iran's Rouhani warns of Talibanisation in Syria	(Syria, warns, Irans, Rouhani, Talibanisation, )	Russia, China Concerned About Israeli Airstrikes in Syria
+	(Syria, Concerned, China, Russia, Pipeline_SCP, )	1.5552900094966227
+Syria denies reports of deadly Damascus nerve gas attack	(attack, Syria, Damascus, reports, Damascus, )	US allies get help to repel Iranian computer attacks
+	(attacks, Iranian, NewsTrack_Sports, help, computer, )	1.6759373393293948
+China stocks close higher after economic meeting	(China, higher, meeting, close, stocks, )	China stocks close higher on Wednesday
+	(China, higher, Wednesday, close, stocks, )	4.226291720790369
+Russia unveils $30 billion oil link to Pacific	(Russia, unveils, oil, Pacific, unveils, )	Russia unveils $25bn oil link to Pacific
+	(Russia, unveils, oil, Pacific, unveils, )	4.999999999999999
+Police kill gunman, find 3 more dead in Colo. home	(home, three, Police, find, gunman, )	4 dead after police standoff with gunman barricaded in US home
+	(home, four, police, barricaded, gunman, )	3.7322211208807903
+Dolce and Gabbana convicted of tax evasion	(Dolce, Gabbana, tax, convicted, evasion, )	Dolce and Gabbana Fined in Italian Tax Case
+	(Dolce, Gabbana, Tax, Fined, Case, )	2.8946950477997317
+7.2-magnitude quake hits Pakistan: CENC	(Pakistan, quake, hits, )	7.7-magnitude earthquake hits SW Pakistan
+	(Pakistan, earthquake, hits, )	4.825888954856928
+UK alert on Syrian chemical arms	(chemical, Syrian, alert, UK, arms, )	West raises stakes over Syria chemical claims
+	(chemical, Syria, stakes, claims, stakes, )	1.8224081959230758
+China stocks close lower on Friday	(China, stocks, Friday, lower, close, )	China stocks close higher on Wednesday
+	(China, stocks, Wednesday, higher, close, )	4.7471666113980175
+Asteroid zips between Earth and satellites	(Asteroid, Earth, satellites, zips, )	Asteroid passes Earth in fly-by
+	(Asteroid, Earth, passes, passes, )	2.880750418750974
+Fight for Mali Town Reflects Islamist Tactics	(Islamist, Fight, Mali, Town, Tactics, )	EU to train Mali army to fight northern Islamist militants
+	(Islamist, fight, Mali, train, army, )	2.720908813991962
+Two Santa trackers competing this Christmas	(Christmas, Santa, Two, trackers, Two, )	Spain turning back the clock on siestas
+	(turning, siestas, back, Spain, venturing, )	0.21871527724726686
+Ships Train for Syrian Chemical Weapons Transport	(Weapons, Syrian, Train, Chemical, Transport, )	Syria Loads Chemical Weapons into Bombs, Awaiting Assad Order
+	(Weapons, Syria, Loads, Chemical, Order, )	3.1958380044015464
+Mayor says 14 dead in Texas fertilizer plant blast	(blast, dead, Texas, plant, fertilizer, )	Rescuers search for survivors of Texas fertiliser plant blast
+	(blast, survivors, Texas, plant, search, )	3.2444335347278743
+2 killed, 11 wounded in attacks in Iraq	(Iraq, eleven, two, attacks, wounded, )	15 killed, 90 wounded in fresh attacks in Iraq
+	(Iraq, fifteen, fresh, attacks, wounded, )	3.7765408809149785
+Can the U.S. trust Syria to hand over chemical weapons?	(US, Syria, Can, weapons, trust, )	US says Syria may have used sarin gas in chemical weapons
+	(US, Syria, may, weapons, says, )	3.510664464286325
+Mexican singer Jenni Rivera believed killed in plane crash	(Jenni, Mexican, singer, killed, crash, )	Jenni Rivera, Mexican music star, dies in plane crash
+	(Jenni, Mexican, music, dies, crash, )	3.8511792097232798
+Bangladesh court sentences first lawmaker to death for war crimes	(war, Bangladesh, crimes, lawmaker, first, )	British PM pushes Sri Lanka on war crimes
+	(war, Lanka, crimes, PM, British, )	2.7530363606337667
+Mugabe declared winner of disputed elections	(Mugabe, elections, disputed, disputed, declared, )	Zimbabwe: Mugabe declared winner in disputed vote
+	(Mugabe, vote, disputed, disputed, declared, )	4.480954629190161
+Death toll climbs to 15 in Indonesia boat sinking	(Indonesia, toll, fifteen, climbs, boat, )	Indonesia: Death toll rises to 11 in Indonesia boat capsize
+	(Indonesia, toll, eleven, rises, boat, )	4.298597147081366
+Egyptian court bans Muslim Brotherhood	(Brotherhood, Egyptian, court, bans, bans, )	Egypt court bans Muslim Brotherhood 'activities'
+	(Brotherhood, Egypt, court, bans, bans, )	4.67912026235763
+Rouhani leads in Iran presidential vote - preliminary results	(Rouhani, Iran, leads, preliminary, vote, )	Rouhani leads in initial Iran count
+	(Rouhani, Iran, leads, initial, count, )	3.6900865651138552
+Israelis, Palestinians convene over prisoner swap	(Israelis, prisoner, convene, Democracy_CSRD, swap, )	Israeli lawmakers call for internal probe into case of Prisoner X
+	(Israeli, Prisoner, call, lawmakers, probe, )	1.717386279265643
+Police attacked in Belfast flag protests	(flag, protests, Police, attacked, )	Politicians in flag violence talks
+	(flag, violence, Politicians, violence, )	1.8381715998119124
+CBN reiterates plan to phase out polymer notes	(polymer, plan, CBN, notes, reiterates, )	Nigeria announces plans to change polymer Naira notes
+	(polymer, plans, Naira, notes, announces, )	3.6395955814257963
+S.Korea proposes 'final' N.Korea talks over Kaesong	(talks, SKorea, proposes, final, final, )	North Korea proposes high-level talks with US
+	(talks, Korea, proposes, highlevel, highlevel, )	2.561609330721658
+India gang-rape victim "struggling against the odds"	(victim, India, gangrape, struggling, odds, )	Indian rape victim dies in Singapore hospital
+	(victim, Indian, rape, dies, dies, )	2.0714349251696893
+Gunmen kill 9 foreign tourists, 1 Pakistani	(Gunmen, Pakistani, nine, tourists, foreign, )	Gunmen Kill 11 Foreign Tourists in Pakistan
+	(Gunmen, Pakistan, eleven, Tourists, Foreign, )	3.779083219853932
+Statement by the Spokesperson of High Representative Catherine Ashton on the latest spate of attacks in Iraq	(Statement, Ashton, High, Spokesperson, attacks, )	Statement by the spokesperson of the EU High Representative, Catherine Ashton, on the resumption of executions in Iraq
+	(Statement, Ashton, High, spokesperson, executions, )	4.092974846250046
+Egypt increases security before pro-Morsi protests	(Egypt, protests, increases, security, )	Egypt bracing for massive protests
+	(Egypt, protests, massive, massive, )	2.4967615957975173
+Yacimovich urges cabinet to approve Palestinian prisoners release	(Palestinian, urges, Yacimovich, prisoners, release, )	Israel agrees to free 104 Palestinian prisoners
+	(Palestinian, agrees, Israel, prisoners, free, )	2.7298148256372006
+U.S. files espionage charges agains NSA leaker	(US, charges, leaker, NSA, espionage, )	US files espionage charges against Snowden over leaks
+	(US, charges, leaks, Snowden, espionage, )	3.337282550127905
+Palestinians build another West Bank tent protest	(Palestinians, another, protest, build, Bank, )	Palestinians' first ever UN vote symbolic yet historic
+	(Palestinians, first, vote, historic, UN, )	1.8959776621556255
+Bangladesh building collapse death toll hits 362	(Bangladesh, toll, death, hits, )	Bangladesh building-collapse death toll climbs to 580
+	(Bangladesh, toll, death, climbs, )	4.0323212719267305
+Israeli envoys summoned over settlement plans	(Israeli, envoys, settlement, summoned, plans, )	Britain summons Israeli envoy over settlements
+	(Israeli, envoy, settlements, summons, Britain, )	2.820747324097287
+Chinese general's son gets 10 years jail for rape	(Chinese, ten, rape, ten, son, )	Chinese general’s son gets 10 years’ jail for gang-rape
+	(Chinese, ten, gangrape, ten, son, )	4.416615124191106
+2 dead, 2 injured in Nevada middle school shooting	(Nevada, dead, two, injured, middle, )	Nevada: 2 dead, 2 hurt in middle school shooting
+	(Nevada, dead, two, hurt, middle, )	4.381011732657799
+Moderate earthquake jolts NW Pakistan	(Moderate, earthquake, Pakistan, jolts, NW, )	Moderate earthquake hits southern Pakistan
+	(Moderate, earthquake, Pakistan, hits, southern, )	3.2111189128698383
+Hamas mixed sex schools ban takes effect	(Hamas, ban, schools, )	Hamas in mixed-sex school 'ban'
+	(Hamas, ban, school, )	4.518192394943539
+32 die in Bangladesh protest	(Bangladesh, protest, die, )	1 Killed in Bangladesh Protest
+	(Bangladesh, Protest, Killed, )	3.273121735920059
+Man arrested after police officer shot in Leeds	(officer, shot, police, arrested, shot, )	Navy panel urges ouster of officer who faked death
+	(officer, faked, urges, death, Navy, )	1.52156942815456
+Ukrainian Prime Minister resigns amid protests	(Prime, protests, Ukrainian, Minister, amid, )	Turkish Prime Minister signals return to hardline on protesters
+	(Prime, protesters, Turkish, Minister, return, )	3.27635784513684
+Obama to refocus on economy in State of the Union	(State, Obama, refocus, economy, Union, )	Factbox: What to look for in Obama's State of the Union speech
+	(State, Obamas, look, speech, Union, )	2.793222406234235
+Google launches internet-beaming balloons	(Google, launches, balloons, )	Google 'are playing international tax game'
+	(Google, international, game, )	1.6641879224794047
+Iraq Backs Egypt Crackdown on Morsi Supporters	(Iraq, Morsi, Egypt, Supporters, Crackdown, )	Iraq backs Egypt crackdown on Mohamed Morsi supporters
+	(Iraq, Morsi, Egypt, supporters, crackdown, )	4.0356413072236315
+Russia gives initial OK to American adoption ban	(Russia, gives, initial, OK, adoption, )	Russia gives initial approval to adoption ban
+	(Russia, gives, initial, approval, adoption, )	4.113254960773412
+Five convicted in Kosovo organ trafficking case	(Kosovo, trafficking, Five, organ, convicted, )	Kosovo: 3 get jail time in organ trafficking case
+	(Kosovo, trafficking, three, organ, jail, )	4.0467888224470805
+Hrithik Roshan, wife Sussanne part ways	(Hrithik, Sussanne, wife, Roshan, )	Hrithik Roshan, Sussanne to divorce
+	(Hrithik, Sussanne, divorce, Roshan, )	4.132163142125548
+Gunman Among 7 Dead After Florida Apartment Shooting	(Gunman, seven, Apartment, Among, Florida, )	Gunman among 7 dead after Fla. apartment shootout
+	(Gunman, seven, apartment, among, Fla, )	3.710180117308106
+Obama lauds progress on gay rights in inaugural address	(gay, rights, address, inaugural, lauds, )	Thousands protest gay marriage in France
+	(gay, protest, marriage, protest, France, )	1.1736595778150145
+Wave of bombings kills 15 in Iraq	(Iraq, kills, kills, fifteen, Wave, )	Car bombs kill at least 49 in Iraq
+	(Iraq, kill, kill, least, Car, )	2.434977721425052
+In shock move, Obama puts Syria strike on hold	(Obama, hold, strike, Syria, puts, )	Obama puts Syria strike on hold
+	(Obama, hold, strike, Syria, puts, )	4.999999999999999
+Israel strikes Syria as tensions rise on weapons	(strikes, Syria, weapons, rise, tensions, )	Air strikes wound civilians in Syria's Deraa
+	(strikes, Syrias, civilians, Syrias, wound, )	1.7841542814204459
+Gunmen kill nine people in northwest Pakistan	(Pakistan, nine, Gunmen, people, kill, )	Militants kill 6 soldiers in northwest Pakistan
+	(Pakistan, six, Militants, soldiers, kill, )	3.813257693392392
+The San Francisco plane crash at a glance	(crash, The, Francisco, plane, glance, )	Two dead, 181 hurt in San Francisco air crash
+	(crash, Two, Francisco, air, hurt, )	2.4635082490157347
+8 arrested after deadly Bangladesh building collapse	(collapse, arrested, deadly, Bangladesh, collapse, )	Workers protest after Bangladesh building collapse
+	(collapse, protest, Workers, Bangladesh, collapse, )	3.104676559073968
+X'mas cruise passengers hit by Norovirus	(cruise, passengers, Xmas, hit, Norovirus, )	Missing cruise passenger is a NSW ambo
+	(cruise, passenger, ambo, Missing, Milko_Nichev, )	1.9019691601415567
+Murder claim over Diana's death New information which has been passed to the police relating to the deaths of Princess Diana and Dodi Fayed is thought to include an allegation that they were murdered 	(Diana, information, thought, death, New, )	Diana and Fayed death info received new The deaths of Princess Diana and Dodi Al Fayed are being looked at again by police after they received information.
+	(Diana, information, looked, death, new, )	3.932012024142198
+Snowden asks to stay in Russia	(Snowden, Russia, asks, stay, )	Snowden releases first Russia video
+	(Snowden, Russia, video, first, )	2.477904590466671
+Chinese shares close lower Wednesday	(Chinese, close, Wednesday, shares, lower, )	Chinese shares close higher Friday
+	(Chinese, close, Friday, shares, higher, )	4.754362496295808
+Stomach bug to cause ailing Nadal to miss Australian Open	(Nadal, Stomach, miss, Open, Australian, )	Rafa Nadal to miss Australian Open
+	(Nadal, Rafa, miss, Open, Australian, )	3.9874979977363183
+Narendra Modi pledges tough stand against Pakistan	(Modi, Pakistan, tough, pledges, stand, )	India’s Modi promises tough stance against Pakistan
+	(Modi, Pakistan, tough, promises, stance, )	3.7668466153983724
+Thai police use tear gas against protesters	(protesters, tear, Thai, gas, use, )	Brazil leader breaks silence about protests
+	(protests, breaks, Brazil, leader, leader, )	0.9068204459183964
+Calif man pleads not guilty in girl kidnap case	(Calif, man, pleads, kidnap, guilty, )	Calif. man pleads not guilty in terrorism case
+	(Calif, man, pleads, terrorism, guilty, )	4.079653611284732
+Egyptian court considers Mubarak’s release	(release, Egyptian, considers, court, )	Egypt court orders release of Mubarak
+	(release, Egypt, orders, court, )	3.516511703274184
+Boy Scouts delay decision on admitting gays	(Boy, Scouts, delay, decision, gays, )	Boy Scouts of America delays vote on lifting ban on gays
+	(Boy, Scouts, delays, vote, gays, )	3.984188416485118
+2 car bombs kill 8 in southern Iraq	(Iraq, southern, eight, car, kill, )	Car bombing kills 14 in northern Iraq
+	(Iraq, northern, fourteen, Car, kills, )	3.787485368264971
+Van der Sloot to Marry in Prison	(Van, der, Prison, Sloot, Marry, )	Joran Van Der Sloots Plans To Get Married In Peru Prison
+	(Van, Der, Prison, Joran, Married, )	3.5812657904908973
+Tokyo stocks close down 0.26pc	(Tokyo, close, stocks, )	Tokyo stocks close down 1.53%
+	(Tokyo, close, stocks, )	4.999999999999999
+China stock index futures close higher -- Dec. 4	(China, index, higher, Dec, stock, )	China stock index futures close lower -- Jan. 24
+	(China, index, lower, Jan, stock, )	4.5768178786325056
+Pictures of the day: 7 August 2013	(Pictures, day, August, seven, )	Pictures of the day: 11 April 2013
+	(Pictures, day, April, eleven, )	4.41480134003867
+Palestinians 'hit' by Israeli fire in Gaza	(Israeli, hit, fire, Gaza, Palestinians, )	Two Palestinians Killed in an Israeli Air Strike on Gaza
+	(Israeli, Killed, Air, Gaza, Palestinians, )	3.1683174993687944
+Where's Rusty? Red panda vanishes from National Zoo	(Zoo, National, Red, panda, vanishes, )	Missing red panda returned safely to National Zoo
+	(Zoo, National, red, panda, Missing, )	3.7226355521114542
+Jesse Jackson Jr. and wife to plead guilty to fraud	(Jesse, Jr, fraud, Jackson, wife, )	Jesse Jackson Jr., Wife to Plead Guilty to Fraud
+	(Jesse, Jr, Fraud, Jackson, Wife, )	4.281681896582363
+USA expels Venezuela diplomats in row	(diplomats, Venezuela, USA, expels, )	U.S. expels Venezuelan diplomats
+	(diplomats, Venezuelan, US, expels, )	3.7065370310813037
+BBC veteran Hall admits child sex abuse	(Hall, sex, child, admits, abuse, )	Stuart Hall Admits Sex Assaults On Children
+	(Hall, Sex, Children, Admits, Assaults, )	2.7127699117727055
+7 killed, 3 injured in south China road accident	(killed, seven, China, road, injured, )	20 killed, 44 injured in Philippine road accident
+	(killed, twenty, Philippine, road, injured, )	3.7463393931502242
+Ryanair reports record profits but warns growth likely to slow this year	(Ryanair, slow, record, year, likely, )	Stansted: Ryanair reports 13% rise in annual profits but warns of slower growth this year
+	(Ryanair, slower, rise, year, Stansted, )	2.8027979793008324
+Stocks to watch at close on Monday	(Stocks, close, watch, Monday, )	Stocks to watch at close on Thursday
+	(Stocks, close, watch, Thursday, )	4.957870341411556
+50th anniversary of JFK's death remembered	(anniversary, remembered, death, )	On 50th anniversary of JFK death, Dallas holds its first memorial
+	(anniversary, memorial, death, )	3.72972094739736
+6.3-magnitude earthquake hits Taiwan	(earthquake, hits, Taiwan, )	7.7-magnitude earthquake hits SW Pakistan
+	(earthquake, hits, Pakistan, )	3.7036906615497713
+Books To Help Kids Talk About Boston Marathon News	(Boston, News, About, Marathon, Kids, )	Report of two explosions at finish line of Boston Marathon
+	(Boston, Report, two, Marathon, explosions, )	2.5827136300921802
+Tech Sector Heats Up: Google and IBM Post Strong Earnings	(Google, Earnings, Strong, Up, Heats, )	Google shares soar past $1,000 on strong earnings
+	(Google, earnings, strong, soar, shares, )	2.4846519419794633
+Queen Beatrix of The Netherlands to abdicate for son	(Queen, son, abdicate, Beatrix, Beatrix, )	Queen Beatrix of the Netherlands abdicates in favour of son
+	(Queen, son, abdicates, Beatrix, Beatrix, )	4.5753276006211685
+Motorists killed after Japanese tunnel collapses	(tunnel, collapses, Japanese, killed, Motorists, )	Cars trapped in tunnel collapse outside Tokyo
+	(tunnel, collapse, Tokyo, trapped, Cars, )	2.9417950827370967
+Profiles of Kenya's presidential candidates	(presidential, candidates, Kenyas, Profiles, )	Italian journalist picked as presidential candidate
+	(presidential, candidate, journalist, journalist, )	1.9542119051832447
+Israel frees Palestinian prisoners	(Palestinian, frees, Israel, prisoners, )	Gov't committee approves release of 26 Palestinian prisoners
+	(Palestinian, approves, Govt, prisoners, )	2.695754487090537
+Philadelphia building collapses, 8-10 people may be trapped	(Philadelphia, trapped, building, may, collapses, )	Philadelphia building collapses; reports of people trapped
+	(Philadelphia, trapped, building, reports, collapses, )	4.027342812003348
+Obama meets with Mandela family	(Obama, Mandela, family, meets, )	Obama meets Zuma and pays tribute to Mandela
+	(Obama, Mandela, tribute, meets, )	3.826993004725592
+U.S. Senate sets off gun control debate	(US, control, sets, Senate, debate, )	U.S. Senate set to vote on gun control bill
+	(US, control, set, Senate, vote, )	3.810966384784642
+Chinese shares close lower on Wednesday	(Chinese, close, shares, Wednesday, )	Chinese students attacked in France
+	(Chinese, attacked, students, students, )	1.3050259260997354
+Car bombing kills 53 in Damascus	(Car, bombing, kills, Damascus, )	Car bombings kill 13 civilians in Iraqi capital
+	(Car, bombings, kill, Iraqi, )	3.3932517275504774
+'Friends of Syria' in Doha talks on arming rebels	(Syria, talks, arming, rebels, Friends, )	Syria talks agree military aid to rebels
+	(Syria, talks, aid, rebels, aid, )	3.1129605286989057
+Syria condemns Israeli air strikes.	(strikes, Syria, condemns, air, Israeli, )	Series of deadly attacks strikes Iraq
+	(strikes, Iraq, deadly, Series, Series, )	1.5539115169060569
+Egypt's leader imposes state of emergency in 3 cities	(state, Egypts, leader, cities, imposes, )	Egypt president declares state of emergency in three cities
+	(state, Egypt, president, cities, declares, )	3.3084846715175145
+ABVP protesters clash with police at Jantar Mantar, throw stones	(police, protesters, clash, Jantar, Mantar, )	Protesters clash with police at Jantar Mantar, 5 people detained
+	(police, Protesters, clash, Jantar, Mantar, )	4.761720880099018
+Turkish PM urges to end protests in Istanbul	(Turkish, Istanbul, protests, urges, end, )	Turkish police fire teargas at protesters in Istanbul
+	(Turkish, Istanbul, protesters, police, fire, )	2.6443691168170487
+Red grapes and blueberries boost immune system, scientists say	(Red, blueberries, boost, immune, scientists, )	Red grapes, blueberries boost human immunity
+	(Red, blueberries, boost, immunity, human, )	3.427517550491005
+Two men charged with terrorism offences	(terrorism, Two, men, charged, )	Saudi-born Nigerian charged with terrorism in New York
+	(terrorism, New, Nigerian, charged, )	2.6989469902388956
+EU receives Nobel Peace Prize	(EU, Prize, receives, Peace, Prize, )	EU Receives 2012 Nobel Peace Prize
+	(EU, Prize, Receives, Peace, Prize, )	4.329783004989984
+Start of San Fermin bull-running festival briefly delayed as view obstructed by Basque flag	(San, festival, Fermin, Start, )	San Fermin bull-running festival starts
+	(San, festival, Fermin, starts, )	4.163694386671114
+Up to 21, mostly foreigners, killed in Kabul suicide attack	(Kabul, killed, suicide, attack, foreigners, )	Briton among dead in Kabul suicide attack
+	(Kabul, dead, suicide, attack, Briton, )	3.8389696075582305
+Former LAPD officer sought in Irvine slayings	(Former, officer, slayings, LAPD, sought, )	Former CIA officer sentenced to 30 months in prison for info leak
+	(Former, officer, prison, CIA, months, )	2.6478548047318062
+Tokyo shares close 0.88pc lower	(close, shares, Tokyo, lower, )	Singapore stocks close 0.44 pct lower
+	(close, stocks, Singapore, lower, )	3.6632945600289717
+Pakistan court demands 'blasphemy' rampage answers	(demands, blasphemy, demands, answers, Pakistan, )	Pakistan-UN report reveals alarming levels of drug use
+	(levels, drug, alarming, reveals, alarming, )	0.31268444676739837
+Intel's McAfee Buys Cloud-Based, Networked Firewall Specialist Stonesoft For $389M In Cash	(McAfee, Stonesoft, Firewall, Buys, Cash, )	McAfee to acquire firewall Stonesoft for $389 million
+	(McAfee, Stonesoft, firewall, acquire, million, )	2.8225428294435186
+4.1 magnitude quake strikes U.S	(magnitude, strikes, quake, US, )	7.2 magnitude earthquake strikes Philippines
+	(magnitude, strikes, earthquake, Philippines, )	3.7990949010818134
+Bangladesh Opposition Leader Sentenced to Death for War Crimes	(Bangladesh, Death, Opposition, Leader, War, )	Bangladesh: Fugitive Sentenced to Death by War Crimes Tribunal
+	(Bangladesh, Death, Tribunal, Fugitive, War, )	3.117424573731153
+Alleged cop killer died from shot to head	(Alleged, killer, killer, shot, died, )	Alleged cop killer died from gunshot
+	(Alleged, killer, killer, gunshot, died, )	4.345759723901934
+2 police killed in eastern Afghan explosion	(explosion, killed, two, two, Afghan, )	At least 28 people die in Chinese coal mine explosion
+	(explosion, die, least, least, Chinese, )	2.1745967894836684
+Car bomb at Swedish consulate in Libya's Benghazi, no casualties	(Car, Benghazi, consulate, Swedish, bomb, )	Car Bomb Hits Swedish Consulate in Benghazi, None Hurt
+	(Car, Benghazi, Consulate, Swedish, Bomb, )	4.5100420880742975
+Musharraf arrested in Lal Masjid case	(Musharraf, arrested, Lal, )	Musharraf arrested in Pakistan
+	(Musharraf, arrested, Pakistan, )	3.5000741743757406
+Iran hopes nuclear talks will yield 'roadmap'	(Iran, talks, nuclear, hopes, yield, )	Iran Nuclear Talks in Geneva Spur High Hopes
+	(Iran, Talks, Nuclear, Hopes, Spur, )	2.8297036131091553
+35 militants killed in Afghan raids: official	(raids, official, killed, Afghan, militants, )	12 militants killed in Afghan raids: ministry
+	(raids, ministry, killed, Afghan, militants, )	4.298306491555275
+North Korea reportedly test-fires short-range missiles	(North, missiles, Korea, reportedly, )	North Korea launches short-range missiles
+	(North, missiles, Korea, launches, )	3.6721601437432696
+Thai protesters obstruct vote; 1 dead in violence	(Thai, protesters, vote, obstruct, one, )	Thai protesters block polling stations in Bangkok
+	(Thai, protesters, polling, block, Bangkok, )	2.6600958648822486
+Venezuela's Hugo Chavez dies of cancer	(Hugo, Chavez, Venezuelas, dies, cancer, )	Hugo Chavez: Venezuelan officials for unity
+	(Hugo, Chavez, Venezuelan, officials, unity, )	2.1828379088257885
+North Korea's third test brings it closer to nuclear power status	(nuclear, Koreas, brings, test, North, )	NATO says North Korea nuclear test is grave threat to world peace
+	(nuclear, Korea, says, test, North, )	3.7438519874938967
+North Korea conducts third nuclear test	(North, Korea, nuclear, test, third, )	North Korea Confirms Third Nuclear Test
+	(North, Korea, Nuclear, Test, Third, )	3.5180904711079526
+Indian stocks open flat	(Indian, stocks, open, flat, )	Indian stocks open lower
+	(Indian, stocks, open, lower, )	4.070404070344897
+Macau Gambling Revenue Hits Record $38 bn in 2012	(Macau, Gambling, Revenue, Record, Hits, )	Macau gambling revenue hits record US$38b in 2012
+	(Macau, gambling, revenue, record, hits, )	3.23039164817635
+Israelis, Palestinians resume talks in US	(Israelis, talks, resume, Palestinians, )	Israelis, Palestinians begin talks
+	(Israelis, talks, begin, Palestinians, )	4.441992347102047
+The Note's Must-Reads for Monday, November 25, 2013	(The, Notes, Monday, November, )	The Note's Must-Reads for Tuesday, October 8, 2013
+	(The, Notes, Tuesday, October, )	4.798804925316771
+Nelson Mandela memorial service	(Nelson, Mandela, service, memorial, )	Nelson Mandela dies: Live coverage
+	(Nelson, Mandela, coverage, dies, )	2.823523249519625
+NM County Prepares for Same-Sex Marriages Hearing	(County, Marriages, Prepares, Hearing, NM, )	Some county officials pave the way for same-sex marriage
+	(county, marriage, pave, Some, samesex, )	1.4724082042531939
+Lebanon businesses strike in protest at political impasse	(political, impasse, Lebanon, businesses, protest, )	Tunisia president says confident can overcome political crisis
+	(political, crisis, Tunisia, says, cheapest_turbotax, )	1.7175264622118158
+Four U.S. Air Force helicopter crew members killed in UK crash	(US, crew, UK, killed, helicopter, )	US Air Force helicopter crew killed in British crash
+	(US, crew, British, killed, helicopter, )	4.574896172027307
+Tokyo to host 2020 Olympic Games	(Tokyo, host, Olympic, Games, )	Tokyo wins race to host 2020 Olympics
+	(Tokyo, host, Olympics, race, )	3.5133384299297967
+Malaysia detains Australian senator at airport	(Malaysia, airport, Australian, senator, airport, )	Malaysia detains Australian lawmaker at airport
+	(Malaysia, airport, Australian, lawmaker, airport, )	4.63788892437325
+Indian police round up all five suspects in Mumbai rape case	(Mumbai, police, case, suspects, five, )	Mumbai police arrest fifth suspect in gang-rape case
+	(Mumbai, police, case, suspect, fifth, )	4.060068854063189
+Security tightens for Thatcher funeral	(Security, tightens, funeral, Thatcher, )	Security agencies worry about new terrorist threats in Kenya
+	(Security, worry, terrorist, Kenya, )	1.6077504317320341
+South Korea Says North Fired Missiles	(North, Korea, Missiles, Says, )	North Korea launches short-range missiles
+	(North, Korea, missiles, launches, )	3.485628267421813
+Britain shuts down plants as horse meat scandal reaches France	(scandal, meat, Britain, reaches, France, )	EU ministers 'determined' to resolve horsemeat scandal
+	(scandal, horsemeat, EU, resolve, +####_Units, )	2.162146296411984
+US warns Syria on chemical weapons	(US, chemical, Syria, weapons, warns, )	U.S. concerns grow about Syria's chemical weapons
+	(US, chemical, Syrias, weapons, concerns, )	3.550486925353008
+37 killed in bus crash in Italy	(bus, crash, Italy, killed, )	12 killed in bus accident in Pakistan
+	(bus, accident, Pakistan, killed, )	3.6776219846402967
+U.S. dumps bombs at Great Barrier Reef	(US, bombs, Great, dumps, Barrier, )	U.S. military jettisons bombs near Australia's Great Barrier Reef
+	(US, bombs, Great, jettisons, Barrier, )	4.19876730576709
+38 Taliban militants killed in Afghanistan	(Taliban, Afghanistan, militants, killed, )	Taliban attacks US base in Afghanistan
+	(Taliban, Afghanistan, attacks, Manye, )	2.8752019751478404
+China yuan strengthens to 6.2689 against USD	(yuan, strengthens, China, USD, )	Chinese yuan weakens to 6.2816 against USD
+	(yuan, weakens, Chinese, USD, )	4.132643702209258
+U.S. recognizes Syrian opposition	(Syrian, opposition, recognizes, US, )	Russia invites Syrian opposition for talks
+	(Syrian, opposition, invites, Russia, )	3.1258564707994823
+Google invests $200 million in Texas wind farm	(Google, wind, farm, invests, Texas, )	Google invests 200 million USD in Texas wind farm project
+	(Google, wind, farm, invests, Texas, )	4.999999999999999
+Egypt votes in new constitution	(constitution, Egypt, votes, new, )	Egyptians Vote On New Constitution
+	(Constitution, Egyptians, Vote, New, )	2.581565777449087
+Preston and England legend Tom Finney dies at 91	(dies, legend, Preston, England, Finney, )	Former England great Tom Finney dies at 91
+	(dies, great, Former, England, Finney, )	3.116001957681727
+China strives to avoid economic traps	(economic, strives, China, avoid, traps, )	Insurance is key to fostering economic growth
+	(economic, fostering, growth, key, Insurance, )	1.1211078075894771
+Car bomb kills one and wounds five in Benghazi	(Car, bomb, kills, Benghazi, wounds, )	Car bomb hits Libyan Foreign Ministry in Benghazi
+	(Car, bomb, hits, Benghazi, Manny_Trillo, )	3.4316486843315595
+Roadside bombs kill 5 in Afghanistan	(Roadside, Afghanistan, five, bombs, kill, )	Roadside bomb kills 3 policemen in Afghanistan
+	(Roadside, Afghanistan, three, bomb, kills, )	4.268564636331706
+Sri Lanka's Tamils Vote for Greater Autonomy	(Tamils, Tamils, Sri, Vote, )	Syria talks for Cameron and Putin
+	(Cameron, Syria, Putin, talks, )	0.48368635605622273
+French-led troops close in on Timbuktu	(troops, Timbuktu, close, )	French-led troops control access to Timbuktu
+	(troops, Timbuktu, control, )	3.3409818124838213
+Nato airstrike kills two Afghan kids	(Nato, Afghan, kills, airstrike, )	Nato solider dies in Afghanistan
+	(Nato, Afghanistan, dies, solider, )	2.498464578490845
+Gunmen Kill 11 Foreign Tourists in Pakistan	(Gunmen, Pakistan, Foreign, Kill, Tourists, )	Gunmen kill 11 foreign climbers in Pakistan
+	(Gunmen, Pakistan, foreign, kill, climbers, )	3.1746524462832917
+N Korea to halt work at joint industrial zone	(Korea, N, joint, work, N, )	North Korea blocks access to joint industrial zone
+	(Korea, access, joint, access, North, )	2.0672651059547267
+Delhi Gang Rape Suspect 'Beaten, Poisoned'	(Delhi, Rape, Beaten, Gang, )	Delhi gang-rape verdict deferred again
+	(Delhi, gangrape, verdict, deferred, )	1.6565241786415286
+Demolition work begins on Don Valley Stadium	(Demolition, work, begins, Stadium, )	Demolition work to begin at stadium
+	(Demolition, work, begin, stadium, )	4.170720209916975
+France pledges military aid in Mali	(military, France, aid, pledges, Mali, )	Most French support military operation in Mali
+	(military, French, support, operation, Mali, )	2.805317658023892
+Most powerful typhoon of 2013 hits the Philippines	(Philippines, typhoon, hits, powerful, Most, )	23 Missing as Typhoon Utor Hits Philippines
+	(Philippines, Typhoon, Hits, Typhoon, Missing, )	1.8680846006551484
+Egyptians vote on divisive constitution	(Egyptians, vote, divisive, constitution, )	Egyptians vote on constitution change
+	(Egyptians, vote, change, constitution, )	3.791218550687611
+Reid cites 'tremendous progress' in debt ceiling talks	(ceiling, talks, debt, Reid, cites, )	Senate leaders appear close to US debt ceiling deal
+	(ceiling, deal, debt, Senate, appear, )	2.8124001484980856
+Calls for more Egypt protests	(protests, Calls, Egypt, )	Death toll from Egypt protests rises to 49
+	(protests, toll, Egypt, )	3.5674368955011815
+6.2 magnitude quake jolts Sarangani	(jolts, quake, Sarangani, magnitude, )	4.3-magnitude earthquake jolts SW China
+	(jolts, earthquake, China, MINOR_MEMOS, )	2.3513634461351316
+One dead, 11 hurt in LA car chaos	(hurt, eleven, dead, chaos, LA, )	6 dead, 33 hurt in Cotabato blast
+	(hurt, six, dead, blast, Cotabato, )	2.7375769673604005
+Chairman of easyJet to step down	(Chairman, step, easyJet, )	Chairman of British no-frills airline easyJet to step down
+	(Chairman, step, easyJet, )	4.999999999999999
+Obama renews offer to cut social safety net in big budget deal: aide	(budget, renews, deal, big, Obama, )	Japan urges U.S. to quickly handle budget deadlock
+	(budget, urges, handle, handle, Japan, )	2.027604202400466
+Suicide Bomber Kills 14 at Afghan Province Council	(Suicide, Kills, Bomber, fourteen, Afghan, )	Suicide Bomber Kills 11 in Afghanistan
+	(Suicide, Kills, Bomber, eleven, Afghanistan, )	4.508114876524789
+US confirms al-Qaeda leader has been captured	(US, leader, captured, confirms, leader, )	US captures al-Qaeda leader but fails in Somalia attack
+	(US, leader, captures, fails, leader, )	3.782963368857959
+Committee nears final big immigration decisions	(Committee, nears, final, decisions, big, )	Senate Judiciary Committee nearing final big decisions in shaping immigration bill
+	(Committee, nearing, final, decisions, big, )	4.588737166120428
+US Troops Killed in Afghan Insider Attack	(Afghan, Killed, Troops, Insider, Attack, )	NATO troops killed in Afghan 'insider attack'
+	(Afghan, killed, troops, insider, attack, )	3.0782582556340228
+Mother arrested on suspicion of manslaughter after dog kills daughter	(arrested, manslaughter, Mother, suspicion, dog, )	Man arrested on suspicion of murder after stabbing in Suffolk
+	(arrested, murder, Man, suspicion, Suffolk, )	3.0297712537201003
+London Marathon observes silence for Boston bomb victims	(London, observes, victims, Boston, Marathon, )	London Marathon observes silence for Boston victims
+	(London, observes, victims, Boston, Marathon, )	4.999999999999999
+Messi nets 300th, 301st goals in Barcelona win	(Messi, goals, nets, Barcelona, win, )	Football: Messi hits 300th Barcelona goal in comeback win
+	(Messi, goal, Football, Barcelona, win, )	3.6807432859876363
+Five dead, 40 missing in Canada train disaster	(forty, missing, Canada, disaster, dead, )	40 still missing in Canadian train wreck
+	(forty, missing, Canadian, wreck, still, )	2.9411596755240055
+Tunisian opposition politician shot dead	(opposition, Tunisian, dead, politician, shot, )	Tunisia opposition leader slain; protests erupt
+	(opposition, Tunisia, slain, leader, erupt, )	2.457722011751091
+Ukrainian Prime Minister Azarov and entire government resign	(Ukrainian, government, resign, Azarov, entire, )	Ukrainian officials barred from Canada as protests continue
+	(Ukrainian, officials, barred, protests, continue, )	1.7448310407710186
+UN presses need for major boost in Syrian aid	(UN, aid, presses, need, major, )	UN chief presses for major boost in Syrian aid
+	(UN, aid, presses, BY_PAMELA_GOULD, major, )	3.9421258523868445
+Stocks soar on Wall St lead	(Stocks, Wall, St, soar, )	Stocks slump on Wall Street
+	(Stocks, Wall, Street, slump, )	3.226885145827665
+George Zimmerman found not guilty of Trayvon Martin murder	(murder, guilty, George, Martin, found, )	Protests and appeals for calm after Zimmerman acquitted of Trayvon Martin murder
+	(murder, acquitted, Protests, Martin, J.Gordon_###-###, )	2.4491154928280543
+Whistleblower Edward Snowden flies to Moscow	(Snowden, Whistleblower, flies, Edward, Moscow, )	NSA whistleblower Edward Snowden leaves Hong Kong on flight to Moscow
+	(Snowden, whistleblower, flight, Edward, Moscow, )	4.024457634437763
+17 killed, 133 wounded in bomb attacks in northern Iraq	(killed, seventeen, wounded, Iraq, attacks, )	2 killed, 6 wounded in clashes in northern Lebanon
+	(killed, six, wounded, Lebanon, clashes, )	3.3008186866892317
+Insiders Reveal 2012 Election Secrets	(Election, Reveal, Insiders, Insiders, )	All Eyes on Capriles as Venezuela Election Set
+	(Election, Eyes, All, All, )	1.9849483650075883
+Royal sorrow over nurse's death	(death, sorrow, Royal, nurses, )	Radio prankster in tears over nurse’s death
+	(death, tears, Radio, Radio, )	1.760693380063828
+N Korea says it may delay controversial rocket launch	(N, controversial, says, launch, may, )	N. Korea looks set to delay controversial rocket launch
+	(N, controversial, looks, launch, set, )	3.306698805186326
+Two NATO soldiers killed in Afghanistan	(NATO, killed, soldiers, Afghanistan, Two, )	NATO soldier killed in Afghan attack
+	(NATO, killed, soldier, Afghan, attack, )	3.093891811310395
+US government 'on the edge of shutdown'	(shutdown, government, edge, US, )	Obama rejects GOP offer to ease shutdown
+	(shutdown, Obama, ease, offer, )	1.5786416851514544
+Critical Gates memoir rocks Obama administration	(Gates, rocks, memoir, administration, Obama, )	Gates blast rocks Obama administration
+	(Gates, rocks, chancier, administration, Obama, )	3.9199372923107076
+Jeff Bezos Bets $250 Million on Reviving Washington Post	(Jeff, Bezos, Bets, Million, Reviving, )	Jeff Bezos Pays $250 Million For The Washington Post
+	(Jeff, Bezos, Pays, Million, The, )	3.4709000389423474
+Brooks pleads not guilty to hacking charges	(Brooks, hacking, guilty, charges, pleads, )	Brooks pleads not guilty at phone hacking hearing
+	(Brooks, hacking, guilty, phone, pleads, )	4.003102276206733
+Purge sends chilling message to North Korea's elite	(Purge, elite, chilling, Koreas, elite, )	Purge of Kim uncle sends chilling message to North Korea’s elite
+	(Purge, elite, chilling, Kim, elite, )	4.231980442743747
+South Africans mark ailing Mandela's 95th birthday	(South, Mandelas, ailing, mark, birthday, )	South Africa's former PM Nelson Mandela back in hospital
+	(South, Mandela, hospital, back, PM, )	2.1282524067060806
+Obama declares health care law is working	(Obama, care, law, working, declares, )	Obama pledges to make new health care law work
+	(Obama, care, law, work, make, )	3.7822653510225486
+Heavy rain raises threat of Christmas Day flooding	(flooding, raises, Heavy, rain, )	Fresh rain brings more flooding
+	(flooding, brings, Fresh, rain, )	3.0461975270021857
+Thousands protest gay marriage	(Thousands, protest, gay, gay, )	Thousands protest gay marriage in Paris
+	(Thousands, protest, gay, gay, )	4.999999999999999
+Taiwan gang leader nabbed at airport after 17 years	(nabbed, Taiwan, seventeen, nabbed, leader, )	Zambia arrests ex-leader Banda over oil deal
+	(arrests, Zambia, Banda, By_Ayodeji_Moradeyo, deal, )	0.7744891934909137
+The Note's Must-Reads for Friday, December 6, 2013	(The, Notes, December, six, Friday, )	The Note's Must-Reads for Friday, July 12, 2013
+	(The, Notes, twelve, twelve, Friday, )	4.348355466851446
+Iran nuke talks begin amid hopes of progress	(Iran, talks, begin, nuke, progress, )	Iran nuclear talks start in Geneva
+	(Iran, talks, start, nuclear, Geneva, )	3.3046341314193928
+Thai political protests paralyse more ministries	(Thai, ministries, protests, political, )	Thai protesters besiege more ministries
+	(Thai, ministries, protesters, besiege, )	3.29909325847557
+Amazon's Bezos to buy the Washington Post for $250 million	(Amazons, Post, Washington, buy, Bezos, )	Amazon's Bezos buys Washington Post for $250-M
+	(Amazons, Post, Washington, buys, Bezos, )	4.615203304451012
+Obama economic tour buffeted by low expectations	(Obama, low, expectations, tour, economic, )	Obama encourages Boy Scouts to end ban on gays
+	(Obama, end, end, ban, gays, )	1.3340533280745437
+Israel vows to deny Hezbollah after air strike	(Hezbollah, vows, vows, Israel, air, )	Car bomb kills four in Hezbollah Beirut bastion: minister
+	(Hezbollah, kills, Beirut, Beirut, bomb, )	1.556348275920595
+France Welcomes US-Russia Deal on Syria	(Syria, Welcomes, Deal, France, )	Arab League welcomes US-Russian deal on Syria
+	(Syria, welcomes, deal, Arab, )	2.261219338275454
+More French soldiers to Central African Republic	(Central, soldiers, African, More, Republic, )	Gun battles in Central African capital create fresh panic
+	(Central, capital, African, Gun, capital, )	2.2803561265780314
+UN resolution orders Syria chemical arms destroyed	(Syria, UN, chemical, UN, orders, )	Germany ready to help Syria chemical mission
+	(Syria, mission, chemical, mission, Germany, )	2.2708371744837237
+Exclusive-UPDATE 2-Egypt pro-Mursi alliance signals flexibility in talks	(alliance, talks, signals, flexibility, )	EXCLUSIVE-UPDATE 1-Egypt pro-Mursi alliance signals flexibility in talks
+	(alliance, talks, signals, flexibility, )	4.999999999999999
+David Beckham to retire at end of season	(David, Beckham, retire, end, season, )	David Beckham Retires From Football
+	(David, Beckham, Retires, Football, Football, )	2.3841916199078224
+Deaths confirmed after helicopter crashes into Scottish pub	(Scottish, pub, crashes, confirmed, confirmed, )	Scottish police say at least one dead after helicopter crashes into pub
+	(Scottish, pub, crashes, dead, one, )	3.398702525688748
+Libya abruptly closes its borders with four countries	(Libya, closes, borders, four, abruptly, )	Libya closes borders, declares martial law in south
+	(Libya, closes, borders, south, martial, )	3.0450661707643527
+6.0-magnitude quake hits Greece -- USGS	(quake, Greece, hits, )	5.0-magnitude quake jolts Japan
+	(quake, Japan, jolts, )	2.4705278867235942
+Search after man swept into sea	(man, sea, man, swept, )	Lara plans visit to Nepal
+	(Lara, Nepal, Lara, Nepal, )	0.004708189298074074
+Militants stage Pakistan jailbreak	(Pakistan, Militants, jailbreak, stage, )	Taliban prison break: 250 militants escape after attack on Pakistan jail
+	(Pakistan, militants, escape, break, )	2.4568611151174684
+Meteorite hits central Russia, more than 500 people hurt	(Meteorite, hurt, hurt, Russia, hits, )	Meteorite hits central Russia, 400 hurt
+	(Meteorite, hurt, hurt, Russia, hits, )	4.999999999999999
+North Korea Nuclear Test Sparks Worry	(North, Korea, Nuclear, Test, )	North Korea nuclear test
+	(North, Korea, nuclear, test, )	3.870358624771301
+Blizzard brings US northeast to a halt	(Blizzard, US, northeast, brings, halt, )	Blizzard wallops US Northeast, closes roads
+	(Blizzard, US, Northeast, closes, roads, )	2.771093662549974
+NATO protesters acquitted of terrorism charges	(NATO, charges, protesters, acquitted, terrorism, )	NATO protesters convicted on non-terrorism charges
+	(NATO, charges, protesters, convicted, nonterrorism, )	3.9183356131413816
+'Credibility on the line over Syria'	(line, Credibility, Syria, )	Obama: Congress, world credibility on line
+	(line, credibility, Obama, )	2.9649793166973786
+Taliban on agenda for US in Pakistan	(Pakistan, Taliban, agenda, US, )	At least 33 dead as big quake hits Pakistan
+	(Pakistan, dead, big, quake, )	1.337017562923609
+123 killed in fighting in northern Syria	(killed, Syria, northern, fighting, )	Many killed in Syrian air strike
+	(killed, Syrian, air, strike, )	2.300062165810426
+Egypt interior minister survives bomb	(minister, Egypt, interior, bomb, bomb, )	Egypt's interior minister survives bomb attack
+	(minister, Egypts, interior, bomb, bomb, )	4.597437320313936
+China's yuan weakens to 6.2767 against USD Thursday	(yuan, Thursday, Chinas, USD, weakens, )	China yuan weakens to 6.1818 against USD Tuesday
+	(yuan, Tuesday, China, USD, weakens, )	4.505022910405652
+Obama holds talks over Syria action	(action, holds, Obama, Syria, talks, )	Cameron loses parliamentary vote on Syria military action
+	(action, loses, Cameron, Syria, vote, )	2.687118052550438
+Egypt 'freezes Muslim Brotherhood assets'	(Egypt, Muslim, assets, freezes, Brotherhood, )	Egypt freezes Muslim Brotherhood funds
+	(Egypt, Muslim, funds, freezes, Brotherhood, )	4.373483436929727
+Zen Report: Ain't easy being high maintenance	(maintenance, easy, high, Report, Zen, )	Russian meteorite leaves building gaping open
+	(building, leaves, meteorite, leaves, meteorite, )	0.265936955700339
+Critics say Putin’s security restrictions violate rights	(security, Critics, restrictions, violate, say, )	Putin's security decree for Sochi draws ire of critics
+	(security, critics, decree, ire, Putins, )	2.00980692185357
+Tony Abbott sworn in as new Australian PM	(Tony, PM, Australian, Abbott, sworn, )	Tony Abbott Sworn In As Australia PM
+	(Tony, PM, Australia, Abbott, Sworn, )	4.33964613789913
+Egypt army cracks down on Brotherhood	(Brotherhood, army, Egypt, cracks, )	Egypt's military cracks down on Muslim Brotherhood
+	(Brotherhood, military, Egypts, cracks, )	3.9769192590125275
+Venezuela assembly meets amid Chavez health crisis	(crisis, assembly, Chavez, meets, crisis, )	Assembly meets amid Chavez crisis
+	(crisis, Assembly, Chavez, meets, crisis, )	4.52023560175584
+Egypt braces for more protests, prays for calm	(Egypt, protests, prays, calm, braces, )	Egypt braces for more protests over Morsi, prays for calm
+	(Egypt, protests, prays, calm, braces, )	4.999999999999999
+Syria opposition threatens to quit talks	(Syria, opposition, talks, threatens, )	Syria opposition agrees to talks
+	(Syria, opposition, talks, agrees, )	4.030567950842711
+Morsi supporters protest in Egypt	(Morsi, Egypt, supporters, protest, )	Morsi backers defiant in face of Egypt govt threat
+	(Morsi, Egypt, backers, defiant, )	3.621571730570136
+Suicide bomber kills policeman in Pakistan	(Suicide, Pakistan, kills, policeman, bomber, )	Suicide Bombers Kill 3 Soldiers in Pakistan
+	(Suicide, Pakistan, Kill, Soldiers, Bombers, )	2.518332442058308
+Anti-government protesters storm the streets of Kyiv	(protesters, Kyiv, storm, streets, storm, )	Ukraine protesters topple Lenin statue
+	(protesters, Ukraine, topple, statue, ANKARA_Turkey_Turkey, )	1.8025325010035695
+Chicago man to be sentenced for terror convictions	(sentenced, terror, Chicago, convictions, man, )	Kabul Bank Heads Sentenced for Corruption
+	(Sentenced, Corruption, Kabul, M.Martin_###-###, Grandville_Mich., )	0.9028222071324209
+US drone strike kills three in northwest Pakistan	(US, drone, kills, three, Pakistan, )	US drone strike kills seven in North Waziristan
+	(US, drone, kills, seven, Waziristan, )	4.401969993771897
+Track fault disrupts train service between Raffles Place, Marina Bay	(Place, train, disrupts, Bay, Marina, )	Train service disrupted between Raffles Place and Marina Bay
+	(Place, Train, disrupted, Bay, Marina, )	4.230391392971322
+Stocks rise in early trading	(trading, Stocks, rise, early, )	US stocks ease in choppy trading
+	(trading, stocks, choppy, choppy, )	2.18098284962425
+Manning Sentenced to 35 Years for Leaking Government Secrets	(Years, Sentenced, Leaking, Manning, Government, )	Briton jailed for 10 years for selling fake bomb detectors
+	(years, jailed, detectors, Briton, ten, )	1.1483419037281217
+UK police say no terrorism link to helicopter crash	(crash, UK, police, say, terrorism, )	China police seek eight suspects over crash
+	(crash, China, police, seek, suspects, )	2.526170162674497
+Suicide bomber kills 13 in Russia's south	(Suicide, kills, thirteen, Russias, bomber, )	Suicide bomber kills 16 in Russia’s Volgograd
+	(Suicide, kills, sixteen, Volgograd, bomber, )	4.218893343563472
+41 killed, 22 wounded in violent attacks in Iraq	(Iraq, violent, attacks, wounded, killed, )	15 killed, 90 wounded in fresh attacks in Iraq
+	(Iraq, fresh, attacks, wounded, killed, )	4.008468138695335
+Bangladesh building collapse death toll hits 540: army	(Bangladesh, toll, hits, )	Bangladesh building-collapse toll tops 600
+	(Bangladesh, toll, tops, )	3.7083707929007206
+Kerry to visit Jordan, Israel-Palestinian peace on agenda	(Kerry, visit, peace, agenda, Jordan, )	Kerry postpones visit to Israel in one week
+	(Kerry, visit, Israel, postpones, one, )	2.243193857616191
+Eurozone jobless hits fresh record high	(jobless, Eurozone, fresh, record, hits, )	EU jobless hits fresh record
+	(jobless, EU, fresh, record, hits, )	4.528745229249459
+Defiant Mugabe sworn in for seventh term blasts 'vile' West	(Mugabe, term, sworn, seventh, )	Mugabe sworn in for another term
+	(Mugabe, term, sworn, another, )	4.107717332947978
+Nelson Mandela's real hero was not Gandhi, but Nehru	(Nelson, Mandelas, real, real, )	Nelson Mandela's health 'unstable'
+	(Nelson, Mandelas, unstable, health, )	2.659640628411229
+Facing Bailout Tax, Cypriots Try to Get Cash Out of Banks	(Bailout, Cypriots, Banks, Facing, Try, )	Bailout terms prompt run on Cyprus banks
+	(Bailout, Cyprus, banks, prompt, terms, )	2.401206200937038
+Obama signs up for Obamacare	(Obamacare, signs, Obama, )	Americans scramble to sign up for Obamacare by deadline
+	(Obamacare, sign, Americans, )	3.1838766027900904
+Lance Armstrong confesses all to Oprah	(Lance, Armstrong, Oprah, confesses, )	Lance Armstrong confesses to doping in Oprah interview
+	(Lance, Armstrong, Oprah, confesses, )	4.999999999999999
+Andy Murray deserves knighthood, David Cameron says	(David, Andy, deserves, knighthood, Murray, )	David Cameron: Andy Murray deserves a knighthood
+	(David, Andy, deserves, knighthood, Murray, )	4.999999999999999
+Hushen 300 Index closes higher -- Oct. 14	(Hushen, closes, Index, higher, fourteen, )	Hushen 300 Index closes lower -- March 12
+	(Hushen, closes, Index, lower, twelve, )	4.626290239888928
+US State Department faulted over Benghazi	(State, Benghazi, Department, US, faulted, )	State Dept security chief resigns after Benghazi
+	(State, Benghazi, Dept, security, chief, )	2.8147795354473604
+Soccer-France to host Australia for first time in October	(time, October, first, host, Australia, )	NRA official to face questions for first time since controversial remarks
+	(time, since, first, face, controversial, )	2.445996240345625
+Honduran ambassador to Colombia sacked after wild party	(ambassador, Honduran, sacked, wild, Colombia, )	Honduras ambassador resigns after alleged embassy orgy
+	(ambassador, Honduras, resigns, orgy, showman_Eddie_Gossage, )	2.41766503182009
+Syria must destroy chemical weapons	(chemical, Syria, must, )	Libya ‘destroys last chemical weapons’
+	(chemical, Libya, last, )	2.465540559477222
+Moderate tremor in the Central Mediterranean	(Moderate, Mediterranean, Central, Central, )	Iran: Moderate candidate wins presidential vote
+	(Moderate, Iran, presidential, presidential, )	1.4262809772886396
+Three Afghans killed in suicide attack	(Three, Afghans, killed, attack, suicide, )	Three Afghans dead in new blast at US base in east Afghanistan
+	(Three, Afghans, dead, blast, new, )	3.068470501810026
+Suicide Bombs Hit Egypt Military in Sinai, Kill 6	(Suicide, Egypt, six, Sinai, Military, )	Suicide bombs hit Egypt military in Sinai, kill 4
+	(Suicide, Egypt, four, Sinai, military, )	4.578146016187969
+Asian markets gain on upbeat US economic data	(Asian, US, upbeat, economic, data, )	Asian markets lifted by positive US, China data
+	(Asian, US, positive, China, data, )	3.567366422330184
+Nelson Mandela in Hospital for Tests	(Mandela, Hospital, Tests, Nelson, )	South Africa: Mandela in hospital for tests
+	(Mandela, hospital, tests, South, )	2.9251552021363705
+Iran, six global powers sign landmark nuclear deal	(Iran, deal, nuclear, global, sign, )	Iran, world powers agree nuclear deal
+	(Iran, deal, nuclear, world, agree, )	3.567981879059249
+Suicide bomber kills 9 at Pakistan political rally	(Suicide, bomber, Pakistan, political, kills, )	Suicide bomber kills guard at US embassy in Turkey
+	(Suicide, bomber, Turkey, embassy, kills, )	3.5575403971620028
+Four Morsi supporters killed in Egypt clashes	(supporters, clashes, Morsi, clashes, killed, )	Dozens injured as Morsi supporters clash with security forces
+	(supporters, clash, Morsi, clash, injured, )	3.766678188028192
+Students take a ride on airwaves	(ride, Students, take, )	5.5-magnitude quake hits off Taiwan
+	(hits, quake, quake, )	0.11948266997590934
+Pistorius officer dropped from case	(Pistorius, officer, case, dropped, )	Pistorius officer on attempted murder charges
+	(Pistorius, officer, charges, attempted, )	3.1776865259521068
+Vinnie Jones reveals cancer battle new	(Vinnie, reveals, Jones, battle, cancer, )	Vinnie Jones reveals he has skin cancer
+	(Vinnie, reveals, Jones, Curbed_InBox, cancer, )	3.913572329096162
+Stocks close 0.39% higher	(Stocks, close, higher, )	Stocks close 2.47% higher
+	(Stocks, close, higher, )	4.999999999999999
+Pakistani Taliban chief Hakimullah Mehsud killed in drone strike	(Taliban, killed, Pakistani, Hakimullah, drone, )	Pakistan Taliban vows revenge, to repay Hakimullah's killing in bloodshed
+	(Taliban, killing, Pakistan, revenge, ----------------------------------------------------------_Feed_Coordinates, )	2.6555992832217865
+Dozens killed in air strike on bakery in central Syria	(Dozens, killed, Syria, bakery, air, )	'Dozens killed' in Syrian air strike on bakery
+	(Dozens, killed, Syrian, bakery, air, )	4.761350019317092
+Gunmen kill one soldier, injure two others in Pakistan	(Gunmen, Pakistan, kill, two, others, )	Gunmen kill 6 polio workers in Pakistan
+	(Gunmen, Pakistan, kill, six, workers, )	4.058008566443964
+Police confirm how suspect was captured	(captured, suspect, Police, confirm, )	Raid on Boston Marathon bombing suspect captured on film
+	(captured, suspect, Raid, AirDefense_Rushing, )	2.4359591736903954
+Destruction of Syria's chemical weapons begins	(Destruction, Syrias, chemical, weapons, begins, )	Destruction of Syria's Chemical Weapons Could Prove Difficult
+	(Destruction, Syrias, Chemical, Weapons, Could, )	3.2900368415969634
+Flooding in Canada forces evacuation of another city	(evacuation, city, forces, Flooding, Canada, )	California wildfire forces evacuation of homes, university
+	(evacuation, university, forces, wildfire, California, )	2.6968854138577782
+UN says US drones violate Pakistan's sovereignty	(UN, Pakistans, US, drones, says, )	UN: US drone strikes violate Pakistan's sovereignty
+	(UN, Pakistans, US, drone, strikes, )	3.7268149353247306
+Obama Praises Mandela 'Inspiration'	(Obama, Inspiration, Mandela, Praises, )	Obama hails Mandela's inspiration effect
+	(Obama, inspiration, Mandelas, hails, )	2.641021199403307
+Obama coming 'to listen' to Israel, Palestinians	(Palestinians, Obama, listen, coming, listen, )	Kerry Welcomes Arab Plan for Israeli-Palestinian Talks
+	(Arab, Kerry, Welcomes, Talks, Talks, )	1.0500036648095232
+The e-mails - Oil firm asked trader about meeting with minister	(Oil, trader, meeting, emails, firm, )	Oil firm asked rogue trader about meeting with minister
+	(Oil, trader, meeting, rogue, firm, )	4.1460729131147325
+Death toll in Nigeria police attack rises to 30	(Death, toll, attack, rises, Nigeria, )	Death toll in Kenya bus attack rises to six
+	(Death, toll, attack, rises, Kenya, )	4.532144113292602
+Syria 'to declare chemical weapons and sign convention'	(Syria, chemical, weapons, sign, convention, )	Russia, Syria Work on 'Concrete' Chemical Weapons Plan
+	(Syria, Chemical, Weapons, Concrete, Work, )	2.4120105805512018
+Australia to scrap soaring national debt ceiling	(Australia, scrap, debt, ceiling, national, )	Australian PM insists no argument with Indonesia
+	(Australian, insists, Indonesia, argument, PM, )	0.8845064165666144
+Asian markets hit 3-wk high on hopes of US debt deal	(Asian, US, deal, markets, high, )	Asian stocks hit three-week highs on hopes of U.S. debt deal
+	(Asian, US, deal, stocks, highs, )	3.692894872130352
+Italian Prime Minister Mario Monti Resigns	(Minister, Resigns, Italian, Prime, Monti, )	'Palestinian Prime Minister Fayyad resigns'
+	(Minister, resigns, Palestinian, Prime, Fayyad, )	2.7770885689147824
+South Africa Admits Mistake Over 'Schizophrenic' Mandela Signer	(South, Mandela, Africa, Mistake, Admits, )	South Africa admits possible 'mistake' over deaf signer at Mandela memorial
+	(South, Mandela, Africa, mistake, admits, )	3.7685952747413145
+Iran says serious issues remain in nuclear talks	(Iran, nuclear, says, remain, serious, )	Iran vows to preserve "peaceful" nuclear program
+	(Iran, nuclear, vows, preserve, peaceful, )	2.5174229847554623
+Crowds Gather in Bethlehem for Christmas	(Bethlehem, Christmas, Crowds, Gather, )	Oh, little town of Bethlehem — for real
+	(Bethlehem, Oh, town, �, )	1.5215304404644594
+Seven peacekeepers killed in Sudan's Darfur	(killed, Darfur, peacekeepers, Seven, )	Peacekeeper killed in Abyei clash
+	(killed, Abyei, Peacekeeper, clash, )	2.4378205362059178
+NATO: Patriot missile battery operational on Syrian border	(Syrian, battery, NATO, operational, missile, )	Obama: Patriot missile batteries, troops to stay in Jordan near Syrian border
+	(Syrian, batteries, troops, near, missile, )	3.146222856989928
+US stocks tumble on third day of shutdown	(day, stocks, tumble, US, shutdown, )	Stocks fall on third day of government shutdown
+	(day, Stocks, fall, government, shutdown, )	3.3513986547899326
+Guinea votes in long-delayed legislative poll	(legislative, poll, poll, )	Equatoguineans vote in legislative polls
+	(legislative, polls, polls, )	3.8376116653481236
+NATO: 3 troops killed in Afghanistan attack	(NATO, attack, Afghanistan, three, troops, )	NATO troops killed in Afghan 'insider attack'
+	(NATO, attack, Afghan, J.Gordon_###-###, troops, )	3.4144874681376964
+Israeli soldier hits Palestinian child in Hebron	(Israeli, Palestinian, soldier, Hebron, child, )	Israeli soldiers kill Palestinian woman in West Bank
+	(Israeli, Palestinian, soldiers, West, woman, )	3.3139470658858547
+UN voices alarm over Israeli strikes on Syria	(Israeli, Syria, strikes, voices, UN, )	Israeli official confirms second air strike at Syria
+	(Israeli, Syria, strike, air, official, )	2.855674491577256
+Egypt Army Launches New Air Raids on Sinai Militants	(Egypt, Sinai, Militants, Launches, New, )	Egypt launches new assault against Sinai militants
+	(Egypt, Sinai, militants, launches, new, )	3.358959668238797
+French forces attack al-Qaeda's Mali allies	(French, forces, attack, Mali, allies, )	A battle to retake north Mali: Hundreds of French troops drive back al-Qaida-linked rebels
+	(French, troops, battle, Mali, back, )	3.0153869884519477
+Egyptian police fire tear gas at Brotherhood protesters	(protesters, gas, tear, Brotherhood, fire, )	India: Tear Gas Fired At Gang Rape Protesters
+	(Protesters, Gas, Tear, Rape, Fired, )	2.312499807153282
+Syria Regime Agrees to Attend Peace Conference	(Syria, Conference, Peace, Conference, Agrees, )	Syria, opposition agree 'in principle' to attend peace conference
+	(Syria, attend, peace, conference, agree, )	2.785271557116054
+Afghan legislators approve new election law	(Afghan, new, election, approve, legislators, )	Afghan president approves new election law
+	(Afghan, new, election, approves, president, )	3.6660296842818885
+Algeria Mounts Military Operation to Rescue Al Qaeda Hostages	(Algeria, Hostages, Military, Mounts, Rescue, )	Algeria mulls international force for hostages
+	(Algeria, hostages, force, mulls, force, )	1.711862595532289
+Dozens injured as Boeing 777 jet crash lands at San Francisco airport	(Boeing, jet, Dozens, lands, crash, )	Asiana Air Boeing 777 crash lands at San Francisco airport
+	(Boeing, Air, Rep._Reecy_Dickson, lands, crash, )	3.1793894053567624
+13 children die in fire Myanmar mosque fire	(Myanmar, thirteen, fire, children, die, )	Myanmar police say 13 children die in electrical fire at mosque
+	(Myanmar, thirteen, fire, children, die, )	4.999999999999999
+US Senate to vote on fiscal cliff deal as deadline nears	(fiscal, Senate, cliff, deadline, deal, )	Fiscal cliff: House delays vote on fiscal cliff deal - live
+	(fiscal, House, cliff, delays, deal, )	3.821754730431439
+Delhi gang rape victim dies in Singapore hospital	(Delhi, hospital, gang, dies, Singapore, )	Delhi gang rape victim flown to Singapore hospital
+	(Delhi, hospital, gang, flown, Singapore, )	4.063472587724197
+Birth Control Linked With Higher Glaucoma Risk	(Glaucoma, Risk, Birth, Higher, Linked, )	Contraceptive pill 'doubles glaucoma risk'
+	(glaucoma, risk, Contraceptive, doubles, J.Johnson_###-###, )	1.6811710616388913
+Man with knife arrested at entrance to Buckingham Palace	(Man, Palace, arrested, entrance, Buckingham, )	Man Charged After Buckingham Palace Arrest
+	(Man, Palace, Arrest, arrest, Buckingham, )	3.507754068344246
+5 people buried in Colorado avalanche	(five, Colorado, avalanche, buried, people, )	'5 snowboarders killed in Colorado avalanche'
+	(five, Colorado, avalanche, killed, snowboarders, )	3.5587930958728418
+Ban Ki-moon to Review Syria Chemical Arms Accord	(Ban, Syria, Chemical, Accord, Arms, )	Ban to review Syria chemical arms accord
+	(Ban, Syria, chemical, accord, arms, )	3.6337197894852165
+Iraqi president in hospital due to health problem	(Iraqi, president, hospital, due, health, )	Iraqi president in hospital after suffering stroke
+	(Iraqi, president, hospital, suffering, stroke, )	3.230093030016813
+Malaysia's long-ruling coalition hangs on to power	(Malaysias, coalition, hangs, power, )	Malaysia's ruling coalition wins majority
+	(Malaysias, coalition, wins, majority, )	2.808042253246351
+Almagor blasts Netanyahu over prisoner release	(release, prisoner, Netanyahu, Almagor, blasts, )	Yacimovich urges cabinet to approve Palestinian prisoners release
+	(release, prisoners, Palestinian, urges, urges, )	2.710988156933414
+Explosions Near the Iranian Embassy in Beirut	(Iranian, Embassy, Explosions, Near, Beirut, )	Two blasts near Iranian embassy in Beirut
+	(Iranian, embassy, blasts, near, Beirut, )	3.872646142721334
+19 hurt in New Orleans shooting	(shooting, nineteen, Orleans, hurt, New, )	Police: 19 hurt in NOLA Mother's Day shooting
+	(shooting, nineteen, Day, hurt, Day, )	3.449582753921182
+Hagel laments "political" changes to US defence budget	(Hagel, budget, laments, changes, US, )	Hagel defends proposed cuts in defense spending
+	(Hagel, cuts, defends, cuts, proposed, )	2.2545865906996196
+U.S. bans carry-on liquids, gels on flights to Russia	(US, Russia, gels, flights, Russia, )	US bans carry-on liquids on direct flights to Russia
+	(US, Russia, HARTSDALE, flights, Russia, )	3.8910443190491195
+Egypt's Brotherhood stands ground after killings	(Brotherhood, Egypts, stands, killings, ground, )	Egypt: Muslim Brotherhood Stands Behind Morsi
+	(Brotherhood, Egypt, Stands, Muslim, Behind, )	1.9653489997119635
+Malaysia sets May 5 as date for closely contested election	(Malaysia, sets, date, election, contested, )	Malaysia sets date for landmark elections
+	(Malaysia, sets, date, elections, landmark, )	3.919277207510999
+Nato troops kill two Afghan children	(Afghan, Nato, children, kill, two, )	NATO strike kills 11 Afghan children
+	(Afghan, NATO, children, kills, eleven, )	4.012638280616366
+Iranian president calls for new nuclear talks	(Iranian, talks, nuclear, president, calls, )	Iranian minister blames West for failed nuke talks
+	(Iranian, talks, nuke, minister, blames, )	3.1801184545622676
+Floods kill two, forces 75,000 from Calgary homes	(Floods, homes, Calgary, forces, kill, )	Flooding Forces 75,000 From Canada Homes
+	(Flooding, Homes, Canada, Forces, losses_Cuarteros, )	2.211123797052215
+4 NATO Troops Killed in Afghanistan	(Troops, four, NATO, Killed, Afghanistan, )	Eight NATO Troops Killed In Afghanistan
+	(Troops, Eight, NATO, Killed, Afghanistan, )	4.56467008943949
+Typhoon Fitow makes landfall in east China	(Typhoon, Fitow, east, makes, China, )	Typhoon Fitow slams into southeastern China
+	(Typhoon, Fitow, southeastern, slams, China, )	3.6770148104873854
+Mandela to spend Christmas in hospital	(Mandela, Christmas, spend, Christmas, )	Mandela movie to open this month in South Africa
+	(Mandela, month, open, Africa, )	1.4394246531918222
+Exit polls suggest Putin ally wins Moscow vote	(Exit, Moscow, suggest, polls, Putin, )	Exit polls shows Putin ally wins Moscow vote, Navalny cries foul
+	(Exit, Moscow, shows, polls, Putin, )	4.295236747250103
+Judge enters not guilty plea for James Holmes	(James, enters, Judge, plea, James, )	Not guilty plea for James Holmes – but insanity option still on table
+	(James, still, insanity, plea, James, )	3.045869494853997
+At least 45 killed in Spain train crash	(At, least, train, Spain, killed, )	At least 13 killed in triple car bombings in Iraq's Diyala
+	(At, least, car, Diyala, killed, )	3.5546017750445484
+Dhawan smashes India to big win over South Africa	(Dhawan, South, Africa, smashes, big, )	Dhawan ton sets up India Trophy win over South Africa
+	(Dhawan, South, Africa, sets, ton, )	3.433238659449224
+Chris Froome rides to Tour de France endgame	(Chris, rides, Froome, endgame, )	Chris Brown concerts cancelled new
+	(Chris, concerts, Brown, new, )	1.93185178088289
+Apple app directs drivers to Alaska airport runway	(Apple, airport, app, directs, drivers, )	Apple app sends drivers to airport
+	(Apple, airport, app, sends, drivers, )	4.366554884072396
+Suspected US drone kills 3 militants in Pakistan	(US, Pakistan, three, militants, kills, )	U.S. drone kills 4 militants in Pakistan
+	(US, Pakistan, four, militants, kills, )	4.966790263531254
+Hospital: 61 killed in Venezuela prison riot	(riot, Hospital, killed, Venezuela, prison, )	Dozens reported killed in Venezuela prison riot
+	(riot, Dozens, killed, Venezuela, prison, )	4.038005324222266
+Clashes erupt as Islamists push back in Egypt	(Egypt, Clashes, back, push, Clashes, )	Coptic priest shot dead in Egypt attack
+	(Egypt, attack, shot, attack, BY_MALINDA_OSBORNE, )	1.628849962389933
+N Korea postpones family reunions	(Korea, N, N, postpones, family, )	North Korea postpones war-torn family unions
+	(Korea, North, Fred_Muche, postpones, family, )	2.9648228384288173
+Francis begins papacy with prayer	(Francis, papacy, prayer, begins, )	Pope Francis Slips Out of Vatican for Prayers
+	(Francis, Pope, Prayers, Slips, )	2.828261310274035
+US Senate to meet as path out of fiscal impasse still elusive	(US, Senate, fiscal, impasse, elusive, )	US Senate has Rare Sunday Session Days Amid Fiscal Impasse
+	(US, Senate, Fiscal, Impasse, Rare, )	3.3969051881445465
+Egypt's Brotherhood as Beleaguered as Its Leader	(Egypts, Brotherhood, Beleaguered, Beleaguered, Its, )	Egypt's Muslim Brotherhood Set for Mass March
+	(Egypts, Brotherhood, Set, March, Set, )	2.211240593420878
+Queen pays tribute to Nelson Mandela	(tribute, pays, Mandela, Nelson, Queen, )	US presidents pay tribute to Mandela
+	(tribute, pay, Mandela, US, US, )	2.6131353264155113
+China's new stealth frigate commissioned	(commissioned, Chinas, frigate, new, stealth, )	Belarus, Latvia to set up border commission
+	(commission, Belarus, border, set, border, )	0.5072078753027899
+Iraq violence kills 11	(Iraq, kills, eleven, violence, )	Iraq violence kills seven
+	(Iraq, kills, seven, violence, )	4.609173611562216
+Protests continue in tense Ukraine capital	(Protests, continue, Ukraine, )	Protests continue in Brazil
+	(Protests, continue, Brazil, )	3.7977563703026913
+Syria rejects US, UK chemical arms claims	(US, chemical, arms, claims, Syria, )	US suspects Syria used chemical weapons
+	(US, chemical, weapons, used, Syria, )	3.530724112256572
+Britons released after kidnapping in Egypt's Sinai -sources	(Egypts, released, kidnapping, Egypts, sources, )	Bedouin release two Britons seized in Egypt's Sinai
+	(Egypts, release, seized, Egypts, ----------_-----------------------------------------------_GS##, )	2.673268822622035
+Syria welcomes Iran's nuclear deal	(nuclear, Syria, welcomes, deal, welcomes, )	Iran, six world powers clinch breakthrough nuclear deal
+	(nuclear, Iran, world, deal, clinch, )	2.8327438065894435
+Israel faces European backlash over settlement plan	(Israel, European, plan, backlash, settlement, )	Israel called to account over latest settlement plans by European countries
+	(Israel, European, plans, latest, settlement, )	3.7206375939907326
+Iran says it captures drone; U.S. denies losing one	(Iran, US, drone, captures, one, )	Iran says it has seized U.S. drone; U.S. says it's not true
+	(Iran, US, drone, true, true, )	3.398324267974058
+Egypt arrests Muslim Brotherhood Supreme Guide	(Egypt, Muslim, Brotherhood, arrests, Guide, )	Egypt bans Muslim Brotherhood group
+	(Egypt, Muslim, Brotherhood, bans, inpO2, )	3.0944676042054646
+Obama jokes about himself at reporters' dinner	(Obama, dinner, reporters, jokes, )	Obama pokes fun at critics during press dinner
+	(Obama, dinner, press, fun, )	3.5848540441323724
+Allen responds to Farrow's abuse claims in letter	(Allen, claims, responds, letter, Farrows, )	Allen defends self against Farrow's abuse claims
+	(Allen, claims, defends, self, Farrows, )	3.2883350670205966
+Gunmen kill nine people in northwest Pakistan	(Gunmen, kill, nine, Pakistan, people, )	Gunmen kill 3 policemen in Iraq
+	(Gunmen, kill, three, Iraq, policemen, )	3.3445551641742326
+More than 1,000 inmates escape from Libya's al-Kweifiya prison	(escape, prison, inmates, Libyas, )	1000 prisoners escape from Libyan jail
+	(escape, jail, prisoners, Libyan, )	3.646731662062591
+What is the nuclear option?	(nuclear, What, option, )	Photos show N. Korea nuclear readiness
+	(nuclear, show, N, )	1.9418563536113795
+Forex &amp; Gold 6 March 2013	(Forex, Gold, March, six, )	Forex & Gold 12 March 2013
+	(Forex, Gold, March, twelve, )	4.506057903471426
+Islamists kill 21 in suicide attacks in Niger	(kill, Islamists, attacks, Niger, suicide, )	Car bombs kill 20 in Turkish town near Syrian border
+	(kill, Syrian, bombs, twenty, Turkish, )	1.7572327894095248
+U.S. has determined Syria used chemical weapons	(weapons, Syria, used, chemical, determined, )	UN votes to eliminate Syria's chemical weapons
+	(weapons, Syrias, eliminate, chemical, votes, )	2.6790642387587824
+Snowden's father arrives in Moscow	(father, arrives, Snowdens, Moscow, )	Edward Snowden's father in Moscow
+	(father, Edward, Snowdens, Moscow, )	3.6564737730400414
+No radiation leak at Iran's nuclear plant	(nuclear, Irans, No, radiation, plant, )	US Congress may throw wrench into Iran nuclear deal
+	(nuclear, Iran, may, may, US, )	1.811177315723079
+Pakistani Taliban names new leader after drone strike	(Pakistani, strike, Taliban, drone, leader, )	Pakistani Taleban chief killed in US drone strike
+	(Pakistani, strike, Taleban, drone, chief, )	4.210838486039035
+Twin bombings in Pakistan kill at least 40	(Pakistan, bombings, kill, kill, Twin, )	Now, militants battle Pakistani police
+	(Pakistani, militants, Now, battle, battle, )	1.2480138820747553
+Muslim Brotherhood supporter dies in Cairo clash	(Muslim, Brotherhood, clash, dies, Cairo, )	Muslim Brotherhood supporters die in Egypt clashes
+	(Muslim, Brotherhood, clashes, die, Egypt, )	3.7399872782971246
+Facebook earnings jump 63% as mobile ads accelerate	(Facebook, jump, earnings, accelerate, mobile, )	Facebook profits jump as user base expands
+	(Facebook, jump, profits, expands, user, )	3.0430633686472346
+Syria envoy calls for National Unity Government	(Syria, envoy, calls, Government, National, )	Syria envoy calls for political change to end conflict
+	(Syria, envoy, calls, political, change, )	3.1017331264354993
+News summary for March 11	(News, summary, March, eleven, )	News summary for January 14
+	(News, summary, January, fourteen, )	4.5945360570264
+Thirty-Seven Dead In Italy Tour Bus Plunge	(In, Italy, Tour, Dead, Plunge, )	Thirty Dead In Italian Bus Plunge
+	(In, Italian, Thirty, Dead, Plunge, )	3.5656192990584383
+Rogers, Videotron extend reach with network-sharing deal	(Rogers, reach, extend, Videotron, deal, )	Rogers, Videotron reach network-sharing, spectrum deal
+	(Rogers, reach, spectrum, Videotron, deal, )	3.986682678144825
+China stocks end lower Thursday	(China, Thursday, lower, end, stocks, )	China stocks close lower on Thursday
+	(China, Thursday, lower, close, stocks, )	4.158183081101288
+Topless Women Protest Against Berlusconi As He Votes In Election	(Election, Protest, Berlusconi, Berlusconi, Topless, )	Bulgaria President Backs Protesters, Opposes Snap Elections
+	(Elections, Protesters, Bulgaria, Bulgaria, Snap, )	2.3540470305985712
+Indonesia: Schoolchildren among 14 killed by Indonesia volcano eruption	(Indonesia, eruption, killed, fourteen, volcano, )	Indonesia: Six dead in Indonesian volcanic eruption
+	(Indonesia, eruption, dead, Six, volcanic, )	3.6273090418470035
+Bangladesh Islamist execution upheld	(Bangladesh, execution, Islamist, upheld, )	Bangladesh executes opposition leader
+	(Bangladesh, executes, opposition, Related_KOMU_Stories, )	2.118922975330868
+Iran leader Rouhani says nuclear deal with U.S. possible within ¿three months¿	(Iran, Rouhani, deal, says, leader, )	Iran President Hassan Rouhani wants nuclear deal in months
+	(Iran, Rouhani, deal, wants, President, )	3.814452377276067
+Deal reached on new Italian government	(new, Italian, Deal, reached, government, )	Italy to swear in new coalition government
+	(new, Italy, coalition, Netresearch, government, )	2.6827323134823895
+Obama mourns death of icon Nelson Mandela	(Mandela, mourns, Nelson, Obama, Obama, )	South Africans mourn, celebrate Mandela
+	(Mandela, mourn, celebrate, South, Africans, )	1.8337268388919006
+Hawaii passes gay marriage bill	(bill, Hawaii, marriage, passes, gay, )	US Senate passes gay workers bill
+	(bill, US, workers, passes, gay, )	2.9920491555428126
+Goa first step in Modis march to Delhi	(first, Modis, Modis, step, march, )	For first time in history, Technion to teach engineering in Russia
+	(first, engineering, engineering, time, history, )	1.5825291313962948
+Singapore stocks close 0.4% higher	(higher, close, Singapore, stocks, )	Indian stocks open higher
+	(higher, open, Indian, stocks, )	3.2021596573912903
+Maldives holds fresh election for president	(Maldives, fresh, fresh, president, holds, )	Maldives holds fresh presidential election
+	(Maldives, fresh, fresh, presidential, holds, )	4.139160688048874
+Egypt announces arrest of 1,004 Muslim Brotherhood supporters	(Egypt, Brotherhood, arrest, announces, supporters, )	Egypt orders arrest of Brotherhood chief Badie
+	(Egypt, Brotherhood, arrest, orders, chief, )	3.124556616605379
+New World Trade Center declared tallest building in U.S.	(World, tallest, building, Trade, declared, )	One World Trade Center Named Tallest US Building
+	(World, Tallest, Building, Trade, Named, )	3.457363938304632
+What the Papers Say, Mar. 12, 2013	(What, Papers, Mar, Say, )	What the Papers Say, June 25, 2013
+	(What, Papers, June, Say, )	4.346991406817345
+Israel green-lights 1500 settler homes	(Israel, homes, greenlights, settler, )	Israel unveils 1,800 more settler homes
+	(Israel, homes, unveils, settler, )	4.332745006117227
+Piers Morgan questioned by police	(Piers, Morgan, police, questioned, )	Piers Morgan Interviewed by Police in Hacking Case
+	(Piers, Morgan, Police, Interviewed, )	3.6831836765546977
+Syrian Opposition Urges EU to Send Arms to Rebels	(Syrian, Opposition, Send, Rebels, Arms, )	Syrian opposition meets to choose interim PM
+	(Syrian, opposition, PM, interim, meets, )	2.0419450441007787
+Singapore stocks end up 0.11 pct	(Singapore, pct, end, eleven, stocks, )	Singapore stocks close 0.54 pct higher
+	(Singapore, pct, close, Humiliating_Stories, stocks, )	3.0842369054146923
+Mumbai photojournalist gangrape case cracked, five accused arrested	(Mumbai, case, gangrape, photojournalist, cracked, )	Mumbai journalist gang-rape case: All five accused arrested
+	(Mumbai, case, gangrape, journalist, neither_Interactive_Brokers, )	3.5632106522361386
+'Israeli' arrested in Yemen Mossad spy	(Israeli, arrested, spy, Yemen, Mossad, )	Israeli forces detain 2 in Hebron arrest raid
+	(Israeli, arrest, detain, forces, whistleblower_WikiLeaks, )	1.982552654526682
+Pakistani girls learn a hard lesson	(Pakistani, girls, hard, learn, lesson, )	Pakistani girl shot by Taliban appears on video
+	(Pakistani, girl, shot, video, Taliban, )	1.7082878254273413
+Egypt's interim president appoints 2 advisors	(Egypts, interim, appoints, two, president, )	Egypt's interim president swears in new Cabinet
+	(Egypts, interim, swears, new, president, )	3.4489966938835166
+Funeral of Oscar Pistorius' girlfriend Reeva Steenkamp takes place	(Oscar, Steenkamp, girlfriend, takes, Pistorius, )	Oscar Pistorius 'shot Steenkamp in bathroom'
+	(Oscar, Steenkamp, bathroom, shot, Pistorius, )	3.2948708536075286
+China launches first air-to-air missile from chopper	(China, chopper, missile, first, launches, )	China court sentences Bo Xilai to life imprisonment for corruption
+	(China, Bo, imprisonment, life, Xilai, )	1.2146838267092608
+UK confirms fears over Syria's chemical weapons	(Syrias, fears, chemical, UK, weapons, )	End 'near' for Syria's chemical weapons
+	(Syrias, near, chemical, End, weapons, )	3.1598861496345574
+Egypt Crackdown Draws Condemnation	(Egypt, Crackdown, Condemnation, Draws, )	Egypt: Egypt crackdown sparks global outrage
+	(Egypt, crackdown, outrage, sparks, )	2.4456276075508923
+Two firefighters killed in New York ambush	(Two, ambush, York, killed, firefighters, )	Two New York firefighters in guarded condition after deadly ambush
+	(Two, ambush, York, deadly, firefighters, )	4.407112468404021
+Egypt swears in new interim leader	(Egypt, leader, interim, new, )	Egypt army cracks down on Brotherhood
+	(Egypt, army, cracks, cracks, )	1.4476183552584416
+Car bombing kills 17 in Pakistan	(kills, seventeen, bombing, Car, Pakistan, )	Suicide bomber kills 10 in Pakistan
+	(kills, ten, bomber, Suicide, Pakistan, )	3.4017090434411275
+Ten rescued off Waterford, Dublin coasts	(rescued, Ten, coasts, Waterford, Dublin, )	Six rescued after boat capsizes in Dublin Bay
+	(rescued, Six, Bay, capsizes, Dublin, )	3.002777743245715
+2 Pussy Riot Members Reunited in Krasnoyarsk	(Riot, two, Reunited, Pussy, Krasnoyarsk, )	Freed Pussy Riot pair stir up anti-Putin protests
+	(Riot, pair, Freed, Pussy, stir, )	2.682883167060496
+Senior Pakistani Taliban commander captured in Afghanistan	(Pakistani, Taliban, commander, captured, commander, )	Pakistan Shi'ites demand protection from militants
+	(Pakistan, militants, protection, Satrajit, demand, )	1.1892787711630721
+Driver in Spanish train crash faces questions from judge	(crash, train, Spanish, judge, train, )	Train driver in Spain crash questioned by judge
+	(crash, Train, Spain, judge, questioned, )	3.7517592584879957
+Stocks close 0.39% higher	(close, higher, Stocks, )	Singapore stocks close 0.31 pct lower
+	(close, lower, stocks, )	4.086664320169795
+US releases initial report on fracking impacts on water	(US, water, initial, impacts, releases, )	Men in China detained after taking girls to hotel
+	(China, hotel, taking, Men, girls, )	0.4170731654769874
+Russia 'alone' in blaming Syrian rebels for chemical attack: US	(Russia, chemical, Syrian, rebels, blaming, )	Russia asks UN to consider its inquiry of Syria chemical arms use
+	(Russia, chemical, Syria, UN, consider, )	3.223768191581759
+Philippines, rebels reach wealth-sharing deal	(Philippines, deal, rebels, reach, )	Philippines and rebels reach 'wealth deal'
+	(Philippines, deal, rebels, reach, )	4.999999999999999
+Death toll from west Chinas violence rises to 35	(Death, Chinas, west, violence, rises, )	Urgent: Death toll from NE China fire rises to 112
+	(Death, China, NE, fire, rises, )	2.996723394212744
+Israel launches airstrike in Gaza	(Israel, launches, airstrike, Gaza, )	Israel launches air strikes near Damascus
+	(Israel, launches, strikes, Damascus, )	2.9535468689977544
+Floods leave six dead in Philippines	(Philippines, six, Floods, leave, dead, )	Heavy rains leave 18 dead in Philippines
+	(Philippines, eighteen, rains, leave, dead, )	4.020150658708514
+Mars rover collects first bedrock sample	(first, collects, rover, sample, bedrock, )	Wawrinka reaches first grand slam final
+	(first, reaches, slam, Wawrinka, grand, )	1.335165272579551
+Imran to contest from four NA seats	(Imran, seats, NA, four, contest, )	Imran Khan to contest elections from four NA seats
+	(Imran, seats, NA, four, contest, )	4.999999999999999
+Trailblazing Israeli electric car company Better Place to fold	(Trailblazing, electric, Israeli, Israeli, company, )	Trailblazing Israeli electric car company to fold
+	(Trailblazing, electric, Israeli, Israeli, company, )	4.999999999999999
+Houston Texans head coach Gary Kubiak hospitalized after collapsing at game	(Texans, coach, Gary, collapsing, hospitalized, )	Texans coach Gary Kubiak in stable condition after collapse
+	(Texans, coach, Gary, collapse, condition, )	4.03147693569274
+Pro-Pak Taliban warlord killed in US drone strike	(Taliban, killed, warlord, US, killed, )	Taliban commander killed in US drone strike
+	(Taliban, killed, commander, US, killed, )	4.087102570409064
+Ankeet Chavan granted conditional bail for marriage	(Chavan, granted, marriage, conditional, bail, )	Ankeet Chavan granted bail to get married
+	(Chavan, granted, married, NewsTrack_Sports, bail, )	3.52136036652559
+Car bomb kills 20 in northwest Syria	(Car, twenty, kills, northwest, Syria, )	Car bomb in northern Syria kills 20
+	(Car, twenty, kills, northern, Syria, )	4.651931408438228
+South Korean soldiers kill man trying to cross border into North	(North, South, Korean, border, cross, )	North Korea Shuts Last Remaining Hotline to South
+	(North, South, Korea, Shuts, Last, )	2.7967624387341288
+Up to 50 dead in Spanish train crash	(dead, fifty, Up, Spanish, train, )	Over 70 dead in Spanish high-speed train crash
+	(dead, seventy, Over, Spanish, train, )	4.106187887180213
+Five foreigners sentenced to death for drug smuggling in Egypt	(Egypt, death, Five, smuggling, sentenced, )	Egypt sentences Pakistani amid 5 to death for drug smuggling
+	(Egypt, death, five, smuggling, sentences, )	3.9753019700517127
+French train derails south of Paris	(French, train, south, south, Paris, )	French train passengers tell of crash ordeal
+	(French, train, crash, ordeal, ordeal, )	2.0598754632755365
+Former spokesman for U.S. President Ronald Reagan dies	(Former, spokesman, dies, Ronald, US, )	Former Reagan spokesman Larry Speakes dies at 74
+	(Former, spokesman, dies, Larry, C####_OAKVILLE_ON, )	3.480651478543874
+Egypt votes on new constitution	(constitution, votes, Egypt, new, )	Egyptians vote on divisive constitution
+	(constitution, vote, Egyptians, divisive, )	3.0095420346729953
+Obama meets Mandela family as icon remains in hospital	(Mandela, meets, Obama, family, hospital, )	Obamas to meet Mandela family wont visit hospital
+	(Mandela, meet, Obamas, family, hospital, )	4.1756908157078865
+Iran Moderate Wins Presidency by a Large Margin	(Iran, Margin, Wins, Wins, Moderate, )	Iran threatens to trigger oil price war
+	(Iran, price, jeopardizes, threatens, trigger, )	1.1923315027680603
+Weak earnings drag US stocks lower in early trade	(Weak, drag, stocks, trade, earnings, )	Weak earnings drag stocks lower on Wall Street
+	(Weak, drag, stocks, Wall, earnings, )	3.9676906051815037
+Man who battled Fukushima disaster dies of cancer	(dies, Man, disaster, cancer, battled, )	Former plant chief who battled Fukushima disaster dies of cancer
+	(dies, Former, disaster, cancer, battled, )	4.012122333272399
+Three feared dead after helicopter crashes into pub	(Three, helicopter, crashes, dead, dead, )	Three feared dead after helicopter pub crash
+	(Three, helicopter, crash, dead, dead, )	4.687571851232884
+Nigeria lawmaker charged over alleged bribery	(charged, Nigeria, bribery, lawmaker, alleged, )	Nigerian MP charged with accepting $3m bribe
+	(charged, Nigerian, bribe, MP, 3m, )	2.8318910983620493
+Rupee down 8 paise vs dollar in early trade	(Rupee, trade, trade, dollar, paise, )	Rupee up 22 paise against dollar in early trade
+	(Rupee, trade, trade, dollar, paise, )	4.999999999999998
+Iran says nuclear talks to resume next month	(Iran, says, talks, next, talks, )	Iran says capable of jamming foes' communication systems
+	(Iran, says, communication, foes, systems, )	2.2718015691172204
+Israel's Peres urges return to peace talks	(Israels, return, Peres, urges, talks, )	Israel's Peres calls for return to peace talks
+	(Israels, return, Peres, calls, talks, )	4.268620993848539
+Obama set to speak on Syria from White House at 1:15 p.m. EDT	(Obama, White, pm, Syria, speak, )	Obama to deliver statement on Syria at White House at 1:15 PM
+	(Obama, White, PM, Syria, deliver, )	3.591471606778115
+Indian stocks open lower	(Indian, stocks, lower, open, )	Indian stocks close lower
+	(Indian, stocks, lower, close, )	4.2299456435882945
+US readies possible solo action against Syria	(US, Syria, action, readies, possible, )	US makes case for action against Syria
+	(US, Syria, action, makes, case, )	3.4536641150210463
+Brief clashes with police in Belfast	(police, clashes, Brief, Belfast, )	Mourners clash with police in Tunisia
+	(police, clash, Mourners, Tunisia, )	2.06660143401837
+New World Trade Centre tallest building in US	(World, Trade, building, US, tallest, )	One World Trade Center Named Tallest US Building
+	(World, Trade, Building, US, Tallest, )	4.332262156375572
+US authorities charge man in ricin probe	(authorities, charge, man, US, ricin, )	South African police arrest 50 in farm protest
+	(police, arrest, fifty, protest, farm, )	0.9306761023623381
+China quake: Death toll rises	(China, toll, Death, quake, rises, )	China flu death toll rises to six
+	(China, toll, death, flu, rises, )	3.5688512038088525
+Four arrested as Bangladesh building toll rises to 352	(building, rises, Four, toll, arrested, )	Owner arrested as Bangladesh building toll reaches 372
+	(building, reaches, Owner, toll, arrested, )	3.231857373146167
+25 bodies found at raided Algerian gas plant	(bodies, plant, Algerian, found, gas, )	25 more bodies found at Algerian gas plant
+	(bodies, plant, Algerian, found, gas, )	4.999999999999999
+RI condemns use of chemical weapons in Syria	(weapons, condemns, Syria, use, chemical, )	Questions arise over chemical weapons claims in Syria
+	(weapons, claims, Syria, arise, chemical, )	3.1244647582746867
+Strong new quake hits shattered Pak region	(new, quake, Pak, Strong, hits, )	Powerful new earthquake hits shattered Pakistan region
+	(new, earthquake, Pakistan, Powerful, hits, )	3.8917518955662613
+Indian troops kill Pakistani soldier along Kashmir line of control	(Indian, troops, soldier, Pakistani, line, )	Indian troops raid Pakistani military post
+	(Indian, troops, military, Pakistani, post, )	3.419156170667364
+Pope Benedict XVI Says Goodbye to Cardinals	(Pope, XVI, Goodbye, Benedict, Cardinals, )	Pope Benedict XVI departs Vatican for last time
+	(Pope, XVI, departs, Benedict, Vatican, )	3.2158452980822054
+Fashion designer Lilly Pulitzer dies	(Lilly, designer, dies, Fashion, Pulitzer, )	Designer, Socialite Lilly Pulitzer Dies at 81
+	(Lilly, Designer, Dies, Socialite, Pulitzer, )	3.532463667301226
+China’s new carrier extends military modernization drive	(extends, modernization, modernization, military, drive, )	Chinese vice premier meets Australian Governor-General
+	(meets, Chinese, Junan, Mirror_Worlds, premier, )	0.2739353013088212
+Brazilian leader holds crisis talks on street protests	(leader, Brazilian, crisis, crisis, protests, )	Brazil leader promises reform vote
+	(leader, Brazil, reform, reform, vote, )	2.17782224550865
+Tropical Storm Andrea zipping up the East Coast	(Tropical, Coast, East, zipping, Storm, )	Tropical Storm Andrea to slide up East Coast
+	(Tropical, Coast, East, slide, Storm, )	4.128946081413833
+New Japan govt hints at joining Pacific trade pact: Report	(Japan, pact, trade, hints, hints, )	Japan, US hold talks linked to regional trade pact
+	(Japan, pact, trade, linked, talks, )	3.49015297607869
+Four dead in Indonesia train accident	(dead, Four, accident, Indonesia, train, )	Five dead as Indonesia train collides with fuel truck
+	(dead, Five, collides, Indonesia, train, )	4.128805402690745
+Israel advances plan to build 900 settlement homes	(Israel, homes, plan, build, settlement, )	Israel unveils plans for new settler homes
+	(Israel, homes, plans, new, settler, )	3.0897840529448337
+Miss New York wins Miss America crown	(Miss, New, America, crown, York, )	Miss New York is crowned Miss America
+	(Miss, New, America, crowned, York, )	4.381769812788151
+Websites battle nasty comments, anonymity	(Websites, nasty, battle, nasty, comments, )	Websites fight nasty comments by taking away anonymity
+	(Websites, nasty, fight, nasty, comments, )	4.633263534385098
+Austrian found hoarding 56 stolen skulls in home museum	(Austrian, skulls, found, stolen, found, )	Austrian man charged after 56 human skulls are found at his home
+	(Austrian, skulls, found, man, found, )	4.173836323948032
+US set for Obama inauguration	(US, inauguration, Obama, set, )	US House backs new sanctions before Iran inauguration
+	(US, inauguration, House, new, )	3.04436116255354
+Suspected Saudi militant dies in Lebanese custody	(Suspected, militant, Saudi, dies, custody, )	Suspected US drone kills 6 militants in Yemen
+	(Suspected, militants, Yemen, kills, six, )	2.598142446013323
+Man sets himself on fire on the National Mall	(Man, fire, Mall, National, fire, )	Man sets himself on fire at Washington's National Mall
+	(Man, fire, Mall, National, fire, )	4.999999999999998
+7 killed in attacks in Iraq	(killed, attacks, Iraq, seven, )	27 killed in attacks across Iraq
+	(killed, attacks, Iraq, across, )	3.795867654493489
+Thousands protest gay marriage	(Thousands, gay, marriage, gay, )	Thousands protest gay marriage in France
+	(Thousands, gay, marriage, gay, )	4.999999999999999
+India Ink: Image of the Day: January 27	(India, Image, January, Day, Ink, )	India Ink: Image of the Day: March 20
+	(India, Image, March, Day, Ink, )	4.879426537127595
+US Capitol Hill on lockdown after shots fired	(lockdown, Hill, lockdown, shots, Capitol, )	Watch live: US Capitol on lockdown after reports of shots fired
+	(lockdown, Watch, lockdown, shots, Capitol, )	4.025497400915945
+China's 1st Pilot Free Trade Zone Opens	(Trade, Chinas, Zone, 1st, Free, )	Shanghai Free Trade Zone begins operation
+	(Trade, Shanghai, Zone, begins, Free, )	3.531245175599303
+12 killed, 25 injured in bomb blast in NW Pakistan	(twelve, Pakistan, bomb, killed, blast, )	6 killed, 12 injured in blast in NW Pakista
+	(twelve, Pakista, Dear_Shareholder, killed, blast, )	3.3705213604065403
+Select images from Bangladesh building collapse	(building, Bangladesh, collapse, images, Select, )	At least 200 killed in Bangladesh building collapse
+	(building, Bangladesh, collapse, killed, At, )	2.999115110592729
+Chinese court upholds death penalties for Mekong murderers	(upholds, court, penalties, Mekong, death, )	Court upholds death sentences for Mekong murderers
+	(upholds, Court, sentences, Mekong, death, )	3.9167689171028073
+Egypt protesters 'to be dispersed'	(protesters, Egypt, dispersed, )	Abduction teacher to be sentenced
+	(teacher, Abduction, sentenced, )	0.0
+Gas cylinder blast on Pakistan school bus kills 17	(Gas, bus, Pakistan, school, blast, )	Deadly Gas Cylinder Blast Hits Pakistan School Bus
+	(Gas, Bus, Pakistan, School, Blast, )	3.8620746233808947
+North Korean cargo reveals missile repair trade with Cuba	(Korean, missile, cargo, North, Cuba, )	N Korean ship carrying Cuba missiles seized
+	(Korean, missiles, ship, N, Cuba, )	3.374094816551343
+Israeli forces detain 5 Palestinians in West Bank	(Israeli, Bank, five, forces, West, )	Israeli Forces Arrest Five Palestinians across West Bank
+	(Israeli, Bank, Five, Forces, West, )	4.048407490951475
+Protests sweep Brazil despite concession	(Protests, despite, concession, sweep, Brazil, )	Protests planned across Brazil despite concessions
+	(Protests, despite, concessions, across, Brazil, )	3.6663954851098244
+Angela Merkel wins third term in German elections	(Merkel, elections, German, wins, third, )	Merkel Wins Big in Germany Election
+	(Merkel, Election, Germany, Wins, Big, )	2.7011761834979957
+Turkish police mass near Istanbul park protest area	(police, Turkish, park, near, Istanbul, )	British police deny protecting sex abuser Savile
+	(police, British, deny, deny, Savile, )	1.6240892705053593
+South Korean Workers Start Leaving Joint Factory Zone	(South, Korean, Workers, Factory, Leaving, )	South Korean workers set to leave joint factory zone
+	(South, Korean, workers, factory, leave, )	3.8036485115167933
+Senate to vote on moving ahead on Hagel nod	(ahead, nod, Senate, moving, vote, )	Benedict comes home to new house and new Pope
+	(home, comes, house, house, Pope, )	0.47212066195869723
+15 killed and scores injured in suicide bombing at Russian train station	(train, fifteen, suicide, station, bombing, )	Suicide bomber kills 14 at Russian train station
+	(train, fourteen, Suicide, station, bomber, )	4.051112670885186
+Guatemala arrests software guru John McAfee	(guru, arrests, John, Guatemala, McAfee, )	Held in Guatemala, software guru McAfee fights deportation
+	(guru, deportation, fights, Guatemala, McAfee, )	3.286880168584007
+Cambodian opposition leader Sam Rainsy returns to stir up election	(opposition, Cambodian, election, leader, returns, )	Cambodia opposition head turns to parliament in poll bid
+	(opposition, Cambodia, poll, head, turns, )	2.633549740099709
+West hails Syria opposition vote to join peace talks	(opposition, Syria, hails, West, talks, )	Syrian opposition to name delegation for talks
+	(opposition, Syrian, name, delegation, talks, )	2.9275727601620014
+Obama travels to tornado-ravaged Oklahoma	(Obama, Oklahoma, travels, )	Obama visits tornado hit Oklahoma
+	(Obama, Oklahoma, visits, )	4.154168207074138
+No deal on fiscal cliff as Obama goes on holiday	(cliff, Obama, No, fiscal, deal, )	John Boehner: from humble origin, fiscal cliff may be his undoing
+	(cliff, Boehner, may, fiscal, undoing, )	2.8084211571396342
+Biden calls for trust in US-China relations	(Biden, trust, relations, calls, )	Biden calls for trust in building ‘new relationship’ with China
+	(Biden, trust, China, calls, )	3.7602683060010005
+Syria car bomb kills at least 12 in rebel-held town	(bomb, twelve, Syria, town, least, )	Sinai car bomb kills at least 10 Egyptian soldiers
+	(bomb, ten, Egyptian, soldiers, least, )	3.2080891725128815
+Kerry: $4b Palestinian Economic Plan Could Work	(Kerry, Palestinian, Could, Work, Economic, )	Kerry: No deal yet in nuclear talks with Iran
+	(Kerry, Iran, No, talks, nuclear, )	1.8909487963742306
+Bangladesh building collapse death toll hits 359	(building, Bangladesh, hits, collapse, toll, )	Indian building collapse death toll rises to 72
+	(building, Indian, rises, collapse, toll, )	3.4051365918638425
+Dozens dead in Central African Republic fighting	(dead, Republic, fighting, African, Central, )	98 dead in Central African Republic after clashes
+	(dead, Republic, clashes, African, Central, )	4.298977927535126
+Libya threatens army action against oil protesters	(army, threatens, action, protesters, oil, )	Bomb threat forces evacuation at Princeton
+	(forces, threat, evacuation, Bomb, orted, )	0.8978906837206865
+2 Turkish unions call for strike on Monday in protest over police violence	(strike, Turkish, unions, police, violence, )	Turkey unrest: Unions call for strike over police crackdown
+	(strike, Turkey, Unions, police, unrest, )	3.921896382785365
+[Ticker] Fitch upgrades Greek credit rating	(rating, Fitch, upgrades, upgrades, credit, )	Moody's upgrades Greek credit rating
+	(rating, Moodys, upgrades, upgrades, credit, )	4.174828850240992
+Gunmen ambush police boat in Nigeria oil region	(police, Nigeria, Gunmen, ambush, boat, )	Sudanese police block protest at human rights commission
+	(police, Sudanese, protest, block, block, )	1.5818978389910516
+Russians leaving Syria cross into Lebanon	(Lebanon, Russians, Russians, leaving, cross, )	Russia delivers humanitarian aid to Syrian refugees in Lebanon
+	(Lebanon, Russia, Russia, aid, delivers, )	2.1900264096875888
+Two U.S. soldiers killed in "insider" attack in Afghanistan	(killed, Afghanistan, Two, attack, insider, )	8 soldiers killed in bomb attack in NW Pakistan
+	(killed, Pakistan, eight, attack, bomb, )	3.048231827418389
+South African icon Nelson Mandela hospitalized	(South, Mandela, hospitalized, Nelson, African, )	South Africa's Nelson Mandela Hospitalized
+	(South, Mandela, Hospitalized, Nelson, Africas, )	3.847992662421197
+Ferrer cruises into Australian Open quarter-finals	(Ferrer, Open, cruises, quarterfinals, Australian, )	Ferrer beats Nishikori to advance to Australian Open quarterfinals
+	(Ferrer, Open, beats, quarterfinals, Australian, )	4.207317840074129
+UBS settles US mortgage lawsuit	(UBS, lawsuit, US, settles, US, )	UBS settles US mortgage lawsuit and takes £600m charge
+	(UBS, lawsuit, US, settles, US, )	4.999999999999999
+Pope Francis condemns global indifference to suffering	(Pope, Francis, condemns, suffering, indifference, )	Pope Francis commemorates dead migrants at Lampedusa
+	(Pope, Francis, dead, dead, migrants, )	2.3945588488306955
+Top judge Mansour sworn in as Egypt interim president	(sworn, judge, Top, Mansour, president, )	Justice Adly Mansour sworn in as Egypt interim president
+	(sworn, Justice, Civilian_Nuclear, Mansour, president, )	3.281287016450178
+North, South Korea agree to talks	(North, talks, South, agree, Korea, )	North, South Korea hold rare talks
+	(North, talks, South, hold, Korea, )	4.138857786349054
+Blast kills 10 young girls in eastern Afghanistan	(Blast, Afghanistan, eastern, ten, kills, )	Blast kills nine in southern Afghanistan: officials
+	(Blast, Afghanistan, southern, nine, kills, )	4.424375876762608
+Kenyan police arrest key Al-Shabaab recruiter, financier	(Kenyan, police, arrest, key, recruiter, )	Kenya: Pair Arrested By Anti-Terror Police
+	(Kenya, Police, Arrested, Pair, Pair, )	1.8393367438130663
+Obama to announce gun control plans Wednesday	(Obama, gun, Wednesday, control, plans, )	Obama to set out gun control plans
+	(Obama, gun, set, control, plans, )	4.018106485564461
+Bombs kill two people, wound dozens at Boston Marathon	(two, Bombs, Marathon, kill, Boston, )	Only two bombs found in Boston Marathon attack
+	(two, bombs, Marathon, attack, Boston, )	3.8260384961769747
+Syria’s chemical weapons could end up at sea	(chemical, weapons, sea, end, could, )	US to destroy Syria chemical weapon stockpile at sea
+	(chemical, weapon, sea, stockpile, destroy, )	2.7385563438663767
+President for early conclusion of Eco Partnership with Sri Lanka	(Lanka, President, Sri, Partnership, Eco, )	Pakistan PM for deeper economic ties with Sri Lanka
+	(Lanka, economic, Sri, ties, Genon, )	2.5286209028815345
+Three freed in centre abuse probe	(Three, freed, abuse, probe, )	Three storey building collapses in Ebute Meta
+	(Three, collapses, collapses, troop_drawdown_Karzai, )	1.4266339550911529
+Bomb explodes at Greek shopping mall, two people injured	(Bomb, shopping, injured, Greek, mall, )	Bomb explodes at Athens shopping mall, 2 wounded
+	(Bomb, shopping, wounded, Athens, mall, )	4.167603345973555
+Six Australians killed in Laos plane crash	(killed, Six, plane, Laos, crash, )	Dozens killed in Laos plane crash
+	(killed, Dozens, plane, Laos, crash, )	4.489953575515463
+Three dead, including gunman, in Maryland mall shooting	(shooting, Three, dead, mall, shooting, )	3 dead in Maryland mall shooting
+	(shooting, three, dead, mall, shooting, )	4.6265738240270835
+UN confirms sarin used in Syria attack	(sarin, confirms, used, attack, Syria, )	'War crime': U.N. finds sarin used in Syria chemical weapons attack
+	(sarin, finds, used, attack, Syria, )	4.3411357115510265
+7 killed in monster truck crash	(killed, seven, truck, crash, )	6 killed in Mexico ‘monster truck’ crash
+	(killed, six, Mexico, crash, )	3.627866843473517
+4 dead after boat capsizes off Florida coast	(dead, four, coast, capsizes, boat, )	8 dead after heavy rains on island of St Vincent
+	(dead, eight, island, rains, heavy, )	2.4961115945324166
+Cannes thief 'steals $53m of jewels' in armed heist at hotel	(steals, thief, armed, jewels, hotel, )	Robber steals $53 million worth of jewels in Cannes, police say
+	(steals, Robber, police, jewels, million, )	2.77835646395915
+Merkel Vies 3rd Term in Office in Germany Elections	(Merkel, Germany, Elections, Vies, Office, )	Merkel Wins Big in Germany Election
+	(Merkel, Germany, Election, Wins, Website_attotech.com, )	3.4269922472574943
+Gunmen kill female politician in Pakistan	(Gunmen, female, politician, kill, Pakistan, )	Gunmen kill 5 female teachers in Pakistan
+	(Gunmen, female, teachers, kill, Pakistan, )	4.04239554505287
+Ex-Virginia governor Bob McDonnell charged with corruption	(McDonnell, governor, Bob, charged, corruption, )	Virginia's ex-Gov. Bob McDonnell, wife charged with corruption
+	(McDonnell, wife, Bob, charged, corruption, )	4.074793568011727
+Sprinters Tyson Gay and Asafa Powell test positive for banned substance	(positive, test, Sprinters, Powell, Tyson, )	US sprinter Tyson Gay tests positive for banned substance
+	(positive, tests, sprinter, US, Tyson, )	3.360064652094123
+6.3-magnitude quake hits Honshu, Japan: CENC	(quake, hits, Honshu, Japan, )	Magnitude-6.0 quake jolts Santa Cruz Islands: CENC
+	(quake, jolts, Islands, HuMax_TAC_TM, )	1.5851765830310698
+Pakistan to release most senior Afghan Taliban prisoner	(Pakistan, senior, release, prisoner, Afghan, )	Pakistan to release senior Taliban commander on Saturday
+	(Pakistan, senior, release, commander, Saturday, )	3.105582210191857
+Kardashian Divorce Ready for Trial	(Ready, Trial, Kardashian, Divorce, )	Hard-hit hotels ready for price war
+	(ready, war, hotels, BY_PHILIP_BOWMAN, )	0.5639869833153676
+Egypt court orders release of Mubarak	(Egypt, court, orders, release, Mubarak, )	Egypt court orders Mubarak freed
+	(Egypt, court, orders, freed, Mubarak, )	4.230031291996684
+American investigators waiting to question arrested Boston bomber	(Boston, arrested, bomber, question, arrested, )	Police converge on street in search for Boston bomb suspect
+	(Boston, suspect, bomb, search, converge, )	2.581520183516514
+Nelson Mandela undergoes surgery	(  )	‘Nelson Mandela is recovering’
+	(  )	2.2092596194074794
+10 dead, five injured in SW China road accident	(dead, five, SW, China, accident, )	1 dead, 39 injured in E China road accident
+	(dead, one, E, China, accident, )	3.673470378537695
+Bollywood cuts costs by a third as rupee collapse bites	(Bollywood, costs, bites, collapse, rupee, )	Bollywood cuts costs as rupee crisis bites
+	(Bollywood, costs, bites, crisis, rupee, )	4.339238095086242
+Women to face higher car insurance premiums	(Women, insurance, higher, car, face, )	Women drivers to face insurance premium rise
+	(Women, insurance, rise, drivers, face, )	3.9138575742347683
+Tornadoes rip through Midwest, killing 6 and devastating neighborhoods	(Tornadoes, killing, six, devastating, Midwest, )	Tornadoes, damaging storms hit U.S. Midwest, killing 5
+	(Tornadoes, killing, five, damaging, Midwest, )	4.4297106743587396
+China gives US regulators access to audit records	(China, US, gives, regulators, records, )	China opposes US arms sales to Taiwan
+	(China, US, opposes, sales, sales, )	2.230735002275258
+Singapore stocks end up 0.26 percent	(Singapore, stocks, percent, end, )	Singapore stocks end up 0.11 pct
+	(Singapore, stocks, pct, end, )	4.451535452595935
+Iran, atomic agency in first talks since Rowhani election	(Iran, atomic, Rowhani, agency, since, )	IAEA, Iran to hold first nuclear talks since Rohani election
+	(Iran, nuclear, Rohani, IAEA, since, )	3.155261290501203
+China's new PM rejects US hacking claims	(US, Chinas, claims, hacking, PM, )	China Premier Li rejects 'groundless' US hacking accusations
+	(US, China, accusations, hacking, Premier, )	3.4415017498184644
+US Military Aircraft Hit in S. Sudan, 4 Wounded	(US, Sudan, Aircraft, Military, Hit, )	US military aircraft shot at during evacuation mission in South Sudan
+	(US, Sudan, aircraft, military, shot, )	3.6508002309441006
+New Zealand set to legalise gay marriage	(New, Zealand, marriage, gay, set, )	New Zealand votes to legalise same-sex marriage
+	(New, Zealand, marriage, samesex, PITTSBURG_KAN, )	3.1670088811455415
+Dzhokhar Tsarnaev pleads not guilty to Boston bombing charges	(Boston, charges, pleads, bombing, )	Dzhokhar Tsarnaev charged in Boston Marathon bombing
+	(Boston, charged, Marathon, bombing, )	3.2573401749792117
+Pictures of the day: 7 August 2013	(Pictures, day, )	Picture of the Day 
+	(Picture, Day, )	2.163277003792858
+Chinese general's son gets 10 years jail for rape	(Chinese, generals, son, Chinese, ten, )	Son of Chinese army singers gets 10 years' jail for gang rape
+	(Chinese, army, Son, Chinese, ten, )	3.872751592960989
+P.G. police seeking driver in crash that killed child	(police, seeking, child, killed, PG, )	Police seek gunmen in New Orleans Mother's Day parade shooting
+	(Police, seek, Mothers, shooting, shooting, )	2.277120956921244
+Egypt to hold presidential elections before parliamentary polls	(Egypt, parliamentary, presidential, elections, hold, )	Egypt's interim president swears in new Cabinet
+	(Egypts, Cabinet, president, interim, new, )	1.4086377315366194
+Pentagon adjusts plans for more intense attacks on Syria	(Syria, plans, attacks, Pentagon, adjusts, )	Pope thanks public for joining his Syria vigil
+	(Syria, public, vigil, vigil, thanks, )	1.3641617447105463
+East Timor bans martial arts clubs amid killings	(East, Timor, amid, martial, bans, )	East Timor Bans Martial Arts Schools Amid Killings
+	(East, Timor, Amid, Martial, Bans, )	4.018118577677392
+Afghan legislators approve new election law	(Afghan, law, new, approve, election, )	Afghan president approves new electon law
+	(Afghan, law, new, approves, electon, )	4.222028002689212
+In Pakistan, army adamant on fighting the other Taliban	(army, Taliban, Pakistan, fighting, adamant, )	Pak army adamant on fighting the other Taleban
+	(army, Taleban, Pak, fighting, adamant, )	4.47216967419404
+Egyptian army pushes to attack kidnappers	(Egyptian, kidnappers, pushes, army, attack, )	Egypt's Morsi rules out talks as hostage video appears
+	(Egypts, hostage, appears, Morsi, appears, )	1.2940328749983128
+South Africans Mourn as Mandela Buried	(South, Mandela, Africans, Mourn, Buried, )	South Africa holds state funeral for Mandela
+	(South, Mandela, Africa, funeral, state, )	2.86484746694664
+Witnesses hear 'loud booms' at Boston Marathon	(Boston, booms, Marathon, hear, hear, )	Report of two explosions at finish line of Boston Marathon
+	(Boston, explosions, Marathon, finish, line, )	2.4550519165059512
+Cryptic crossword - Saturday 27th April	(crossword, Cryptic, Saturday, April, )	Quiz crossword - Saturday 27th April
+	(crossword, Quiz, Saturday, April, )	3.732809764881249
+Costa Concordia captain to be tried for manslaughter	(Costa, Concordia, tried, manslaughter, captain, )	Costa Concordia survivors detail experience one year later
+	(Costa, Concordia, later, year, survivors, )	2.291272090136043
+Israeli Minister Slams Kerry's Boycott Warning	(Israeli, Minister, Warning, Boycott, Slams, )	Israeli minister slams Kerry’s boycott warning
+	(Israeli, minister, warning, boycott, slams, )	3.3856502262657453
+Kenya Supreme Court upholds election result	(Kenya, upholds, result, Court, election, )	Kenya SC upholds election result
+	(Kenya, upholds, result, SC, election, )	4.072424324519518
+Angelina Jolie's aunt dies of breast cancer	(Angelina, breast, cancer, Jolies, dies, )	Angelina Jolie and the complex truth about breast cancer 
+	(Angelina, breast, cancer, Jolie, truth, )	3.276842001437816
+Myanmar’s Suu Kyi urges party unity amid squabbles	(Suu, unity, urges, party, urges, )	Suu Kyi urges party unity amid squabbles
+	(Suu, unity, urges, party, urges, )	4.999999999999998
+10 Things to Know for Wednesday	(ten, Know, Things, Wednesday, )	10 Things to Know for Today
+	(ten, Know, Things, Today, )	4.017437210329159
+White House, defense contractors discuss harm of automatic spending cuts	(White, cuts, automatic, contractors, defense, )	White House, defense firms discuss automatic spending cuts
+	(White, cuts, automatic, firms, defense, )	4.42969384609139
+Venezuela's Hugo Chavez dies of cancer	(Chavez, Venezuelas, dies, dies, cancer, )	Venezuelan President Hugo Chavez dies of cancer at 58
+	(Chavez, Venezuelan, dies, dies, cancer, )	4.214049479063982
+Death toll in Colorado floods rises to four	(Colorado, floods, four, rises, Death, )	Thousands told to evacuate in Colorado flooding
+	(Colorado, flooding, Thousands, evacuate, DEVELOPED_FREE_MECHANICAL_ENERGY, )	1.888929188685579
+Former Zambian president arrested	(arrested, Zambian, president, )	Zambia's ex-President Rupiah Banda arrested
+	(arrested, Banda, Rupiah, )	2.4473103091958683
+US Senate confirms Yellen as Fed's next chair	(US, Senate, confirms, Yellen, chair, )	US Senate Confirms Janet Yellen as New Central Bank Chief
+	(US, Senate, Confirms, Yellen, Chief, )	3.6470610724018053
+26 Palestinian prisoners released from Israeli prison	(Palestinian, prisoners, Israeli, prison, released, )	Palestinian prisoner dies of cancer, unrest in Israel jails
+	(Palestinian, prisoner, Israel, dies, dies, )	2.439848381852782
+Asian shares rally after string of upbeat data	(Asian, data, upbeat, shares, string, )	Asian Markets up on Strong US Jobs Data
+	(Asian, Data, Strong, Markets, US, )	2.0542751021378125
+17 killed, 133 wounded in bomb attacks in northern Iraq	(Iraq, seventeen, wounded, attacks, killed, )	15 killed, 90 wounded in fresh attacks in Iraq
+	(Iraq, fifteen, wounded, attacks, killed, )	4.782418935067717
+Officer injured in India anti-rape protests dies	(injured, protests, India, Officer, dies, )	Indian policeman injured in gang-rape protest dies
+	(injured, protest, Indian, policeman, dies, )	3.6112791246470706
+Syria regime claims evacuation of 5,000 near Damascus	(Syria, Damascus, evacuation, near, claims, )	Syria army continues mop-up operations near Damascus
+	(Syria, Damascus, army, near, continues, )	3.3687558856767823
+Cyprus bailout remarks alarm markets	(bailout, Cyprus, markets, remarks, alarm, )	Why Cyprus bailout is nothing more than usual euro nonsense
+	(bailout, Cyprus, euro, nonsense, usual, )	2.2936852459671946
+Faction Names Bianca Ojukwu APGA National Leader	(Bianca, Ojukwu, APGA, Leader, National, )	Bianca Ojukwu becomes APGA national leader
+	(Bianca, Ojukwu, APGA, leader, national, )	3.919906117926518
+US Cannot 'Conclusively Determine' Chemical Weapons Use in Syria	(US, Use, Syria, Weapons, Determine, )	U.S. Sees No Conclusive Evidence of Chemical Arms Use by Syria
+	(US, Use, Syria, Arms, Conclusive, )	3.6900988959773278
+Twelve killed as gunmen raid village	(Twelve, killed, raid, gunmen, )	Five Killed in Blasts in India
+	(Five, Killed, Blasts, India, )	1.925825307079692
+Egypt shuts down Muslim Brotherhood newspaper	(Egypt, Brotherhood, newspaper, Muslim, shuts, )	Egypt: Muslim Brotherhood deputy head arrested
+	(Egypt, Brotherhood, deputy, Muslim, head, )	3.1674816193996036
+Strong earthquake in western China kills 47 people	(Strong, Strong_quake_jolts, people, western, China, )	Strong earthquake in western China kills at least 75
+	(Strong, Strong_quake_jolts, least, western, China, )	4.11465609849486
+Nobel Prize winning author Doris Lessing dies	(Nobel, dies, Prize, dies, Lessing, )	Nobel laureate Doris Lessing dies at 94
+	(Nobel, dies, laureate, dies, Lessing, )	4.288442145609501
+Snowden thanks Russia for asylum	(Snowden, asylum, Russia, thanks, )	Snowden thanks Russia for granting asylum
+	(Snowden, asylum, Russia, thanks, )	4.999999999999999
+Senate confirms Yellen as Fed head	(Senate, head, Fed, Yellen, confirms, )	US Senate confirms Yellen as Fed's next chair
+	(Senate, chair, Feds, Yellen, confirms, )	3.5153007253463193
+French forces take key Mali town	(French, forces, key, take, town, )	French forces seize key town
+	(French, forces, key, seize, town, )	4.399767350266385
+Nicaragua, Venezuela offer asylum to Snowden	(asylum, Venezuela, offer, Snowden, Nicaragua, )	Bolivia's Morales says he would grant asylum to Snowden if asked
+	(asylum, Morales, grant, Snowden, By_ARMANDO_RIOS, )	2.7731537577537817
+Boston bombing suspect buried in Virginia	(Boston, suspect, bombing, Virginia, buried, )	Boston bomb suspect buried in Virginia cemetery
+	(Boston, suspect, bomb, Virginia, buried, )	4.578558386305961
+'Large and extremely dangerous' tornado heads towards Oklahoma City	(Oklahoma, tornado, City, towards, heads, )	Mom and baby among five killed as tornadoes rake Oklahoma City area
+	(Oklahoma, tornadoes, City, among, rake, )	3.23084257237318
+Hostage drama drags on after Alabama school bus shooting	(shooting, Alabama, drags, school, Hostage, )	Nevada: 2 dead, 2 hurt in middle school shooting
+	(shooting, Nevada, hurt, school, dead, )	2.730830607696985
+Palestinian president assigns academic to form West Bank gov't	(Palestinian, president, assigns, govt, academic, )	Palestinian president wants Israelis to talk peace
+	(Palestinian, president, wants, peace, peace, )	2.387699446810954
+5 killed, 50 injured in Pakistan blast	(injured, five, blast, Pakistan, killed, )	3 killed, 138 injured in Boston blasts: media
+	(injured, three, blasts, Boston, killed, )	3.743073267715597
+Pakistan's Malala leaves hospital to await surgery	(Malala, hospital, leaves, Pakistans, )	Malala leaves British hospital
+	(Malala, hospital, leaves, British, )	3.9437827022266805
+Internet, phone service restored in Syrian capital	(Internet, service, Syrian, restored, )	Internet service resumes in Syria
+	(Internet, service, Syria, resumes, )	3.58856599068164
+two found dead in swimming pool at essex hotel	(dead, essex, two, swimming, found, )	Man and woman found dead in Essex hotel swimming pool
+	(dead, Essex, Man, swimming, found, )	3.2591958624322377
+Syrian PM Survives Bomb Attack	(Syrian, PM, Bomb, Survives, Survives, )	Syrian PM survives bomb attack in capital
+	(Syrian, PM, bomb, survives, survives, )	3.497720852644223
+Pakistan condemns US drone strike in Shawal Area	(Pakistan, condemns, US, Shawal, strike, )	Pakistan condemns US drone strike in Miranshah
+	(Pakistan, condemns, US, Miranshah, strike, )	4.387411010861888
+Residents return to Texas blast site	(Residents, return, Texas, )	Residents return to Fallujah
+	(Residents, return, Fallujah, )	3.5686749000976317
+South Africa prays for Nelson Mandela	(South, Africa, prays, Mandela, Nelson, )	South Africa unites in prayer and song for Nelson Mandela
+	(South, Africa, prayer, Mandela, Nelson, )	4.5605935607902115
+Iran's Ahmadinejad may face charges over election appearance with aide	(Ahmadinejad, appearance, may, charges, election, )	Ahmadinejad may face charges over election appearance
+	(Ahmadinejad, appearance, may, charges, election, )	4.999999999999999
+At least 38 Morsi supporters die in clashes	(supporters, die, At, Morsi, least, )	Dozens of Morsi supporters killed in Egypt clashes
+	(supporters, killed, Dozens, Morsi, Egypt, )	2.5781959537318913
+Miliband pledges to strengthen minimum wage	(strengthen, Miliband, Miliband, wage, )	Portugal-China to strengthen scientific research ties
+	(strengthen, ties, scientific, ties, )	1.3604119317429166
+Singapore stocks close 0.44 pct lower	(Singapore, pct, lower, close, stocks, )	Singapore stocks close 0.5 pct higher
+	(Singapore, pct, higher, close, stocks, )	4.81078734652959
+Sniper waiting for result of appeal	(waiting, appeal, result, Sniper, )	New glories for China in striving for renewal
+	(striving, glories, China, New, )	0.3053114239164859
+US stock futures edge up ahead of jobs report	(futures, stock, ahead, edge, US, )	Stock futures edge higher, all eyes on Fed
+	(futures, Stock, higher, edge, higher, )	2.6141103144357736
+Chinese shares close lower on Wednesday	(lower, Wednesday, Chinese, shares, close, )	China stocks close lower on Friday
+	(lower, Friday, China, stocks, close, )	4.182670480484228
+Apple shares hit hard on iPhone disappointment	(Apple, disappointment, shares, hit, hard, )	Apple stock plunges 11% after earnings disappointment
+	(Apple, disappointment, stock, plunges, eleven, )	3.055920713074952
+EU renews sanctions against Zimbabwe	(EU, sanctions, renews, Zimbabwe, )	EU lifts diamond sanctions against Zimbabwe
+	(EU, sanctions, lifts, Zimbabwe, )	4.147748869013721
+occupied Palestinian territory: Palestinians rebuff US peace talks blueprint	(occupied, Palestinians, territory, Palestinian, rebuff, )	occupied Palestinian territory: Palestinians Face a Route to Nowhere
+	(occupied, Palestinians, territory, Palestinian, Face, )	4.092682563112887
+Owners, others charged in Bangladesh factory fire	(Bangladesh, others, factory, charged, fire, )	50 survivors found in Bangladesh factory
+	(Bangladesh, survivors, factory, found, fifty, )	2.350117265830871
+Egypt set to lure Gulf investors	(Egypt, lure, set, investors, )	Egypt seeks to lure investors ...
+	(Egypt, lure, seeks, investors, )	3.83128535671376
+US-Russia reach agreement on Syria	(reach, agreement, Syria, )	US-Russia reach agreement on Syria weapons
+	(reach, agreement, Syria, )	4.999999999999999
+Palestinians, Jordan coordinate stances on peace talks	(peace, Palestinians, coordinate, Jordan, talks, )	Hamas senior denies Gaza, PA coordinated on peace talks
+	(peace, Gaza, coordinated, senior, talks, )	3.642262937253847
+Voting canceled in three provinces in tense Thai election	(election, Thai, three, provinces, canceled, )	Cambodian opposition rejects Hun Sen election win
+	(election, Cambodian, win, opposition, rejects, )	2.1576079729857116
+Miss New York Crowned Miss America 2013	(Miss, New, America, Crowned, York, )	Miss New York is crowned Miss America
+	(Miss, New, America, crowned, York, )	4.509531673555406
+Obama cancels Moscow meeting with Putin	(Obama, meeting, cancels, Putin, )	Obama canceled meeting with Putin
+	(Obama, meeting, canceled, Putin, )	4.514550339885941
+KLCI Futures traded mixed at mid-day	(midday, KLCI, traded, mixed, )	KL shares mixed at mid-day
+	(midday, shares, shares, mixed, )	3.1825992455516543
+Suspected U.S. drone strike kills 5 in Pakistan	(US, strike, drone, five, Suspected, )	US drone strike kills at least ten in Pakistan
+	(US, strike, drone, ten, least, )	3.768652348007341
+Egypt court orders Mubarak release	(Egypt, release, court, Mubarak, orders, )	Egypt court turns down Mubarak's release request
+	(Egypt, release, court, Mubaraks, request, )	3.6441008203853476
+Hollande 'threatens legal action' after affair allegations	(Hollande, legal, affair, allegations, action, )	François Hollande threatens legal action over affair claims
+	(Hollande, legal, affair, claims, action, )	4.5176699728423575
+Iranian exiles report deaths in Iraq camp	(Iranian, camp, exiles, deaths, Iraq, )	At least 47 Iranian exiles killed at Iraq's Camp Ashraf
+	(Iranian, Camp, exiles, killed, Iraqs, )	3.7108637454418667
+'Blade Runner' Pistorius to dispute murder charge	(Pistorius, murder, charge, Blade, dispute, )	Pistorius cop on seven attempted murder charges
+	(Pistorius, murder, charges, cop, Tazed, )	2.6537946453323324
+Bomb blast kills 10 in southwest Pakistan	(Pakistan, blast, Bomb, kills, )	Major quake kills 39 in Pakistan
+	(Pakistan, quake, Major, kills, )	3.021078343358534
+Israeli forces detain 2 in Hebron arrest raid	(Israeli, detain, two, raid, detain, )	Israeli credibility on line over Iran nuclear challenge
+	(Israeli, nuclear, line, nuclear, challenge, )	1.2033820785800127
+Egyptians vote on Islamist-backed constitution	(vote, Egyptians, constitution, )	'Judge at polls directs voters on Egypt constitution vote'
+	(vote, Egypt, constitution, )	4.525558913807129
+David Cameron puts Sri Lanka on notice over war crime allegations	(Sri, crime, allegations, notice, Lanka, )	Sri Lanka warned over war crime allegations
+	(Sri, crime, allegations, warned, Lanka, )	4.17931750534312
+Mexico swears in president amid violent protests	(Mexico, amid, protests, swears, amid, )	Former New Mexico Gov. Richardson pressing North Korean test ban
+	(Mexico, Former, Koreans, ban, Korean, )	1.563331323414296
+Morsi supporters clash with riot police in Cairo	(riot, Cairo, supporters, clash, police, )	Protesters clash with riot police in Kiev
+	(riot, Kiev, Protesters, clash, police, )	3.597714679541108
+Four killed, scores wounded in clashes across Egypt	(Egypt, clashes, killed, Four, scores, )	Egypt violence: Student killed in clashes at Cairo’s Islamic university
+	(Egypt, clashes, killed, Student, university, )	3.0956284012105826
+Helicopter crashes near rail station in London	(Helicopter, crashes, London, )	Helicopter crashes in London
+	(Helicopter, crashes, London, )	4.999999999999999
+Indonesian capital prays for metro to ease traffic chaos	(metro, Indonesian, traffic, prays, chaos, )	Jakarta prays for metro to ease traffic chaos
+	(metro, Jakarta, traffic, prays, chaos, )	4.694096573962609
+Japanese planes flew into China's new defense zone	(Chinas, Japanese, new, planes, zone, )	Japan, S Korean military planes defy China's new defence zone
+	(Chinas, Japan, new, planes, zone, )	4.782469151135093
+Typhoon survivors raid Philippine stores	(Typhoon, Philippine, survivors, stores, raid, )	Typhoon Bopha kills 15 in S. Philippines
+	(Typhoon, Philippines, Bopha, fifteen, kills, )	1.9106428369567368
+Car Bomb Wounds 15 in Hezbollah Stronghold in Lebanon	(Car, Lebanon, Hezbollah, Bomb, Stronghold, )	Car bomb rocks Hezbollah stronghold in Lebanon
+	(Car, Lebanon, Hezbollah, bomb, stronghold, )	3.8607100523537463
+RF FM urges Syrian opposition to assist in immediate release of all foreigners captured in Syria	(opposition, urges, RF, RF, FM, )	S Korea opposition candidate closes poll gap
+	(opposition, closes, S, Korea, poll, )	1.856106204068113
+Five dead, 40 missing in Canada train disaster	(missing, forty, dead, Canada, disaster, )	8 dead, 11 missing in SW China landslide
+	(missing, eleven, dead, China, landslide, )	3.3383092042905953
+US Senate confirms Janet Yellen as US Federal Reserve chief	(Senate, Yellen, confirms, chief, US, )	Senate confirms Janet Yellen as next Federal Reserve Chair
+	(Senate, Yellen, confirms, Chair, ERNEST_DOROSZUK_QMI_AGENCY, )	3.1240917916415403
+Afghan police kill 5 Taliban fighters	(five, police, Afghan, kill, fighters, )	5 Taliban, 5 Afghan police killed in ambushes
+	(five, police, Afghan, killed, ambushes, )	3.491855787184791
+Khan Said named as new Pakistani Taliban leader after Hakimullah Mehsud killed in drone strike	(Pakistani, prototypal, leader, drone, killed, )	Pakistani Taliban chief Hakimullah Mehsud killed in drone strike
+	(Pakistani, prototypal, chief, drone, killed, )	4.3226051210823515
+At Least 66 Killed in Bomb Blasts in Iraq	(At, Least, Blasts, Iraq, Bomb, )	At Least 47 Killed In Baquba Blasts
+	(At, Least, Blasts, Baquba, In, )	3.2855611018515516
+Russia Destroys Over 75% of Its Chemical Weapons Stockpile	(Weapons, Destroys, Russia, Chemical, Over, )	Britain Sees Evidence Assad Could Use Chemical Weapons
+	(Weapons, Sees, Britain, Chemical, Could, )	3.203648843447264
+Iran earthquake death toll rises	(death, Iran, earthquake, rises, toll, )	Algeria hostage death toll rises
+	(death, Algeria, hostage, rises, toll, )	3.3486995098293892
+Suarez set for Cup comeback	(set, Suarez, comeback, Cup, )	French set for Mali ground combat
+	(set, Mali, combat, French, )	1.3035551944311752
+Maldives team in India to observe an election	(election, observe, team, Maldives, India, )	Testimony in trial of former FM Liberman begins
+	(trial, begins, former, FM, Testimony, )	0.4246067573019802
+Death toll rises to 6 as Storm Xaver batters northern Europe	(Storm, batters, toll, northern, Death, )	Storm death toll rises as wind, rain batters north. Europe
+	(Storm, batters, toll, north, death, )	4.111861051374606
+Pakistan releases top Afghan Taliban prisoner	(Pakistan, releases, top, Taliban, Afghan, )	Pakistan releases seven Afghan Taliban fighters
+	(Pakistan, releases, seven, Taliban, Afghan, )	4.182741210160234
+Gunmen kidnap airline pilots in Lebanon	(Gunmen, pilots, airline, Lebanon, kidnap, )	Gunmen kidnap 2 Turkish Airlines pilots in Lebanon
+	(Gunmen, pilots, Airlines, Lebanon, kidnap, )	4.605681498954635
+Mixed reactions to NZ same-sex marriage	(samesex, NZ, Mixed, marriage, reactions, )	New Zealand legalizes same-sex marriage
+	(samesex, Zealand, New, marriage, Workmates, )	2.4607459266158576
+TV weatherman Fred Talbot arrested over sex claims	(Talbot, sex, weatherman, Fred, claims, )	Weatherman Fred Talbot Held Over 'Sex Abuse'
+	(Talbot, Sex, Weatherman, Fred, Abuse, )	3.1807915563311964
+U.S. drone strike kills 5 in Pakistan	(Pakistan, strike, five, drone, kills, )	Pakistan drone strike kills up to six
+	(Pakistan, strike, six, drone, kills, )	4.944878608409393
+Building collapses in India; 25 feared trapped	(India, trapped, collapses, Building, feared, )	India building collapse kills 14; dozens trapped
+	(India, trapped, collapse, building, dozens, )	3.4301571038517173
+China detains city workers after fruit seller dies	(dies, workers, fruit, seller, detains, )	Napthine takes the reins after Baillieu's leadership crumbles
+	(crumbles, leadership, crumbles, takes, OTCBB_NGNM, )	0.4633100610863035
+Somalia's Shebab claims responsibility for Nairobi mall attack	(responsibility, claims, Shebab, attack, Somalias, )	Syrian rebels claim responsibility for killings in Lebanon
+	(responsibility, claim, rebels, killings, Lebanon, )	2.471628079270692
+Syrian troops push into strategic rebelheld town	(Syrian, town, push, troops, strategic, )	Syrian army pushes assault on rebel-held town
+	(Syrian, town, pushes, army, Dennis_Mazaris, )	3.02363211695159
+Israel agrees to release Palestinian prisoners	(Israel, prisoners, release, Palestinian, )	Israel releases 26 more Palestinian prisoners
+	(Israel, prisoners, releases, Palestinian, )	4.589921967649264
+Dozens die as clashes erupt at Morsi rally in Cairo	(clashes, rally, Morsi, Cairo, Cairo, )	More than 70 dead in clashes at Morsi rallies in Egypt
+	(clashes, rallies, Morsi, Egypt, Egypt, )	3.884228710891374
+Thai opposition protesters begin Bangkok shutdown	(Thai, protesters, shutdown, begin, Bangkok, )	Thai protesters launch Bangkok 'shutdown'
+	(Thai, protesters, shutdown, launch, Bangkok, )	4.203405981867144
+Spanish train crash driver to be questioned	(Spanish, train, crash, driver, questioned, )	Spanish train driver Garzon to be questioned by judge
+	(Spanish, train, Garzon, driver, questioned, )	3.941874804023299
+France Hails Breakthrough after U.S.-Russia Deal on Syria Weapons	(France, Deal, Hails, Syria, )	France Welcomes US-Russia Deal on Syria
+	(France, Deal, Welcomes, Syria, )	4.585890989965855
+ISAF soldier killed in Afghan 'insider attack'	(Afghan, killed, attack, soldier, insider, )	British soldier shot dead in Afghan ‘insider attack’
+	(Afghan, dead, shot, soldier, British, )	2.779192973481596
+About 60 Crushed to Death in Ivory Coast Stampede	(Ivory, Death, Stampede, Coast, )	61 dead in Ivory Coast stampede
+	(Ivory, dead, stampede, Coast, )	3.0555702929954114
+Glasgow Helicopter Crash Search Ends	(Glasgow, Crash, Ends, Search, Helicopter, )	Glasgow Helicopter Crash: At Least Six Dead
+	(Glasgow, Crash, Least, Six, Helicopter, )	3.4149542828171633
+Three dead in US marathon bomb	(marathon, bomb, US, Three, dead, )	Taliban denies involvement in Boston marathon bombing
+	(marathon, bombing, Taliban, Boston, involvement, )	1.867378834361976
+Swiss tourist gang-raped in India	(Swiss, India, gangraped, tourist, )	Swiss tourist gang-raped in India
+	(Swiss, India, gangraped, tourist, )	4.999999999999999
+India Braces for Massive Cyclone	(India, Cyclone, Braces, Massive, )	India issues red alert for cyclone Phailin
+	(India, cyclone, issues, alert, )	1.7774212811374805
+US Senator McCain meets opposition leaders in Ukraine	(meets, Ukraine, leaders, opposition, Senator, )	SFG meeting reviews situation in Mali
+	(meeting, Mali, formidable_obstacle, situation, SFG, )	0.7457083028941088
+Discipline against student gunman thought to have sparked Colorado shooting	(Discipline, thought, student, gunman, sparked, )	Discipline against student thought to be key to motive
+	(Discipline, thought, student, motive, key, )	3.308475225065973
+Many killed in Japan road tunnel collapse	(Many, killed, tunnel, collapse, Japan, )	Many killed in Syrian air strike
+	(Many, killed, strike, strike, Syrian, )	2.2413730619002212
+No plan to shut petrol pumps at night Moily	(petrol, plan, Moily, No, night, )	India govt rejects proposal to shut petrol pumps at night
+	(petrol, proposal, India, rejects, night, )	3.27903456457054
+Clinton to testify this month on Benghazi attack	(Clinton, Benghazi, attack, month, testify, )	Clinton returns to work, plans to testify on Benghazi attack
+	(Clinton, Benghazi, attack, plans, testify, )	4.114503215251698
+Tens of Thousands of Ukrainians Protest in Kyiv	(Tens, Thousands, Ukrainians, Kyiv, Protest, )	Tens of thousands line up to cast votes in Bhutan
+	(Tens, thousands, votes, Bhutan, HealthScout_News, )	1.3441422263772493
+Karzai to visit Pakistan for Taliban peace talks	(Taliban, Karzai, peace, visit, Pakistan, )	Afghan president extends visit to Pakistan for Taliban talks
+	(Taliban, Afghan, president, visit, Pakistan, )	3.345448768317556
+Thieves snatch English Channel swimmer's custom-made wheelchair	(Thieves, Channel, wheelchair, snatch, swimmers, )	Thieves steal Channel swimmer's wheelchair
+	(Thieves, Channel, wheelchair, steal, swimmers, )	4.506822524850105
+Three die after car crash at Tian'anmen	(Three, Tiananmen, crash, die, car, )	Three Killed In Crash At Tiananmen Square
+	(Three, Tiananmen, Crash, Killed, Square, )	2.8450843871820877
+Singapore shares open lower on Friday	(Singapore, open, Friday, lower, shares, )	Singapore shares open higher on Thursday
+	(Singapore, open, Thursday, higher, shares, )	4.778043539117041
+Obama pledges to reignite economy	(Obama, economy, pledges, reignite, )	Obama to press Congress to act on economy
+	(Obama, economy, act, am_DAMN_SLOW, )	2.4853144153047797
+Kurdish rebels to withdraw from Turkey in March: report	(Kurdish, withdraw, withdraw, Turkey, )	Kurdish rebels to withdraw from Turkey
+	(Kurdish, withdraw, withdraw, Turkey, )	4.999999999999999
+Two Earthquakes Hit Northwest China, 11 Dead	(China, Earthquakes, Two, Dead, )	Twin quakes kill 89 in China
+	(China, quakes, Twin, kill, )	2.4278953175627778
+'Whitey' Bulger given two consecutive life terms	(Whitey, Bulger, life, given, consecutive, )	Whitey Bulger gets life for racketeering, killings
+	(Whitey, Bulger, life, gets, racketeering, )	3.2503391779397233
+Kenyan forces caused mall collapse	(mall, mall, caused, collapse, Kenyan, )	Official says Kenyan forces caused mall collapse
+	(mall, mall, caused, collapse, Kenyan, )	4.999999999999999
+Japan revises GDP growth to annual 1.1 pct in Q3	(GDP, annual, eleven, revises, eleven, )	Japan’s GDP growth downgraded to annual 1.1%
+	(GDP, annual, eleven, downgraded, eleven, )	4.2388071666936105
+Pak missions in UAE gear up for elections	(elections, UAE, Pak, gear, missions, )	Islamist parties in Egypt unite for elections
+	(elections, Egypt, unite, parties, unite, )	1.3621154852607114
+Bangladesh building disaster death toll passes 500	(Bangladesh, building, disaster, death, passes, )	Bangladesh building collapse: death toll climbs to 580
+	(Bangladesh, building, collapse, death, climbs, )	3.3794153095777446
+Algeria hostage crisis ends; death toll unclear	(Algeria, crisis, ends, death, hostage, )	Algeria hostage crisis ends in bloodbath
+	(Algeria, crisis, ends, bloodbath, hostage, )	4.087775232750291
+Egypt ministry again urges end to pro-Morsi protests	(Egypt, protests, ministry, urges, ministry, )	Egypt: Child killed in Cairo clashes after pro-Morsi protest
+	(Egypt, protest, Child, Child, clashes, )	1.8135275679945198
+South Africa's Mandela taken to hospital	(South, hospital, Africas, Mandela, taken, )	South Africa: Mandela remains in hospital
+	(South, hospital, Africa, Mandela, remains, )	3.4979811309113282
+China yuan strengthens to 6.2689 against USD	(China, USD, yuan, strengthens, )	China yuan strengthens to new high against USD
+	(China, USD, yuan, strengthens, )	4.999999999999999
+Police question man in deadly LA boardwalk crash	(Police, LA, man, deadly, crash, )	Police arrest suspect in deadly LA driving attack
+	(Police, LA, suspect, deadly, driving, )	3.7897093933462638
